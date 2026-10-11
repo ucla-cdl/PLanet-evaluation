@@ -1,7 +1,8 @@
 from planet import *
 
-
-
+"""
+https://dl.acm.org/doi/pdf/10.1145/3586183.3606729
+"""
 gesture = ExperimentVariable("Gesture", options=[
     "Tap", "Double Tap", "Swipe Left", "Swipe Right",  "Swipe Up", "Swipe Down", 
     "Clockwise Swipe", "Counterclockwise Swipe", "Pinch", "Spread", "Rest"
@@ -9,10 +10,17 @@ gesture = ExperimentVariable("Gesture", options=[
 
 participants = Units(10)
 
+# Ten trials of all eleven gestures in a randomized order (110 recordings per
+# participant): ten repetition blocks, each a random order of the eleven gestures.
 design = (
     Design()
     .within_subjects(gesture)
+)
+
+repetitions = (
+    Design()
     .num_trials(10)
 )
 
-print(assign(participants, design))
+final = nest(inner=design, outer=repetitions)
+print(assign(participants, final))

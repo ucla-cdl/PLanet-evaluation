@@ -1,31 +1,2330 @@
 ***EXPERIMENT PLANS***
 
 plan 1:
+	trial 1: pronouns = atakushi
+	trial 2: pronouns = watashikanji
+	trial 3: pronouns = atashi
+	trial 4: pronouns = boku
+	trial 5: pronouns = uchi
+	trial 6: pronouns = ore
+	trial 7: pronouns = washi
+	trial 8: pronouns = jibun
+	trial 9: pronouns = watakushi
+	trial 10: pronouns = watashi
+plan 2:
+	trial 1: pronouns = boku
+	trial 2: pronouns = washi
+	trial 3: pronouns = watashi
+	trial 4: pronouns = watakushi
+	trial 5: pronouns = jibun
+	trial 6: pronouns = uchi
+	trial 7: pronouns = watashikanji
+	trial 8: pronouns = atakushi
+	trial 9: pronouns = ore
+	trial 10: pronouns = atashi
+plan 3:
+	trial 1: pronouns = ore
+	trial 2: pronouns = washi
+	trial 3: pronouns = uchi
+	trial 4: pronouns = atashi
+	trial 5: pronouns = atakushi
+	trial 6: pronouns = boku
+	trial 7: pronouns = jibun
+	trial 8: pronouns = watashi
+	trial 9: pronouns = watashikanji
+	trial 10: pronouns = watakushi
+plan 4:
+	trial 1: pronouns = watashikanji
+	trial 2: pronouns = boku
+	trial 3: pronouns = watashi
+	trial 4: pronouns = atashi
+	trial 5: pronouns = washi
+	trial 6: pronouns = atakushi
+	trial 7: pronouns = ore
+	trial 8: pronouns = jibun
+	trial 9: pronouns = watakushi
+	trial 10: pronouns = uchi
+plan 5:
+	trial 1: pronouns = watashikanji
+	trial 2: pronouns = atashi
+	trial 3: pronouns = boku
+	trial 4: pronouns = jibun
+	trial 5: pronouns = watakushi
+	trial 6: pronouns = watashi
+	trial 7: pronouns = ore
+	trial 8: pronouns = atakushi
+	trial 9: pronouns = washi
+	trial 10: pronouns = uchi
+plan 6:
+	trial 1: pronouns = watashikanji
+	trial 2: pronouns = jibun
+	trial 3: pronouns = boku
+	trial 4: pronouns = atakushi
+	trial 5: pronouns = ore
+	trial 6: pronouns = atashi
+	trial 7: pronouns = uchi
+	trial 8: pronouns = washi
+	trial 9: pronouns = watakushi
+	trial 10: pronouns = watashi
+plan 7:
+	trial 1: pronouns = watakushi
+	trial 2: pronouns = atashi
+	trial 3: pronouns = washi
+	trial 4: pronouns = watashikanji
+	trial 5: pronouns = ore
+	trial 6: pronouns = boku
+	trial 7: pronouns = atakushi
+	trial 8: pronouns = watashi
+	trial 9: pronouns = uchi
+	trial 10: pronouns = jibun
+plan 8:
+	trial 1: pronouns = washi
+	trial 2: pronouns = uchi
+	trial 3: pronouns = atashi
+	trial 4: pronouns = jibun
+	trial 5: pronouns = atakushi
+	trial 6: pronouns = watashikanji
+	trial 7: pronouns = boku
+	trial 8: pronouns = ore
+	trial 9: pronouns = watakushi
+	trial 10: pronouns = watashi
+plan 9:
+	trial 1: pronouns = atakushi
+	trial 2: pronouns = watakushi
+	trial 3: pronouns = uchi
+	trial 4: pronouns = atashi
+	trial 5: pronouns = watashi
+	trial 6: pronouns = washi
+	trial 7: pronouns = watashikanji
+	trial 8: pronouns = boku
+	trial 9: pronouns = ore
+	trial 10: pronouns = jibun
+plan 10:
+	trial 1: pronouns = washi
+	trial 2: pronouns = watakushi
+	trial 3: pronouns = watashikanji
+	trial 4: pronouns = uchi
+	trial 5: pronouns = boku
+	trial 6: pronouns = atashi
+	trial 7: pronouns = watashi
+	trial 8: pronouns = ore
+	trial 9: pronouns = atakushi
+	trial 10: pronouns = jibun
+plan 11:
+	trial 1: pronouns = boku
+	trial 2: pronouns = ore
+	trial 3: pronouns = atashi
+	trial 4: pronouns = watakushi
+	trial 5: pronouns = watashi
+	trial 6: pronouns = jibun
+	trial 7: pronouns = washi
+	trial 8: pronouns = uchi
+	trial 9: pronouns = watashikanji
+	trial 10: pronouns = atakushi
+plan 12:
+	trial 1: pronouns = watashikanji
+	trial 2: pronouns = washi
+	trial 3: pronouns = uchi
+	trial 4: pronouns = watakushi
+	trial 5: pronouns = boku
+	trial 6: pronouns = atashi
+	trial 7: pronouns = watashi
+	trial 8: pronouns = atakushi
+	trial 9: pronouns = ore
+	trial 10: pronouns = jibun
+plan 13:
+	trial 1: pronouns = watakushi
+	trial 2: pronouns = uchi
+	trial 3: pronouns = atakushi
+	trial 4: pronouns = ore
+	trial 5: pronouns = atashi
+	trial 6: pronouns = washi
+	trial 7: pronouns = watashikanji
+	trial 8: pronouns = watashi
+	trial 9: pronouns = jibun
+	trial 10: pronouns = boku
+plan 14:
+	trial 1: pronouns = watashikanji
+	trial 2: pronouns = watakushi
+	trial 3: pronouns = ore
+	trial 4: pronouns = atakushi
+	trial 5: pronouns = uchi
+	trial 6: pronouns = boku
+	trial 7: pronouns = watashi
+	trial 8: pronouns = atashi
+	trial 9: pronouns = washi
+	trial 10: pronouns = jibun
+plan 15:
+	trial 1: pronouns = watashikanji
+	trial 2: pronouns = washi
+	trial 3: pronouns = boku
+	trial 4: pronouns = ore
+	trial 5: pronouns = atakushi
+	trial 6: pronouns = watashi
+	trial 7: pronouns = uchi
+	trial 8: pronouns = jibun
+	trial 9: pronouns = atashi
+	trial 10: pronouns = watakushi
+plan 16:
+	trial 1: pronouns = jibun
+	trial 2: pronouns = washi
+	trial 3: pronouns = boku
+	trial 4: pronouns = uchi
+	trial 5: pronouns = atashi
+	trial 6: pronouns = watashi
+	trial 7: pronouns = watakushi
+	trial 8: pronouns = ore
+	trial 9: pronouns = atakushi
+	trial 10: pronouns = watashikanji
+plan 17:
+	trial 1: pronouns = watashi
+	trial 2: pronouns = atakushi
+	trial 3: pronouns = uchi
+	trial 4: pronouns = boku
+	trial 5: pronouns = jibun
+	trial 6: pronouns = watakushi
+	trial 7: pronouns = atashi
+	trial 8: pronouns = watashikanji
+	trial 9: pronouns = washi
+	trial 10: pronouns = ore
+plan 18:
+	trial 1: pronouns = atakushi
+	trial 2: pronouns = watashi
+	trial 3: pronouns = washi
+	trial 4: pronouns = ore
+	trial 5: pronouns = boku
+	trial 6: pronouns = atashi
+	trial 7: pronouns = jibun
+	trial 8: pronouns = uchi
+	trial 9: pronouns = watashikanji
+	trial 10: pronouns = watakushi
+plan 19:
+	trial 1: pronouns = boku
+	trial 2: pronouns = uchi
+	trial 3: pronouns = jibun
+	trial 4: pronouns = atakushi
+	trial 5: pronouns = watashikanji
+	trial 6: pronouns = watashi
+	trial 7: pronouns = washi
+	trial 8: pronouns = atashi
+	trial 9: pronouns = ore
+	trial 10: pronouns = watakushi
+plan 20:
+	trial 1: pronouns = jibun
+	trial 2: pronouns = watashikanji
+	trial 3: pronouns = uchi
+	trial 4: pronouns = washi
+	trial 5: pronouns = atashi
+	trial 6: pronouns = watakushi
+	trial 7: pronouns = ore
+	trial 8: pronouns = atakushi
+	trial 9: pronouns = boku
+	trial 10: pronouns = watashi
+plan 21:
+	trial 1: pronouns = atakushi
+	trial 2: pronouns = uchi
+	trial 3: pronouns = watashi
+	trial 4: pronouns = watashikanji
+	trial 5: pronouns = washi
+	trial 6: pronouns = watakushi
+	trial 7: pronouns = ore
+	trial 8: pronouns = jibun
+	trial 9: pronouns = atashi
+	trial 10: pronouns = boku
+plan 22:
+	trial 1: pronouns = watashi
+	trial 2: pronouns = ore
+	trial 3: pronouns = watakushi
+	trial 4: pronouns = atakushi
+	trial 5: pronouns = washi
+	trial 6: pronouns = uchi
+	trial 7: pronouns = atashi
+	trial 8: pronouns = boku
+	trial 9: pronouns = watashikanji
+	trial 10: pronouns = jibun
+plan 23:
+	trial 1: pronouns = washi
+	trial 2: pronouns = watashi
+	trial 3: pronouns = atashi
+	trial 4: pronouns = ore
+	trial 5: pronouns = uchi
+	trial 6: pronouns = atakushi
+	trial 7: pronouns = watakushi
+	trial 8: pronouns = watashikanji
+	trial 9: pronouns = boku
+	trial 10: pronouns = jibun
+plan 24:
+	trial 1: pronouns = boku
+	trial 2: pronouns = washi
+	trial 3: pronouns = watashikanji
+	trial 4: pronouns = ore
+	trial 5: pronouns = uchi
+	trial 6: pronouns = watakushi
+	trial 7: pronouns = atakushi
+	trial 8: pronouns = watashi
+	trial 9: pronouns = atashi
+	trial 10: pronouns = jibun
+plan 25:
+	trial 1: pronouns = watakushi
+	trial 2: pronouns = jibun
+	trial 3: pronouns = atashi
+	trial 4: pronouns = boku
+	trial 5: pronouns = watashikanji
+	trial 6: pronouns = ore
+	trial 7: pronouns = washi
+	trial 8: pronouns = uchi
+	trial 9: pronouns = atakushi
+	trial 10: pronouns = watashi
+plan 26:
+	trial 1: pronouns = uchi
+	trial 2: pronouns = jibun
+	trial 3: pronouns = watashikanji
+	trial 4: pronouns = atakushi
+	trial 5: pronouns = boku
+	trial 6: pronouns = watashi
+	trial 7: pronouns = watakushi
+	trial 8: pronouns = ore
+	trial 9: pronouns = washi
+	trial 10: pronouns = atashi
+plan 27:
+	trial 1: pronouns = atakushi
+	trial 2: pronouns = watashi
+	trial 3: pronouns = washi
+	trial 4: pronouns = uchi
+	trial 5: pronouns = watakushi
+	trial 6: pronouns = watashikanji
+	trial 7: pronouns = boku
+	trial 8: pronouns = ore
+	trial 9: pronouns = atashi
+	trial 10: pronouns = jibun
+plan 28:
+	trial 1: pronouns = atashi
+	trial 2: pronouns = atakushi
+	trial 3: pronouns = washi
+	trial 4: pronouns = watakushi
+	trial 5: pronouns = ore
+	trial 6: pronouns = watashi
+	trial 7: pronouns = boku
+	trial 8: pronouns = jibun
+	trial 9: pronouns = watashikanji
+	trial 10: pronouns = uchi
+plan 29:
+	trial 1: pronouns = jibun
+	trial 2: pronouns = atakushi
+	trial 3: pronouns = atashi
+	trial 4: pronouns = watashi
+	trial 5: pronouns = watakushi
+	trial 6: pronouns = washi
+	trial 7: pronouns = ore
+	trial 8: pronouns = watashikanji
+	trial 9: pronouns = boku
+	trial 10: pronouns = uchi
+plan 30:
+	trial 1: pronouns = uchi
+	trial 2: pronouns = boku
+	trial 3: pronouns = watashi
+	trial 4: pronouns = watakushi
+	trial 5: pronouns = atakushi
+	trial 6: pronouns = watashikanji
+	trial 7: pronouns = jibun
+	trial 8: pronouns = washi
+	trial 9: pronouns = atashi
+	trial 10: pronouns = ore
+plan 31:
+	trial 1: pronouns = jibun
+	trial 2: pronouns = atashi
+	trial 3: pronouns = ore
+	trial 4: pronouns = washi
+	trial 5: pronouns = watashikanji
+	trial 6: pronouns = boku
+	trial 7: pronouns = watakushi
+	trial 8: pronouns = uchi
+	trial 9: pronouns = watashi
+	trial 10: pronouns = atakushi
+plan 32:
+	trial 1: pronouns = watashi
+	trial 2: pronouns = watakushi
+	trial 3: pronouns = watashikanji
+	trial 4: pronouns = washi
+	trial 5: pronouns = uchi
+	trial 6: pronouns = boku
+	trial 7: pronouns = atashi
+	trial 8: pronouns = atakushi
+	trial 9: pronouns = ore
+	trial 10: pronouns = jibun
+plan 33:
+	trial 1: pronouns = washi
+	trial 2: pronouns = watashikanji
+	trial 3: pronouns = atakushi
+	trial 4: pronouns = boku
+	trial 5: pronouns = ore
+	trial 6: pronouns = atashi
+	trial 7: pronouns = jibun
+	trial 8: pronouns = watashi
+	trial 9: pronouns = uchi
+	trial 10: pronouns = watakushi
+plan 34:
+	trial 1: pronouns = uchi
+	trial 2: pronouns = watashikanji
+	trial 3: pronouns = watakushi
+	trial 4: pronouns = ore
+	trial 5: pronouns = boku
+	trial 6: pronouns = atashi
+	trial 7: pronouns = jibun
+	trial 8: pronouns = washi
+	trial 9: pronouns = watashi
+	trial 10: pronouns = atakushi
+plan 35:
+	trial 1: pronouns = boku
+	trial 2: pronouns = watashikanji
+	trial 3: pronouns = washi
+	trial 4: pronouns = atakushi
+	trial 5: pronouns = watashi
+	trial 6: pronouns = ore
+	trial 7: pronouns = uchi
+	trial 8: pronouns = watakushi
+	trial 9: pronouns = jibun
+	trial 10: pronouns = atashi
+plan 36:
+	trial 1: pronouns = watakushi
+	trial 2: pronouns = washi
+	trial 3: pronouns = watashi
+	trial 4: pronouns = boku
+	trial 5: pronouns = ore
+	trial 6: pronouns = watashikanji
+	trial 7: pronouns = jibun
+	trial 8: pronouns = atashi
+	trial 9: pronouns = uchi
+	trial 10: pronouns = atakushi
+plan 37:
+	trial 1: pronouns = boku
+	trial 2: pronouns = washi
+	trial 3: pronouns = uchi
+	trial 4: pronouns = ore
+	trial 5: pronouns = jibun
+	trial 6: pronouns = watakushi
+	trial 7: pronouns = watashi
+	trial 8: pronouns = atakushi
+	trial 9: pronouns = atashi
+	trial 10: pronouns = watashikanji
+plan 38:
+	trial 1: pronouns = washi
+	trial 2: pronouns = ore
+	trial 3: pronouns = jibun
+	trial 4: pronouns = boku
+	trial 5: pronouns = watashikanji
+	trial 6: pronouns = uchi
+	trial 7: pronouns = atakushi
+	trial 8: pronouns = watashi
+	trial 9: pronouns = atashi
+	trial 10: pronouns = watakushi
+plan 39:
+	trial 1: pronouns = uchi
+	trial 2: pronouns = atakushi
+	trial 3: pronouns = watashi
+	trial 4: pronouns = watakushi
+	trial 5: pronouns = washi
+	trial 6: pronouns = jibun
+	trial 7: pronouns = ore
+	trial 8: pronouns = boku
+	trial 9: pronouns = watashikanji
+	trial 10: pronouns = atashi
+plan 40:
+	trial 1: pronouns = atashi
+	trial 2: pronouns = uchi
+	trial 3: pronouns = watashi
+	trial 4: pronouns = atakushi
+	trial 5: pronouns = boku
+	trial 6: pronouns = washi
+	trial 7: pronouns = jibun
+	trial 8: pronouns = watashikanji
+	trial 9: pronouns = ore
+	trial 10: pronouns = watakushi
+plan 41:
+	trial 1: pronouns = atakushi
+	trial 2: pronouns = atashi
+	trial 3: pronouns = jibun
+	trial 4: pronouns = watakushi
+	trial 5: pronouns = boku
+	trial 6: pronouns = washi
+	trial 7: pronouns = watashikanji
+	trial 8: pronouns = uchi
+	trial 9: pronouns = watashi
+	trial 10: pronouns = ore
+plan 42:
+	trial 1: pronouns = uchi
+	trial 2: pronouns = ore
+	trial 3: pronouns = watakushi
+	trial 4: pronouns = jibun
+	trial 5: pronouns = boku
+	trial 6: pronouns = atakushi
+	trial 7: pronouns = watashi
+	trial 8: pronouns = washi
+	trial 9: pronouns = atashi
+	trial 10: pronouns = watashikanji
+plan 43:
+	trial 1: pronouns = atashi
+	trial 2: pronouns = watakushi
+	trial 3: pronouns = ore
+	trial 4: pronouns = watashi
+	trial 5: pronouns = uchi
+	trial 6: pronouns = watashikanji
+	trial 7: pronouns = jibun
+	trial 8: pronouns = washi
+	trial 9: pronouns = boku
+	trial 10: pronouns = atakushi
+plan 44:
+	trial 1: pronouns = watashi
+	trial 2: pronouns = watashikanji
+	trial 3: pronouns = washi
+	trial 4: pronouns = jibun
+	trial 5: pronouns = watakushi
+	trial 6: pronouns = atakushi
+	trial 7: pronouns = uchi
+	trial 8: pronouns = atashi
+	trial 9: pronouns = boku
+	trial 10: pronouns = ore
+plan 45:
+	trial 1: pronouns = jibun
+	trial 2: pronouns = watashi
+	trial 3: pronouns = washi
+	trial 4: pronouns = watashikanji
+	trial 5: pronouns = atashi
+	trial 6: pronouns = watakushi
+	trial 7: pronouns = boku
+	trial 8: pronouns = ore
+	trial 9: pronouns = atakushi
+	trial 10: pronouns = uchi
+plan 46:
+	trial 1: pronouns = atakushi
+	trial 2: pronouns = atashi
+	trial 3: pronouns = washi
+	trial 4: pronouns = ore
+	trial 5: pronouns = uchi
+	trial 6: pronouns = boku
+	trial 7: pronouns = watakushi
+	trial 8: pronouns = watashikanji
+	trial 9: pronouns = watashi
+	trial 10: pronouns = jibun
+plan 47:
+	trial 1: pronouns = atashi
+	trial 2: pronouns = boku
+	trial 3: pronouns = watashi
+	trial 4: pronouns = watakushi
+	trial 5: pronouns = watashikanji
+	trial 6: pronouns = washi
+	trial 7: pronouns = uchi
+	trial 8: pronouns = ore
+	trial 9: pronouns = atakushi
+	trial 10: pronouns = jibun
+plan 48:
+	trial 1: pronouns = jibun
+	trial 2: pronouns = watashi
+	trial 3: pronouns = uchi
+	trial 4: pronouns = watashikanji
+	trial 5: pronouns = ore
+	trial 6: pronouns = washi
+	trial 7: pronouns = atashi
+	trial 8: pronouns = boku
+	trial 9: pronouns = atakushi
+	trial 10: pronouns = watakushi
+plan 49:
+	trial 1: pronouns = ore
+	trial 2: pronouns = atakushi
+	trial 3: pronouns = watashi
+	trial 4: pronouns = boku
+	trial 5: pronouns = washi
+	trial 6: pronouns = atashi
+	trial 7: pronouns = jibun
+	trial 8: pronouns = watashikanji
+	trial 9: pronouns = watakushi
+	trial 10: pronouns = uchi
+plan 50:
+	trial 1: pronouns = watashikanji
+	trial 2: pronouns = boku
+	trial 3: pronouns = watakushi
+	trial 4: pronouns = watashi
+	trial 5: pronouns = ore
+	trial 6: pronouns = uchi
+	trial 7: pronouns = atashi
+	trial 8: pronouns = atakushi
+	trial 9: pronouns = jibun
+	trial 10: pronouns = washi
+plan 51:
+	trial 1: pronouns = atakushi
+	trial 2: pronouns = boku
+	trial 3: pronouns = watashi
+	trial 4: pronouns = watakushi
+	trial 5: pronouns = washi
+	trial 6: pronouns = ore
+	trial 7: pronouns = atashi
+	trial 8: pronouns = jibun
+	trial 9: pronouns = watashikanji
+	trial 10: pronouns = uchi
+plan 52:
+	trial 1: pronouns = uchi
+	trial 2: pronouns = jibun
+	trial 3: pronouns = atashi
+	trial 4: pronouns = washi
+	trial 5: pronouns = ore
+	trial 6: pronouns = watashi
+	trial 7: pronouns = watashikanji
+	trial 8: pronouns = boku
+	trial 9: pronouns = atakushi
+	trial 10: pronouns = watakushi
+plan 53:
+	trial 1: pronouns = watakushi
+	trial 2: pronouns = atakushi
+	trial 3: pronouns = watashikanji
+	trial 4: pronouns = atashi
+	trial 5: pronouns = watashi
+	trial 6: pronouns = jibun
+	trial 7: pronouns = boku
+	trial 8: pronouns = washi
+	trial 9: pronouns = uchi
+	trial 10: pronouns = ore
+plan 54:
+	trial 1: pronouns = uchi
+	trial 2: pronouns = jibun
+	trial 3: pronouns = watakushi
+	trial 4: pronouns = atashi
+	trial 5: pronouns = ore
+	trial 6: pronouns = washi
+	trial 7: pronouns = atakushi
+	trial 8: pronouns = boku
+	trial 9: pronouns = watashikanji
+	trial 10: pronouns = watashi
+plan 55:
+	trial 1: pronouns = boku
+	trial 2: pronouns = uchi
+	trial 3: pronouns = washi
+	trial 4: pronouns = watakushi
+	trial 5: pronouns = watashikanji
+	trial 6: pronouns = jibun
+	trial 7: pronouns = ore
+	trial 8: pronouns = watashi
+	trial 9: pronouns = atakushi
+	trial 10: pronouns = atashi
+plan 56:
+	trial 1: pronouns = watashi
+	trial 2: pronouns = washi
+	trial 3: pronouns = boku
+	trial 4: pronouns = atakushi
+	trial 5: pronouns = atashi
+	trial 6: pronouns = jibun
+	trial 7: pronouns = watakushi
+	trial 8: pronouns = watashikanji
+	trial 9: pronouns = uchi
+	trial 10: pronouns = ore
+plan 57:
+	trial 1: pronouns = atakushi
+	trial 2: pronouns = uchi
+	trial 3: pronouns = watakushi
+	trial 4: pronouns = atashi
+	trial 5: pronouns = ore
+	trial 6: pronouns = watashi
+	trial 7: pronouns = watashikanji
+	trial 8: pronouns = washi
+	trial 9: pronouns = jibun
+	trial 10: pronouns = boku
+plan 58:
+	trial 1: pronouns = watakushi
+	trial 2: pronouns = watashi
+	trial 3: pronouns = boku
+	trial 4: pronouns = atakushi
+	trial 5: pronouns = watashikanji
+	trial 6: pronouns = washi
+	trial 7: pronouns = atashi
+	trial 8: pronouns = jibun
+	trial 9: pronouns = ore
+	trial 10: pronouns = uchi
+plan 59:
+	trial 1: pronouns = boku
+	trial 2: pronouns = watashikanji
+	trial 3: pronouns = ore
+	trial 4: pronouns = watakushi
+	trial 5: pronouns = uchi
+	trial 6: pronouns = atashi
+	trial 7: pronouns = atakushi
+	trial 8: pronouns = jibun
+	trial 9: pronouns = washi
+	trial 10: pronouns = watashi
+plan 60:
+	trial 1: pronouns = atakushi
+	trial 2: pronouns = washi
+	trial 3: pronouns = ore
+	trial 4: pronouns = uchi
+	trial 5: pronouns = watakushi
+	trial 6: pronouns = jibun
+	trial 7: pronouns = watashi
+	trial 8: pronouns = atashi
+	trial 9: pronouns = boku
+	trial 10: pronouns = watashikanji
+plan 61:
+	trial 1: pronouns = uchi
+	trial 2: pronouns = atakushi
+	trial 3: pronouns = washi
+	trial 4: pronouns = jibun
+	trial 5: pronouns = atashi
+	trial 6: pronouns = ore
+	trial 7: pronouns = watashi
+	trial 8: pronouns = boku
+	trial 9: pronouns = watakushi
+	trial 10: pronouns = watashikanji
+plan 62:
+	trial 1: pronouns = watakushi
+	trial 2: pronouns = atashi
+	trial 3: pronouns = washi
+	trial 4: pronouns = atakushi
+	trial 5: pronouns = jibun
+	trial 6: pronouns = boku
+	trial 7: pronouns = watashi
+	trial 8: pronouns = uchi
+	trial 9: pronouns = ore
+	trial 10: pronouns = watashikanji
+plan 63:
+	trial 1: pronouns = ore
+	trial 2: pronouns = atashi
+	trial 3: pronouns = boku
+	trial 4: pronouns = uchi
+	trial 5: pronouns = jibun
+	trial 6: pronouns = watakushi
+	trial 7: pronouns = atakushi
+	trial 8: pronouns = watashi
+	trial 9: pronouns = washi
+	trial 10: pronouns = watashikanji
+plan 64:
+	trial 1: pronouns = watashi
+	trial 2: pronouns = watashikanji
+	trial 3: pronouns = ore
+	trial 4: pronouns = jibun
+	trial 5: pronouns = washi
+	trial 6: pronouns = boku
+	trial 7: pronouns = watakushi
+	trial 8: pronouns = uchi
+	trial 9: pronouns = atakushi
+	trial 10: pronouns = atashi
+plan 65:
+	trial 1: pronouns = watashi
+	trial 2: pronouns = watashikanji
+	trial 3: pronouns = atashi
+	trial 4: pronouns = washi
+	trial 5: pronouns = jibun
+	trial 6: pronouns = ore
+	trial 7: pronouns = atakushi
+	trial 8: pronouns = uchi
+	trial 9: pronouns = watakushi
+	trial 10: pronouns = boku
+plan 66:
+	trial 1: pronouns = atakushi
+	trial 2: pronouns = atashi
+	trial 3: pronouns = watashi
+	trial 4: pronouns = washi
+	trial 5: pronouns = watashikanji
+	trial 6: pronouns = jibun
+	trial 7: pronouns = ore
+	trial 8: pronouns = watakushi
+	trial 9: pronouns = boku
+	trial 10: pronouns = uchi
+plan 67:
+	trial 1: pronouns = watakushi
+	trial 2: pronouns = watashikanji
+	trial 3: pronouns = atashi
+	trial 4: pronouns = atakushi
+	trial 5: pronouns = boku
+	trial 6: pronouns = watashi
+	trial 7: pronouns = jibun
+	trial 8: pronouns = uchi
+	trial 9: pronouns = washi
+	trial 10: pronouns = ore
+plan 68:
+	trial 1: pronouns = jibun
+	trial 2: pronouns = watakushi
+	trial 3: pronouns = atakushi
+	trial 4: pronouns = watashikanji
+	trial 5: pronouns = uchi
+	trial 6: pronouns = washi
+	trial 7: pronouns = ore
+	trial 8: pronouns = watashi
+	trial 9: pronouns = boku
+	trial 10: pronouns = atashi
+plan 69:
+	trial 1: pronouns = washi
+	trial 2: pronouns = watakushi
+	trial 3: pronouns = watashi
+	trial 4: pronouns = watashikanji
+	trial 5: pronouns = atashi
+	trial 6: pronouns = jibun
+	trial 7: pronouns = atakushi
+	trial 8: pronouns = ore
+	trial 9: pronouns = uchi
+	trial 10: pronouns = boku
+plan 70:
+	trial 1: pronouns = ore
+	trial 2: pronouns = jibun
+	trial 3: pronouns = boku
+	trial 4: pronouns = watakushi
+	trial 5: pronouns = watashikanji
+	trial 6: pronouns = watashi
+	trial 7: pronouns = washi
+	trial 8: pronouns = atakushi
+	trial 9: pronouns = atashi
+	trial 10: pronouns = uchi
+plan 71:
+	trial 1: pronouns = watakushi
+	trial 2: pronouns = watashi
+	trial 3: pronouns = washi
+	trial 4: pronouns = boku
+	trial 5: pronouns = atashi
+	trial 6: pronouns = ore
+	trial 7: pronouns = watashikanji
+	trial 8: pronouns = uchi
+	trial 9: pronouns = jibun
+	trial 10: pronouns = atakushi
+plan 72:
+	trial 1: pronouns = atakushi
+	trial 2: pronouns = watashi
+	trial 3: pronouns = watashikanji
+	trial 4: pronouns = boku
+	trial 5: pronouns = washi
+	trial 6: pronouns = jibun
+	trial 7: pronouns = watakushi
+	trial 8: pronouns = atashi
+	trial 9: pronouns = ore
+	trial 10: pronouns = uchi
+plan 73:
+	trial 1: pronouns = atakushi
+	trial 2: pronouns = watakushi
+	trial 3: pronouns = boku
+	trial 4: pronouns = watashi
+	trial 5: pronouns = washi
+	trial 6: pronouns = jibun
+	trial 7: pronouns = uchi
+	trial 8: pronouns = ore
+	trial 9: pronouns = atashi
+	trial 10: pronouns = watashikanji
+plan 74:
+	trial 1: pronouns = watashikanji
+	trial 2: pronouns = watashi
+	trial 3: pronouns = watakushi
+	trial 4: pronouns = jibun
+	trial 5: pronouns = boku
+	trial 6: pronouns = atashi
+	trial 7: pronouns = atakushi
+	trial 8: pronouns = washi
+	trial 9: pronouns = ore
+	trial 10: pronouns = uchi
+plan 75:
+	trial 1: pronouns = uchi
+	trial 2: pronouns = watashikanji
+	trial 3: pronouns = washi
+	trial 4: pronouns = jibun
+	trial 5: pronouns = watakushi
+	trial 6: pronouns = atashi
+	trial 7: pronouns = boku
+	trial 8: pronouns = ore
+	trial 9: pronouns = watashi
+	trial 10: pronouns = atakushi
+plan 76:
+	trial 1: pronouns = ore
+	trial 2: pronouns = uchi
+	trial 3: pronouns = watakushi
+	trial 4: pronouns = atakushi
+	trial 5: pronouns = jibun
+	trial 6: pronouns = washi
+	trial 7: pronouns = watashikanji
+	trial 8: pronouns = boku
+	trial 9: pronouns = watashi
+	trial 10: pronouns = atashi
+plan 77:
+	trial 1: pronouns = jibun
+	trial 2: pronouns = watakushi
+	trial 3: pronouns = atashi
+	trial 4: pronouns = ore
+	trial 5: pronouns = watashi
+	trial 6: pronouns = atakushi
+	trial 7: pronouns = washi
+	trial 8: pronouns = uchi
+	trial 9: pronouns = boku
+	trial 10: pronouns = watashikanji
+plan 78:
+	trial 1: pronouns = uchi
+	trial 2: pronouns = jibun
+	trial 3: pronouns = watashikanji
+	trial 4: pronouns = atashi
+	trial 5: pronouns = watashi
+	trial 6: pronouns = boku
+	trial 7: pronouns = washi
+	trial 8: pronouns = atakushi
+	trial 9: pronouns = ore
+	trial 10: pronouns = watakushi
+plan 79:
+	trial 1: pronouns = watashi
+	trial 2: pronouns = watakushi
+	trial 3: pronouns = atashi
+	trial 4: pronouns = watashikanji
+	trial 5: pronouns = jibun
+	trial 6: pronouns = atakushi
+	trial 7: pronouns = boku
+	trial 8: pronouns = uchi
+	trial 9: pronouns = washi
+	trial 10: pronouns = ore
+plan 80:
+	trial 1: pronouns = jibun
+	trial 2: pronouns = washi
+	trial 3: pronouns = atashi
+	trial 4: pronouns = boku
+	trial 5: pronouns = ore
+	trial 6: pronouns = uchi
+	trial 7: pronouns = watashi
+	trial 8: pronouns = watashikanji
+	trial 9: pronouns = watakushi
+	trial 10: pronouns = atakushi
+plan 81:
+	trial 1: pronouns = watakushi
+	trial 2: pronouns = watashikanji
+	trial 3: pronouns = ore
+	trial 4: pronouns = jibun
+	trial 5: pronouns = boku
+	trial 6: pronouns = atashi
+	trial 7: pronouns = washi
+	trial 8: pronouns = watashi
+	trial 9: pronouns = atakushi
+	trial 10: pronouns = uchi
+plan 82:
+	trial 1: pronouns = washi
+	trial 2: pronouns = boku
+	trial 3: pronouns = watakushi
+	trial 4: pronouns = jibun
+	trial 5: pronouns = uchi
+	trial 6: pronouns = watashi
+	trial 7: pronouns = atashi
+	trial 8: pronouns = ore
+	trial 9: pronouns = atakushi
+	trial 10: pronouns = watashikanji
+plan 83:
+	trial 1: pronouns = watakushi
+	trial 2: pronouns = atashi
+	trial 3: pronouns = atakushi
+	trial 4: pronouns = uchi
+	trial 5: pronouns = ore
+	trial 6: pronouns = watashi
+	trial 7: pronouns = watashikanji
+	trial 8: pronouns = jibun
+	trial 9: pronouns = boku
+	trial 10: pronouns = washi
+plan 84:
+	trial 1: pronouns = atashi
+	trial 2: pronouns = jibun
+	trial 3: pronouns = watashi
+	trial 4: pronouns = watashikanji
+	trial 5: pronouns = watakushi
+	trial 6: pronouns = atakushi
+	trial 7: pronouns = uchi
+	trial 8: pronouns = washi
+	trial 9: pronouns = ore
+	trial 10: pronouns = boku
+plan 85:
+	trial 1: pronouns = ore
+	trial 2: pronouns = uchi
+	trial 3: pronouns = watashi
+	trial 4: pronouns = jibun
+	trial 5: pronouns = washi
+	trial 6: pronouns = atashi
+	trial 7: pronouns = atakushi
+	trial 8: pronouns = boku
+	trial 9: pronouns = watakushi
+	trial 10: pronouns = watashikanji
+plan 86:
+	trial 1: pronouns = watashi
+	trial 2: pronouns = watakushi
+	trial 3: pronouns = ore
+	trial 4: pronouns = uchi
+	trial 5: pronouns = jibun
+	trial 6: pronouns = atakushi
+	trial 7: pronouns = washi
+	trial 8: pronouns = atashi
+	trial 9: pronouns = boku
+	trial 10: pronouns = watashikanji
+plan 87:
+	trial 1: pronouns = watashi
+	trial 2: pronouns = watakushi
+	trial 3: pronouns = watashikanji
+	trial 4: pronouns = jibun
+	trial 5: pronouns = washi
+	trial 6: pronouns = ore
+	trial 7: pronouns = uchi
+	trial 8: pronouns = boku
+	trial 9: pronouns = atashi
+	trial 10: pronouns = atakushi
+plan 88:
+	trial 1: pronouns = ore
+	trial 2: pronouns = watakushi
+	trial 3: pronouns = boku
+	trial 4: pronouns = uchi
+	trial 5: pronouns = watashikanji
+	trial 6: pronouns = atashi
+	trial 7: pronouns = watashi
+	trial 8: pronouns = washi
+	trial 9: pronouns = atakushi
+	trial 10: pronouns = jibun
+plan 89:
+	trial 1: pronouns = uchi
+	trial 2: pronouns = watashikanji
+	trial 3: pronouns = ore
+	trial 4: pronouns = atashi
+	trial 5: pronouns = atakushi
+	trial 6: pronouns = watakushi
+	trial 7: pronouns = watashi
+	trial 8: pronouns = jibun
+	trial 9: pronouns = boku
+	trial 10: pronouns = washi
+plan 90:
+	trial 1: pronouns = washi
+	trial 2: pronouns = ore
+	trial 3: pronouns = jibun
+	trial 4: pronouns = atashi
+	trial 5: pronouns = watakushi
+	trial 6: pronouns = uchi
+	trial 7: pronouns = watashikanji
+	trial 8: pronouns = atakushi
+	trial 9: pronouns = boku
+	trial 10: pronouns = watashi
+plan 91:
+	trial 1: pronouns = watashikanji
+	trial 2: pronouns = watakushi
+	trial 3: pronouns = atashi
+	trial 4: pronouns = watashi
+	trial 5: pronouns = ore
+	trial 6: pronouns = atakushi
+	trial 7: pronouns = washi
+	trial 8: pronouns = boku
+	trial 9: pronouns = jibun
+	trial 10: pronouns = uchi
+plan 92:
+	trial 1: pronouns = boku
+	trial 2: pronouns = ore
+	trial 3: pronouns = washi
+	trial 4: pronouns = watashi
+	trial 5: pronouns = atakushi
+	trial 6: pronouns = uchi
+	trial 7: pronouns = jibun
+	trial 8: pronouns = watashikanji
+	trial 9: pronouns = atashi
+	trial 10: pronouns = watakushi
+plan 93:
 	trial 1: pronouns = ore
 	trial 2: pronouns = atakushi
 	trial 3: pronouns = watakushi
+	trial 4: pronouns = watashi
+	trial 5: pronouns = jibun
+	trial 6: pronouns = watashikanji
+	trial 7: pronouns = atashi
+	trial 8: pronouns = boku
+	trial 9: pronouns = uchi
+	trial 10: pronouns = washi
+plan 94:
+	trial 1: pronouns = ore
+	trial 2: pronouns = washi
+	trial 3: pronouns = atakushi
+	trial 4: pronouns = jibun
+	trial 5: pronouns = watakushi
+	trial 6: pronouns = watashi
+	trial 7: pronouns = uchi
+	trial 8: pronouns = atashi
+	trial 9: pronouns = watashikanji
+	trial 10: pronouns = boku
+plan 95:
+	trial 1: pronouns = watashi
+	trial 2: pronouns = jibun
+	trial 3: pronouns = watashikanji
+	trial 4: pronouns = washi
+	trial 5: pronouns = ore
+	trial 6: pronouns = boku
+	trial 7: pronouns = atashi
+	trial 8: pronouns = watakushi
+	trial 9: pronouns = atakushi
+	trial 10: pronouns = uchi
+plan 96:
+	trial 1: pronouns = jibun
+	trial 2: pronouns = watakushi
+	trial 3: pronouns = watashikanji
+	trial 4: pronouns = atakushi
+	trial 5: pronouns = watashi
+	trial 6: pronouns = boku
+	trial 7: pronouns = uchi
+	trial 8: pronouns = washi
+	trial 9: pronouns = atashi
+	trial 10: pronouns = ore
+plan 97:
+	trial 1: pronouns = watashikanji
+	trial 2: pronouns = uchi
+	trial 3: pronouns = boku
+	trial 4: pronouns = washi
+	trial 5: pronouns = watakushi
+	trial 6: pronouns = atashi
+	trial 7: pronouns = atakushi
+	trial 8: pronouns = watashi
+	trial 9: pronouns = ore
+	trial 10: pronouns = jibun
+plan 98:
+	trial 1: pronouns = boku
+	trial 2: pronouns = watakushi
+	trial 3: pronouns = atashi
+	trial 4: pronouns = atakushi
+	trial 5: pronouns = ore
+	trial 6: pronouns = washi
+	trial 7: pronouns = watashikanji
+	trial 8: pronouns = jibun
+	trial 9: pronouns = watashi
+	trial 10: pronouns = uchi
+plan 99:
+	trial 1: pronouns = boku
+	trial 2: pronouns = atakushi
+	trial 3: pronouns = ore
+	trial 4: pronouns = atashi
+	trial 5: pronouns = watashi
+	trial 6: pronouns = watashikanji
+	trial 7: pronouns = jibun
+	trial 8: pronouns = watakushi
+	trial 9: pronouns = uchi
+	trial 10: pronouns = washi
+plan 100:
+	trial 1: pronouns = watashi
+	trial 2: pronouns = washi
+	trial 3: pronouns = uchi
+	trial 4: pronouns = ore
+	trial 5: pronouns = atashi
+	trial 6: pronouns = jibun
+	trial 7: pronouns = watashikanji
+	trial 8: pronouns = atakushi
+	trial 9: pronouns = watakushi
+	trial 10: pronouns = boku
+plan 101:
+	trial 1: pronouns = watashikanji
+	trial 2: pronouns = watashi
+	trial 3: pronouns = uchi
+	trial 4: pronouns = jibun
+	trial 5: pronouns = watakushi
+	trial 6: pronouns = atashi
+	trial 7: pronouns = washi
+	trial 8: pronouns = ore
+	trial 9: pronouns = atakushi
+	trial 10: pronouns = boku
+plan 102:
+	trial 1: pronouns = atashi
+	trial 2: pronouns = watashikanji
+	trial 3: pronouns = atakushi
+	trial 4: pronouns = watakushi
+	trial 5: pronouns = washi
+	trial 6: pronouns = uchi
+	trial 7: pronouns = watashi
+	trial 8: pronouns = boku
+	trial 9: pronouns = jibun
+	trial 10: pronouns = ore
+plan 103:
+	trial 1: pronouns = watakushi
+	trial 2: pronouns = ore
+	trial 3: pronouns = uchi
+	trial 4: pronouns = watashikanji
+	trial 5: pronouns = jibun
+	trial 6: pronouns = atakushi
+	trial 7: pronouns = washi
+	trial 8: pronouns = boku
+	trial 9: pronouns = atashi
+	trial 10: pronouns = watashi
+plan 104:
+	trial 1: pronouns = atashi
+	trial 2: pronouns = jibun
+	trial 3: pronouns = atakushi
+	trial 4: pronouns = uchi
+	trial 5: pronouns = boku
+	trial 6: pronouns = watashi
+	trial 7: pronouns = watashikanji
+	trial 8: pronouns = watakushi
+	trial 9: pronouns = ore
+	trial 10: pronouns = washi
+plan 105:
+	trial 1: pronouns = watakushi
+	trial 2: pronouns = watashikanji
+	trial 3: pronouns = atakushi
+	trial 4: pronouns = ore
+	trial 5: pronouns = uchi
+	trial 6: pronouns = boku
+	trial 7: pronouns = jibun
+	trial 8: pronouns = watashi
+	trial 9: pronouns = atashi
+	trial 10: pronouns = washi
+plan 106:
+	trial 1: pronouns = washi
+	trial 2: pronouns = watakushi
+	trial 3: pronouns = uchi
+	trial 4: pronouns = jibun
+	trial 5: pronouns = watashikanji
+	trial 6: pronouns = atakushi
+	trial 7: pronouns = watashi
+	trial 8: pronouns = atashi
+	trial 9: pronouns = ore
+	trial 10: pronouns = boku
+plan 107:
+	trial 1: pronouns = atashi
+	trial 2: pronouns = watakushi
+	trial 3: pronouns = jibun
+	trial 4: pronouns = atakushi
+	trial 5: pronouns = washi
+	trial 6: pronouns = watashikanji
+	trial 7: pronouns = boku
+	trial 8: pronouns = ore
+	trial 9: pronouns = watashi
+	trial 10: pronouns = uchi
+plan 108:
+	trial 1: pronouns = atakushi
+	trial 2: pronouns = washi
+	trial 3: pronouns = watakushi
 	trial 4: pronouns = watashikanji
 	trial 5: pronouns = atashi
+	trial 6: pronouns = watashi
+	trial 7: pronouns = ore
+	trial 8: pronouns = boku
+	trial 9: pronouns = uchi
+	trial 10: pronouns = jibun
+plan 109:
+	trial 1: pronouns = atakushi
+	trial 2: pronouns = ore
+	trial 3: pronouns = boku
+	trial 4: pronouns = watashi
+	trial 5: pronouns = washi
+	trial 6: pronouns = atashi
+	trial 7: pronouns = watashikanji
+	trial 8: pronouns = watakushi
+	trial 9: pronouns = uchi
+	trial 10: pronouns = jibun
+plan 110:
+	trial 1: pronouns = boku
+	trial 2: pronouns = washi
+	trial 3: pronouns = atakushi
+	trial 4: pronouns = jibun
+	trial 5: pronouns = watakushi
+	trial 6: pronouns = atashi
+	trial 7: pronouns = watashikanji
+	trial 8: pronouns = uchi
+	trial 9: pronouns = watashi
+	trial 10: pronouns = ore
+plan 111:
+	trial 1: pronouns = jibun
+	trial 2: pronouns = ore
+	trial 3: pronouns = watashikanji
+	trial 4: pronouns = watakushi
+	trial 5: pronouns = uchi
 	trial 6: pronouns = boku
+	trial 7: pronouns = atakushi
+	trial 8: pronouns = atashi
+	trial 9: pronouns = watashi
+	trial 10: pronouns = washi
+plan 112:
+	trial 1: pronouns = atakushi
+	trial 2: pronouns = watakushi
+	trial 3: pronouns = jibun
+	trial 4: pronouns = ore
+	trial 5: pronouns = watashi
+	trial 6: pronouns = washi
+	trial 7: pronouns = boku
+	trial 8: pronouns = atashi
+	trial 9: pronouns = uchi
+	trial 10: pronouns = watashikanji
+plan 113:
+	trial 1: pronouns = watashi
+	trial 2: pronouns = watashikanji
+	trial 3: pronouns = atashi
+	trial 4: pronouns = washi
+	trial 5: pronouns = watakushi
+	trial 6: pronouns = boku
+	trial 7: pronouns = uchi
+	trial 8: pronouns = jibun
+	trial 9: pronouns = atakushi
+	trial 10: pronouns = ore
+plan 114:
+	trial 1: pronouns = washi
+	trial 2: pronouns = uchi
+	trial 3: pronouns = watashi
+	trial 4: pronouns = watashikanji
+	trial 5: pronouns = watakushi
+	trial 6: pronouns = boku
+	trial 7: pronouns = jibun
+	trial 8: pronouns = ore
+	trial 9: pronouns = atashi
+	trial 10: pronouns = atakushi
+plan 115:
+	trial 1: pronouns = atashi
+	trial 2: pronouns = watashi
+	trial 3: pronouns = atakushi
+	trial 4: pronouns = watashikanji
+	trial 5: pronouns = watakushi
+	trial 6: pronouns = washi
+	trial 7: pronouns = uchi
+	trial 8: pronouns = boku
+	trial 9: pronouns = ore
+	trial 10: pronouns = jibun
+plan 116:
+	trial 1: pronouns = watakushi
+	trial 2: pronouns = uchi
+	trial 3: pronouns = atakushi
+	trial 4: pronouns = boku
+	trial 5: pronouns = washi
+	trial 6: pronouns = watashikanji
+	trial 7: pronouns = jibun
+	trial 8: pronouns = atashi
+	trial 9: pronouns = ore
+	trial 10: pronouns = watashi
+plan 117:
+	trial 1: pronouns = watashikanji
+	trial 2: pronouns = watashi
+	trial 3: pronouns = jibun
+	trial 4: pronouns = boku
+	trial 5: pronouns = atashi
+	trial 6: pronouns = watakushi
+	trial 7: pronouns = uchi
+	trial 8: pronouns = atakushi
+	trial 9: pronouns = ore
+	trial 10: pronouns = washi
+plan 118:
+	trial 1: pronouns = washi
+	trial 2: pronouns = atashi
+	trial 3: pronouns = watashi
+	trial 4: pronouns = ore
+	trial 5: pronouns = uchi
+	trial 6: pronouns = watakushi
+	trial 7: pronouns = watashikanji
+	trial 8: pronouns = jibun
+	trial 9: pronouns = atakushi
+	trial 10: pronouns = boku
+plan 119:
+	trial 1: pronouns = watashikanji
+	trial 2: pronouns = boku
+	trial 3: pronouns = watashi
+	trial 4: pronouns = uchi
+	trial 5: pronouns = atakushi
+	trial 6: pronouns = washi
+	trial 7: pronouns = ore
+	trial 8: pronouns = jibun
+	trial 9: pronouns = atashi
+	trial 10: pronouns = watakushi
+plan 120:
+	trial 1: pronouns = atashi
+	trial 2: pronouns = jibun
+	trial 3: pronouns = watakushi
+	trial 4: pronouns = ore
+	trial 5: pronouns = uchi
+	trial 6: pronouns = atakushi
+	trial 7: pronouns = watashi
+	trial 8: pronouns = boku
+	trial 9: pronouns = watashikanji
+	trial 10: pronouns = washi
+plan 121:
+	trial 1: pronouns = boku
+	trial 2: pronouns = jibun
+	trial 3: pronouns = atakushi
+	trial 4: pronouns = watashikanji
+	trial 5: pronouns = atashi
+	trial 6: pronouns = watakushi
+	trial 7: pronouns = ore
+	trial 8: pronouns = watashi
+	trial 9: pronouns = uchi
+	trial 10: pronouns = washi
+plan 122:
+	trial 1: pronouns = watashikanji
+	trial 2: pronouns = atakushi
+	trial 3: pronouns = washi
+	trial 4: pronouns = ore
+	trial 5: pronouns = boku
+	trial 6: pronouns = jibun
+	trial 7: pronouns = uchi
+	trial 8: pronouns = atashi
+	trial 9: pronouns = watakushi
+	trial 10: pronouns = watashi
+plan 123:
+	trial 1: pronouns = boku
+	trial 2: pronouns = watakushi
+	trial 3: pronouns = uchi
+	trial 4: pronouns = watashikanji
+	trial 5: pronouns = ore
+	trial 6: pronouns = washi
+	trial 7: pronouns = atakushi
+	trial 8: pronouns = atashi
+	trial 9: pronouns = jibun
+	trial 10: pronouns = watashi
+plan 124:
+	trial 1: pronouns = watakushi
+	trial 2: pronouns = ore
+	trial 3: pronouns = washi
+	trial 4: pronouns = jibun
+	trial 5: pronouns = atakushi
+	trial 6: pronouns = watashikanji
+	trial 7: pronouns = uchi
+	trial 8: pronouns = boku
+	trial 9: pronouns = atashi
+	trial 10: pronouns = watashi
+plan 125:
+	trial 1: pronouns = atashi
+	trial 2: pronouns = watashikanji
+	trial 3: pronouns = washi
+	trial 4: pronouns = watashi
+	trial 5: pronouns = uchi
+	trial 6: pronouns = boku
+	trial 7: pronouns = jibun
+	trial 8: pronouns = atakushi
+	trial 9: pronouns = watakushi
+	trial 10: pronouns = ore
+plan 126:
+	trial 1: pronouns = watashikanji
+	trial 2: pronouns = watakushi
+	trial 3: pronouns = ore
+	trial 4: pronouns = boku
+	trial 5: pronouns = washi
+	trial 6: pronouns = uchi
+	trial 7: pronouns = watashi
+	trial 8: pronouns = jibun
+	trial 9: pronouns = atakushi
+	trial 10: pronouns = atashi
+plan 127:
+	trial 1: pronouns = watakushi
+	trial 2: pronouns = uchi
+	trial 3: pronouns = boku
+	trial 4: pronouns = atashi
+	trial 5: pronouns = watashi
+	trial 6: pronouns = ore
+	trial 7: pronouns = washi
+	trial 8: pronouns = jibun
+	trial 9: pronouns = atakushi
+	trial 10: pronouns = watashikanji
+plan 128:
+	trial 1: pronouns = watashi
+	trial 2: pronouns = watashikanji
+	trial 3: pronouns = jibun
+	trial 4: pronouns = atashi
+	trial 5: pronouns = boku
+	trial 6: pronouns = uchi
+	trial 7: pronouns = ore
+	trial 8: pronouns = washi
+	trial 9: pronouns = watakushi
+	trial 10: pronouns = atakushi
+plan 129:
+	trial 1: pronouns = washi
+	trial 2: pronouns = watakushi
+	trial 3: pronouns = atakushi
+	trial 4: pronouns = watashi
+	trial 5: pronouns = atashi
+	trial 6: pronouns = uchi
+	trial 7: pronouns = watashikanji
+	trial 8: pronouns = ore
+	trial 9: pronouns = boku
+	trial 10: pronouns = jibun
+plan 130:
+	trial 1: pronouns = uchi
+	trial 2: pronouns = watashikanji
+	trial 3: pronouns = atakushi
+	trial 4: pronouns = ore
+	trial 5: pronouns = watakushi
+	trial 6: pronouns = watashi
+	trial 7: pronouns = jibun
+	trial 8: pronouns = boku
+	trial 9: pronouns = washi
+	trial 10: pronouns = atashi
+plan 131:
+	trial 1: pronouns = uchi
+	trial 2: pronouns = washi
+	trial 3: pronouns = boku
+	trial 4: pronouns = jibun
+	trial 5: pronouns = ore
+	trial 6: pronouns = atashi
+	trial 7: pronouns = watashi
+	trial 8: pronouns = watashikanji
+	trial 9: pronouns = atakushi
+	trial 10: pronouns = watakushi
+plan 132:
+	trial 1: pronouns = ore
+	trial 2: pronouns = uchi
+	trial 3: pronouns = boku
+	trial 4: pronouns = watakushi
+	trial 5: pronouns = atakushi
+	trial 6: pronouns = watashi
+	trial 7: pronouns = atashi
+	trial 8: pronouns = jibun
+	trial 9: pronouns = washi
+	trial 10: pronouns = watashikanji
+plan 133:
+	trial 1: pronouns = ore
+	trial 2: pronouns = atakushi
+	trial 3: pronouns = jibun
+	trial 4: pronouns = watakushi
+	trial 5: pronouns = boku
+	trial 6: pronouns = uchi
+	trial 7: pronouns = atashi
+	trial 8: pronouns = watashi
+	trial 9: pronouns = washi
+	trial 10: pronouns = watashikanji
+plan 134:
+	trial 1: pronouns = jibun
+	trial 2: pronouns = watashi
+	trial 3: pronouns = boku
+	trial 4: pronouns = watakushi
+	trial 5: pronouns = atakushi
+	trial 6: pronouns = watashikanji
+	trial 7: pronouns = uchi
+	trial 8: pronouns = atashi
+	trial 9: pronouns = washi
+	trial 10: pronouns = ore
+plan 135:
+	trial 1: pronouns = watashi
+	trial 2: pronouns = watashikanji
+	trial 3: pronouns = atakushi
+	trial 4: pronouns = watakushi
+	trial 5: pronouns = uchi
+	trial 6: pronouns = jibun
+	trial 7: pronouns = washi
+	trial 8: pronouns = atashi
+	trial 9: pronouns = boku
+	trial 10: pronouns = ore
+plan 136:
+	trial 1: pronouns = watakushi
+	trial 2: pronouns = atakushi
+	trial 3: pronouns = washi
+	trial 4: pronouns = ore
+	trial 5: pronouns = watashikanji
+	trial 6: pronouns = watashi
+	trial 7: pronouns = uchi
+	trial 8: pronouns = atashi
+	trial 9: pronouns = jibun
+	trial 10: pronouns = boku
+plan 137:
+	trial 1: pronouns = ore
+	trial 2: pronouns = atashi
+	trial 3: pronouns = boku
+	trial 4: pronouns = jibun
+	trial 5: pronouns = washi
+	trial 6: pronouns = uchi
+	trial 7: pronouns = watashikanji
+	trial 8: pronouns = atakushi
+	trial 9: pronouns = watakushi
+	trial 10: pronouns = watashi
+plan 138:
+	trial 1: pronouns = boku
+	trial 2: pronouns = uchi
+	trial 3: pronouns = watashikanji
+	trial 4: pronouns = atashi
+	trial 5: pronouns = watashi
+	trial 6: pronouns = jibun
+	trial 7: pronouns = ore
+	trial 8: pronouns = atakushi
+	trial 9: pronouns = washi
+	trial 10: pronouns = watakushi
+plan 139:
+	trial 1: pronouns = watashikanji
+	trial 2: pronouns = watashi
+	trial 3: pronouns = atashi
+	trial 4: pronouns = washi
+	trial 5: pronouns = atakushi
+	trial 6: pronouns = boku
+	trial 7: pronouns = jibun
+	trial 8: pronouns = ore
+	trial 9: pronouns = uchi
+	trial 10: pronouns = watakushi
+plan 140:
+	trial 1: pronouns = jibun
+	trial 2: pronouns = uchi
+	trial 3: pronouns = watashikanji
+	trial 4: pronouns = washi
+	trial 5: pronouns = atashi
+	trial 6: pronouns = watashi
+	trial 7: pronouns = watakushi
+	trial 8: pronouns = atakushi
+	trial 9: pronouns = ore
+	trial 10: pronouns = boku
+plan 141:
+	trial 1: pronouns = watashi
+	trial 2: pronouns = watakushi
+	trial 3: pronouns = watashikanji
+	trial 4: pronouns = ore
+	trial 5: pronouns = uchi
+	trial 6: pronouns = boku
+	trial 7: pronouns = jibun
+	trial 8: pronouns = washi
+	trial 9: pronouns = atashi
+	trial 10: pronouns = atakushi
+plan 142:
+	trial 1: pronouns = watashikanji
+	trial 2: pronouns = watakushi
+	trial 3: pronouns = washi
+	trial 4: pronouns = boku
+	trial 5: pronouns = ore
+	trial 6: pronouns = uchi
+	trial 7: pronouns = atakushi
+	trial 8: pronouns = watashi
+	trial 9: pronouns = jibun
+	trial 10: pronouns = atashi
+plan 143:
+	trial 1: pronouns = atakushi
+	trial 2: pronouns = boku
+	trial 3: pronouns = washi
+	trial 4: pronouns = atashi
+	trial 5: pronouns = uchi
+	trial 6: pronouns = watakushi
+	trial 7: pronouns = jibun
+	trial 8: pronouns = watashi
+	trial 9: pronouns = ore
+	trial 10: pronouns = watashikanji
+plan 144:
+	trial 1: pronouns = uchi
+	trial 2: pronouns = ore
+	trial 3: pronouns = boku
+	trial 4: pronouns = atashi
+	trial 5: pronouns = jibun
+	trial 6: pronouns = watashikanji
+	trial 7: pronouns = atakushi
+	trial 8: pronouns = watashi
+	trial 9: pronouns = washi
+	trial 10: pronouns = watakushi
+plan 145:
+	trial 1: pronouns = washi
+	trial 2: pronouns = atakushi
+	trial 3: pronouns = ore
+	trial 4: pronouns = watashikanji
+	trial 5: pronouns = watakushi
+	trial 6: pronouns = watashi
+	trial 7: pronouns = uchi
+	trial 8: pronouns = jibun
+	trial 9: pronouns = atashi
+	trial 10: pronouns = boku
+plan 146:
+	trial 1: pronouns = uchi
+	trial 2: pronouns = atakushi
+	trial 3: pronouns = ore
+	trial 4: pronouns = watashikanji
+	trial 5: pronouns = washi
+	trial 6: pronouns = jibun
+	trial 7: pronouns = watashi
+	trial 8: pronouns = watakushi
+	trial 9: pronouns = atashi
+	trial 10: pronouns = boku
+plan 147:
+	trial 1: pronouns = washi
+	trial 2: pronouns = watakushi
+	trial 3: pronouns = watashi
+	trial 4: pronouns = jibun
+	trial 5: pronouns = atakushi
+	trial 6: pronouns = ore
+	trial 7: pronouns = boku
+	trial 8: pronouns = uchi
+	trial 9: pronouns = atashi
+	trial 10: pronouns = watashikanji
+plan 148:
+	trial 1: pronouns = atakushi
+	trial 2: pronouns = watashikanji
+	trial 3: pronouns = boku
+	trial 4: pronouns = watashi
+	trial 5: pronouns = watakushi
+	trial 6: pronouns = washi
+	trial 7: pronouns = ore
+	trial 8: pronouns = jibun
+	trial 9: pronouns = atashi
+	trial 10: pronouns = uchi
+plan 149:
+	trial 1: pronouns = uchi
+	trial 2: pronouns = atakushi
+	trial 3: pronouns = watashi
+	trial 4: pronouns = atashi
+	trial 5: pronouns = jibun
+	trial 6: pronouns = watashikanji
+	trial 7: pronouns = ore
+	trial 8: pronouns = watakushi
+	trial 9: pronouns = boku
+	trial 10: pronouns = washi
+plan 150:
+	trial 1: pronouns = ore
+	trial 2: pronouns = uchi
+	trial 3: pronouns = boku
+	trial 4: pronouns = watashikanji
+	trial 5: pronouns = washi
+	trial 6: pronouns = atashi
+	trial 7: pronouns = atakushi
+	trial 8: pronouns = watakushi
+	trial 9: pronouns = jibun
+	trial 10: pronouns = watashi
+plan 151:
+	trial 1: pronouns = atashi
+	trial 2: pronouns = ore
+	trial 3: pronouns = watashi
+	trial 4: pronouns = watashikanji
+	trial 5: pronouns = boku
+	trial 6: pronouns = atakushi
+	trial 7: pronouns = uchi
+	trial 8: pronouns = jibun
+	trial 9: pronouns = watakushi
+	trial 10: pronouns = washi
+plan 152:
+	trial 1: pronouns = atakushi
+	trial 2: pronouns = watakushi
+	trial 3: pronouns = jibun
+	trial 4: pronouns = watashikanji
+	trial 5: pronouns = watashi
+	trial 6: pronouns = ore
+	trial 7: pronouns = washi
+	trial 8: pronouns = boku
+	trial 9: pronouns = atashi
+	trial 10: pronouns = uchi
+plan 153:
+	trial 1: pronouns = jibun
+	trial 2: pronouns = ore
+	trial 3: pronouns = washi
+	trial 4: pronouns = watakushi
+	trial 5: pronouns = boku
+	trial 6: pronouns = atakushi
+	trial 7: pronouns = watashikanji
+	trial 8: pronouns = atashi
+	trial 9: pronouns = watashi
+	trial 10: pronouns = uchi
+plan 154:
+	trial 1: pronouns = ore
+	trial 2: pronouns = uchi
+	trial 3: pronouns = jibun
+	trial 4: pronouns = washi
+	trial 5: pronouns = watashikanji
+	trial 6: pronouns = boku
+	trial 7: pronouns = watashi
+	trial 8: pronouns = atashi
+	trial 9: pronouns = watakushi
+	trial 10: pronouns = atakushi
+plan 155:
+	trial 1: pronouns = jibun
+	trial 2: pronouns = ore
+	trial 3: pronouns = watashikanji
+	trial 4: pronouns = watakushi
+	trial 5: pronouns = atakushi
+	trial 6: pronouns = washi
+	trial 7: pronouns = uchi
+	trial 8: pronouns = watashi
+	trial 9: pronouns = atashi
+	trial 10: pronouns = boku
+plan 156:
+	trial 1: pronouns = boku
+	trial 2: pronouns = uchi
+	trial 3: pronouns = jibun
+	trial 4: pronouns = watakushi
+	trial 5: pronouns = atashi
+	trial 6: pronouns = ore
+	trial 7: pronouns = atakushi
+	trial 8: pronouns = watashi
+	trial 9: pronouns = washi
+	trial 10: pronouns = watashikanji
+plan 157:
+	trial 1: pronouns = watakushi
+	trial 2: pronouns = washi
+	trial 3: pronouns = watashi
+	trial 4: pronouns = watashikanji
+	trial 5: pronouns = ore
+	trial 6: pronouns = jibun
+	trial 7: pronouns = atakushi
+	trial 8: pronouns = uchi
+	trial 9: pronouns = atashi
+	trial 10: pronouns = boku
+plan 158:
+	trial 1: pronouns = uchi
+	trial 2: pronouns = boku
+	trial 3: pronouns = watashikanji
+	trial 4: pronouns = washi
+	trial 5: pronouns = jibun
+	trial 6: pronouns = atakushi
+	trial 7: pronouns = atashi
+	trial 8: pronouns = watashi
+	trial 9: pronouns = ore
+	trial 10: pronouns = watakushi
+plan 159:
+	trial 1: pronouns = washi
+	trial 2: pronouns = jibun
+	trial 3: pronouns = ore
+	trial 4: pronouns = atakushi
+	trial 5: pronouns = atashi
+	trial 6: pronouns = boku
+	trial 7: pronouns = uchi
+	trial 8: pronouns = watashikanji
+	trial 9: pronouns = watashi
+	trial 10: pronouns = watakushi
+plan 160:
+	trial 1: pronouns = boku
+	trial 2: pronouns = watakushi
+	trial 3: pronouns = atashi
+	trial 4: pronouns = atakushi
+	trial 5: pronouns = uchi
+	trial 6: pronouns = washi
+	trial 7: pronouns = jibun
+	trial 8: pronouns = ore
+	trial 9: pronouns = watashi
+	trial 10: pronouns = watashikanji
+plan 161:
+	trial 1: pronouns = boku
+	trial 2: pronouns = watakushi
+	trial 3: pronouns = jibun
+	trial 4: pronouns = watashi
+	trial 5: pronouns = watashikanji
+	trial 6: pronouns = ore
+	trial 7: pronouns = atashi
+	trial 8: pronouns = uchi
+	trial 9: pronouns = atakushi
+	trial 10: pronouns = washi
+plan 162:
+	trial 1: pronouns = atashi
+	trial 2: pronouns = watashikanji
+	trial 3: pronouns = washi
+	trial 4: pronouns = watashi
+	trial 5: pronouns = jibun
+	trial 6: pronouns = watakushi
+	trial 7: pronouns = uchi
+	trial 8: pronouns = boku
+	trial 9: pronouns = ore
+	trial 10: pronouns = atakushi
+plan 163:
+	trial 1: pronouns = ore
+	trial 2: pronouns = watashikanji
+	trial 3: pronouns = boku
+	trial 4: pronouns = uchi
+	trial 5: pronouns = watashi
+	trial 6: pronouns = atakushi
+	trial 7: pronouns = watakushi
+	trial 8: pronouns = washi
+	trial 9: pronouns = atashi
+	trial 10: pronouns = jibun
+plan 164:
+	trial 1: pronouns = atakushi
+	trial 2: pronouns = ore
+	trial 3: pronouns = boku
+	trial 4: pronouns = atashi
+	trial 5: pronouns = uchi
+	trial 6: pronouns = watashi
+	trial 7: pronouns = jibun
+	trial 8: pronouns = watakushi
+	trial 9: pronouns = washi
+	trial 10: pronouns = watashikanji
+plan 165:
+	trial 1: pronouns = atakushi
+	trial 2: pronouns = boku
+	trial 3: pronouns = jibun
+	trial 4: pronouns = uchi
+	trial 5: pronouns = watashi
+	trial 6: pronouns = atashi
+	trial 7: pronouns = watakushi
+	trial 8: pronouns = ore
+	trial 9: pronouns = washi
+	trial 10: pronouns = watashikanji
+plan 166:
+	trial 1: pronouns = atashi
+	trial 2: pronouns = boku
+	trial 3: pronouns = watashi
+	trial 4: pronouns = watashikanji
+	trial 5: pronouns = jibun
+	trial 6: pronouns = atakushi
+	trial 7: pronouns = ore
+	trial 8: pronouns = washi
+	trial 9: pronouns = watakushi
+	trial 10: pronouns = uchi
+plan 167:
+	trial 1: pronouns = boku
+	trial 2: pronouns = jibun
+	trial 3: pronouns = watashi
+	trial 4: pronouns = atashi
+	trial 5: pronouns = washi
+	trial 6: pronouns = ore
+	trial 7: pronouns = uchi
+	trial 8: pronouns = watakushi
+	trial 9: pronouns = watashikanji
+	trial 10: pronouns = atakushi
+plan 168:
+	trial 1: pronouns = uchi
+	trial 2: pronouns = washi
+	trial 3: pronouns = ore
+	trial 4: pronouns = watashikanji
+	trial 5: pronouns = boku
+	trial 6: pronouns = atakushi
+	trial 7: pronouns = watakushi
+	trial 8: pronouns = watashi
+	trial 9: pronouns = jibun
+	trial 10: pronouns = atashi
+plan 169:
+	trial 1: pronouns = jibun
+	trial 2: pronouns = boku
+	trial 3: pronouns = atakushi
+	trial 4: pronouns = atashi
+	trial 5: pronouns = uchi
+	trial 6: pronouns = watashikanji
+	trial 7: pronouns = watakushi
+	trial 8: pronouns = washi
+	trial 9: pronouns = ore
+	trial 10: pronouns = watashi
+plan 170:
+	trial 1: pronouns = watakushi
+	trial 2: pronouns = ore
+	trial 3: pronouns = watashikanji
+	trial 4: pronouns = atashi
+	trial 5: pronouns = atakushi
+	trial 6: pronouns = boku
+	trial 7: pronouns = uchi
+	trial 8: pronouns = jibun
+	trial 9: pronouns = washi
+	trial 10: pronouns = watashi
+plan 171:
+	trial 1: pronouns = uchi
+	trial 2: pronouns = boku
+	trial 3: pronouns = jibun
+	trial 4: pronouns = ore
+	trial 5: pronouns = watakushi
+	trial 6: pronouns = washi
+	trial 7: pronouns = watashikanji
+	trial 8: pronouns = atashi
+	trial 9: pronouns = watashi
+	trial 10: pronouns = atakushi
+plan 172:
+	trial 1: pronouns = atashi
+	trial 2: pronouns = washi
+	trial 3: pronouns = watashi
+	trial 4: pronouns = jibun
+	trial 5: pronouns = boku
+	trial 6: pronouns = uchi
+	trial 7: pronouns = watakushi
+	trial 8: pronouns = ore
+	trial 9: pronouns = atakushi
+	trial 10: pronouns = watashikanji
+plan 173:
+	trial 1: pronouns = washi
+	trial 2: pronouns = atakushi
+	trial 3: pronouns = ore
+	trial 4: pronouns = watashikanji
+	trial 5: pronouns = watashi
+	trial 6: pronouns = uchi
+	trial 7: pronouns = boku
+	trial 8: pronouns = watakushi
+	trial 9: pronouns = jibun
+	trial 10: pronouns = atashi
+plan 174:
+	trial 1: pronouns = watashikanji
+	trial 2: pronouns = atashi
+	trial 3: pronouns = washi
+	trial 4: pronouns = watashi
+	trial 5: pronouns = uchi
+	trial 6: pronouns = ore
+	trial 7: pronouns = watakushi
+	trial 8: pronouns = jibun
+	trial 9: pronouns = atakushi
+	trial 10: pronouns = boku
+plan 175:
+	trial 1: pronouns = atashi
+	trial 2: pronouns = washi
+	trial 3: pronouns = uchi
+	trial 4: pronouns = ore
+	trial 5: pronouns = boku
+	trial 6: pronouns = jibun
+	trial 7: pronouns = watashikanji
+	trial 8: pronouns = atakushi
+	trial 9: pronouns = watakushi
+	trial 10: pronouns = watashi
+plan 176:
+	trial 1: pronouns = atakushi
+	trial 2: pronouns = uchi
+	trial 3: pronouns = washi
+	trial 4: pronouns = jibun
+	trial 5: pronouns = watashikanji
+	trial 6: pronouns = atashi
+	trial 7: pronouns = watakushi
+	trial 8: pronouns = boku
+	trial 9: pronouns = ore
+	trial 10: pronouns = watashi
+plan 177:
+	trial 1: pronouns = watakushi
+	trial 2: pronouns = washi
+	trial 3: pronouns = uchi
+	trial 4: pronouns = atakushi
+	trial 5: pronouns = ore
+	trial 6: pronouns = jibun
+	trial 7: pronouns = atashi
+	trial 8: pronouns = boku
+	trial 9: pronouns = watashi
+	trial 10: pronouns = watashikanji
+plan 178:
+	trial 1: pronouns = atashi
+	trial 2: pronouns = uchi
+	trial 3: pronouns = atakushi
+	trial 4: pronouns = boku
+	trial 5: pronouns = watakushi
+	trial 6: pronouns = jibun
+	trial 7: pronouns = ore
+	trial 8: pronouns = watashi
+	trial 9: pronouns = watashikanji
+	trial 10: pronouns = washi
+plan 179:
+	trial 1: pronouns = watashi
+	trial 2: pronouns = boku
+	trial 3: pronouns = jibun
+	trial 4: pronouns = atakushi
+	trial 5: pronouns = washi
+	trial 6: pronouns = watashikanji
+	trial 7: pronouns = uchi
+	trial 8: pronouns = atashi
+	trial 9: pronouns = watakushi
+	trial 10: pronouns = ore
+plan 180:
+	trial 1: pronouns = atakushi
+	trial 2: pronouns = washi
+	trial 3: pronouns = watashikanji
+	trial 4: pronouns = boku
+	trial 5: pronouns = uchi
+	trial 6: pronouns = atashi
+	trial 7: pronouns = watashi
+	trial 8: pronouns = watakushi
+	trial 9: pronouns = ore
+	trial 10: pronouns = jibun
+plan 181:
+	trial 1: pronouns = uchi
+	trial 2: pronouns = atashi
+	trial 3: pronouns = watashikanji
+	trial 4: pronouns = watashi
+	trial 5: pronouns = boku
+	trial 6: pronouns = atakushi
+	trial 7: pronouns = ore
+	trial 8: pronouns = washi
+	trial 9: pronouns = jibun
+	trial 10: pronouns = watakushi
+plan 182:
+	trial 1: pronouns = atakushi
+	trial 2: pronouns = ore
+	trial 3: pronouns = washi
+	trial 4: pronouns = watashi
+	trial 5: pronouns = boku
+	trial 6: pronouns = jibun
+	trial 7: pronouns = uchi
+	trial 8: pronouns = atashi
+	trial 9: pronouns = watakushi
+	trial 10: pronouns = watashikanji
+plan 183:
+	trial 1: pronouns = watakushi
+	trial 2: pronouns = atakushi
+	trial 3: pronouns = watashi
+	trial 4: pronouns = jibun
+	trial 5: pronouns = atashi
+	trial 6: pronouns = uchi
+	trial 7: pronouns = boku
+	trial 8: pronouns = ore
+	trial 9: pronouns = washi
+	trial 10: pronouns = watashikanji
+plan 184:
+	trial 1: pronouns = watashi
+	trial 2: pronouns = atakushi
+	trial 3: pronouns = jibun
+	trial 4: pronouns = watashikanji
+	trial 5: pronouns = boku
+	trial 6: pronouns = washi
+	trial 7: pronouns = watakushi
+	trial 8: pronouns = atashi
+	trial 9: pronouns = uchi
+	trial 10: pronouns = ore
+plan 185:
+	trial 1: pronouns = watashikanji
+	trial 2: pronouns = jibun
+	trial 3: pronouns = watakushi
+	trial 4: pronouns = uchi
+	trial 5: pronouns = atakushi
+	trial 6: pronouns = boku
+	trial 7: pronouns = washi
+	trial 8: pronouns = watashi
+	trial 9: pronouns = atashi
+	trial 10: pronouns = ore
+plan 186:
+	trial 1: pronouns = watashikanji
+	trial 2: pronouns = ore
+	trial 3: pronouns = atashi
+	trial 4: pronouns = jibun
+	trial 5: pronouns = atakushi
+	trial 6: pronouns = boku
+	trial 7: pronouns = watakushi
+	trial 8: pronouns = washi
+	trial 9: pronouns = watashi
+	trial 10: pronouns = uchi
+plan 187:
+	trial 1: pronouns = boku
+	trial 2: pronouns = washi
+	trial 3: pronouns = uchi
+	trial 4: pronouns = ore
+	trial 5: pronouns = atakushi
+	trial 6: pronouns = jibun
+	trial 7: pronouns = watakushi
+	trial 8: pronouns = atashi
+	trial 9: pronouns = watashi
+	trial 10: pronouns = watashikanji
+plan 188:
+	trial 1: pronouns = watashikanji
+	trial 2: pronouns = watashi
+	trial 3: pronouns = boku
+	trial 4: pronouns = watakushi
+	trial 5: pronouns = atakushi
+	trial 6: pronouns = uchi
+	trial 7: pronouns = jibun
+	trial 8: pronouns = atashi
+	trial 9: pronouns = ore
+	trial 10: pronouns = washi
+plan 189:
+	trial 1: pronouns = watashikanji
+	trial 2: pronouns = watashi
+	trial 3: pronouns = watakushi
+	trial 4: pronouns = washi
+	trial 5: pronouns = ore
+	trial 6: pronouns = jibun
+	trial 7: pronouns = atakushi
+	trial 8: pronouns = atashi
+	trial 9: pronouns = uchi
+	trial 10: pronouns = boku
+plan 190:
+	trial 1: pronouns = jibun
+	trial 2: pronouns = boku
+	trial 3: pronouns = watashikanji
+	trial 4: pronouns = watakushi
+	trial 5: pronouns = ore
+	trial 6: pronouns = washi
+	trial 7: pronouns = uchi
+	trial 8: pronouns = watashi
+	trial 9: pronouns = atakushi
+	trial 10: pronouns = atashi
+plan 191:
+	trial 1: pronouns = atashi
+	trial 2: pronouns = uchi
+	trial 3: pronouns = washi
+	trial 4: pronouns = ore
+	trial 5: pronouns = jibun
+	trial 6: pronouns = watashi
+	trial 7: pronouns = watashikanji
+	trial 8: pronouns = boku
+	trial 9: pronouns = watakushi
+	trial 10: pronouns = atakushi
+plan 192:
+	trial 1: pronouns = jibun
+	trial 2: pronouns = ore
+	trial 3: pronouns = watakushi
+	trial 4: pronouns = boku
+	trial 5: pronouns = atakushi
+	trial 6: pronouns = watashi
+	trial 7: pronouns = atashi
+	trial 8: pronouns = washi
+	trial 9: pronouns = uchi
+	trial 10: pronouns = watashikanji
+plan 193:
+	trial 1: pronouns = watashikanji
+	trial 2: pronouns = boku
+	trial 3: pronouns = atashi
+	trial 4: pronouns = jibun
+	trial 5: pronouns = ore
+	trial 6: pronouns = watashi
+	trial 7: pronouns = washi
+	trial 8: pronouns = uchi
+	trial 9: pronouns = atakushi
+	trial 10: pronouns = watakushi
+plan 194:
+	trial 1: pronouns = washi
+	trial 2: pronouns = jibun
+	trial 3: pronouns = watakushi
+	trial 4: pronouns = ore
+	trial 5: pronouns = atashi
+	trial 6: pronouns = boku
+	trial 7: pronouns = watashikanji
+	trial 8: pronouns = uchi
+	trial 9: pronouns = atakushi
+	trial 10: pronouns = watashi
+plan 195:
+	trial 1: pronouns = ore
+	trial 2: pronouns = watakushi
+	trial 3: pronouns = atashi
+	trial 4: pronouns = uchi
+	trial 5: pronouns = atakushi
+	trial 6: pronouns = watashikanji
 	trial 7: pronouns = watashi
 	trial 8: pronouns = washi
 	trial 9: pronouns = jibun
+	trial 10: pronouns = boku
+plan 196:
+	trial 1: pronouns = ore
+	trial 2: pronouns = watashi
+	trial 3: pronouns = boku
+	trial 4: pronouns = watashikanji
+	trial 5: pronouns = uchi
+	trial 6: pronouns = atashi
+	trial 7: pronouns = jibun
+	trial 8: pronouns = washi
+	trial 9: pronouns = atakushi
+	trial 10: pronouns = watakushi
+plan 197:
+	trial 1: pronouns = ore
+	trial 2: pronouns = jibun
+	trial 3: pronouns = washi
+	trial 4: pronouns = atashi
+	trial 5: pronouns = watakushi
+	trial 6: pronouns = boku
+	trial 7: pronouns = watashikanji
+	trial 8: pronouns = watashi
+	trial 9: pronouns = atakushi
 	trial 10: pronouns = uchi
+plan 198:
+	trial 1: pronouns = watashikanji
+	trial 2: pronouns = atashi
+	trial 3: pronouns = jibun
+	trial 4: pronouns = watashi
+	trial 5: pronouns = watakushi
+	trial 6: pronouns = uchi
+	trial 7: pronouns = atakushi
+	trial 8: pronouns = washi
+	trial 9: pronouns = boku
+	trial 10: pronouns = ore
+plan 199:
+	trial 1: pronouns = atashi
+	trial 2: pronouns = watashi
+	trial 3: pronouns = boku
+	trial 4: pronouns = watashikanji
+	trial 5: pronouns = watakushi
+	trial 6: pronouns = jibun
+	trial 7: pronouns = uchi
+	trial 8: pronouns = atakushi
+	trial 9: pronouns = washi
+	trial 10: pronouns = ore
+plan 200:
+	trial 1: pronouns = ore
+	trial 2: pronouns = jibun
+	trial 3: pronouns = watashikanji
+	trial 4: pronouns = washi
+	trial 5: pronouns = boku
+	trial 6: pronouns = watakushi
+	trial 7: pronouns = atashi
+	trial 8: pronouns = watashi
+	trial 9: pronouns = uchi
+	trial 10: pronouns = atakushi
+plan 201:
+	trial 1: pronouns = watakushi
+	trial 2: pronouns = jibun
+	trial 3: pronouns = washi
+	trial 4: pronouns = boku
+	trial 5: pronouns = watashikanji
+	trial 6: pronouns = ore
+	trial 7: pronouns = atakushi
+	trial 8: pronouns = uchi
+	trial 9: pronouns = watashi
+	trial 10: pronouns = atashi
+plan 202:
+	trial 1: pronouns = watashikanji
+	trial 2: pronouns = washi
+	trial 3: pronouns = jibun
+	trial 4: pronouns = uchi
+	trial 5: pronouns = atakushi
+	trial 6: pronouns = watakushi
+	trial 7: pronouns = boku
+	trial 8: pronouns = ore
+	trial 9: pronouns = atashi
+	trial 10: pronouns = watashi
+plan 203:
+	trial 1: pronouns = ore
+	trial 2: pronouns = watashikanji
+	trial 3: pronouns = watakushi
+	trial 4: pronouns = boku
+	trial 5: pronouns = atashi
+	trial 6: pronouns = washi
+	trial 7: pronouns = watashi
+	trial 8: pronouns = uchi
+	trial 9: pronouns = jibun
+	trial 10: pronouns = atakushi
+plan 204:
+	trial 1: pronouns = jibun
+	trial 2: pronouns = watashi
+	trial 3: pronouns = washi
+	trial 4: pronouns = watakushi
+	trial 5: pronouns = uchi
+	trial 6: pronouns = atakushi
+	trial 7: pronouns = boku
+	trial 8: pronouns = atashi
+	trial 9: pronouns = watashikanji
+	trial 10: pronouns = ore
+plan 205:
+	trial 1: pronouns = jibun
+	trial 2: pronouns = atakushi
+	trial 3: pronouns = atashi
+	trial 4: pronouns = boku
+	trial 5: pronouns = washi
+	trial 6: pronouns = watakushi
+	trial 7: pronouns = uchi
+	trial 8: pronouns = watashikanji
+	trial 9: pronouns = watashi
+	trial 10: pronouns = ore
+plan 206:
+	trial 1: pronouns = atakushi
+	trial 2: pronouns = watashi
+	trial 3: pronouns = uchi
+	trial 4: pronouns = watashikanji
+	trial 5: pronouns = ore
+	trial 6: pronouns = atashi
+	trial 7: pronouns = jibun
+	trial 8: pronouns = boku
+	trial 9: pronouns = watakushi
+	trial 10: pronouns = washi
+plan 207:
+	trial 1: pronouns = watashikanji
+	trial 2: pronouns = jibun
+	trial 3: pronouns = uchi
+	trial 4: pronouns = washi
+	trial 5: pronouns = atashi
+	trial 6: pronouns = ore
+	trial 7: pronouns = boku
+	trial 8: pronouns = watakushi
+	trial 9: pronouns = atakushi
+	trial 10: pronouns = watashi
+plan 208:
+	trial 1: pronouns = ore
+	trial 2: pronouns = boku
+	trial 3: pronouns = uchi
+	trial 4: pronouns = watashikanji
+	trial 5: pronouns = atakushi
+	trial 6: pronouns = watashi
+	trial 7: pronouns = washi
+	trial 8: pronouns = watakushi
+	trial 9: pronouns = jibun
+	trial 10: pronouns = atashi
+plan 209:
+	trial 1: pronouns = ore
+	trial 2: pronouns = atashi
+	trial 3: pronouns = boku
+	trial 4: pronouns = watakushi
+	trial 5: pronouns = washi
+	trial 6: pronouns = watashikanji
+	trial 7: pronouns = jibun
+	trial 8: pronouns = watashi
+	trial 9: pronouns = atakushi
+	trial 10: pronouns = uchi
+plan 210:
+	trial 1: pronouns = jibun
+	trial 2: pronouns = atakushi
+	trial 3: pronouns = boku
+	trial 4: pronouns = atashi
+	trial 5: pronouns = watashi
+	trial 6: pronouns = washi
+	trial 7: pronouns = uchi
+	trial 8: pronouns = ore
+	trial 9: pronouns = watakushi
+	trial 10: pronouns = watashikanji
  
 
 ***ASSIGNMENT***
 
      pid  plan
-0      1     0
-1      2     0
-2      3     0
-3      4     0
-4      5     0
+0      1    40
+1      2    92
+2      3   122
+3      4     2
+4      5    69
 ..   ...   ...
-205  206     0
-206  207     0
-207  208     0
-208  209     0
-209  210     0
+205  206   156
+206  207   134
+207  208   133
+208  209   146
+209  210    31
 
 [210 rows x 2 columns]

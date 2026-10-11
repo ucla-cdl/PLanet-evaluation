@@ -1,176 +1,176 @@
 ***EXPERIMENT PLANS***
 
 plan 1:
-	trial 1: Emotion VE = sadness, Exercise Intensity = low
-	trial 2: Emotion VE = calmness, Exercise Intensity = low
-	trial 3: Emotion VE = stress, Exercise Intensity = low
+	trial 1: Emotion VE = calmness, Exercise Intensity = low
+	trial 2: Emotion VE = stress, Exercise Intensity = low
+	trial 3: Emotion VE = sadness, Exercise Intensity = low
 	trial 4: Emotion VE = happiness, Exercise Intensity = low
-	trial 5: Emotion VE = sadness, Exercise Intensity = medium
-	trial 6: Emotion VE = calmness, Exercise Intensity = medium
-	trial 7: Emotion VE = stress, Exercise Intensity = medium
+	trial 5: Emotion VE = calmness, Exercise Intensity = medium
+	trial 6: Emotion VE = stress, Exercise Intensity = medium
+	trial 7: Emotion VE = sadness, Exercise Intensity = medium
 	trial 8: Emotion VE = happiness, Exercise Intensity = medium
-	trial 9: Emotion VE = sadness, Exercise Intensity = high
-	trial 10: Emotion VE = calmness, Exercise Intensity = high
-	trial 11: Emotion VE = stress, Exercise Intensity = high
+	trial 9: Emotion VE = calmness, Exercise Intensity = high
+	trial 10: Emotion VE = stress, Exercise Intensity = high
+	trial 11: Emotion VE = sadness, Exercise Intensity = high
 	trial 12: Emotion VE = happiness, Exercise Intensity = high
 plan 2:
 	trial 1: Emotion VE = happiness, Exercise Intensity = low
-	trial 2: Emotion VE = stress, Exercise Intensity = low
-	trial 3: Emotion VE = calmness, Exercise Intensity = low
-	trial 4: Emotion VE = sadness, Exercise Intensity = low
-	trial 5: Emotion VE = happiness, Exercise Intensity = medium
-	trial 6: Emotion VE = stress, Exercise Intensity = medium
-	trial 7: Emotion VE = calmness, Exercise Intensity = medium
-	trial 8: Emotion VE = sadness, Exercise Intensity = medium
-	trial 9: Emotion VE = happiness, Exercise Intensity = high
-	trial 10: Emotion VE = stress, Exercise Intensity = high
-	trial 11: Emotion VE = calmness, Exercise Intensity = high
-	trial 12: Emotion VE = sadness, Exercise Intensity = high
-plan 3:
-	trial 1: Emotion VE = stress, Exercise Intensity = low
 	trial 2: Emotion VE = sadness, Exercise Intensity = low
-	trial 3: Emotion VE = happiness, Exercise Intensity = low
+	trial 3: Emotion VE = stress, Exercise Intensity = low
 	trial 4: Emotion VE = calmness, Exercise Intensity = low
-	trial 5: Emotion VE = stress, Exercise Intensity = medium
+	trial 5: Emotion VE = happiness, Exercise Intensity = medium
 	trial 6: Emotion VE = sadness, Exercise Intensity = medium
-	trial 7: Emotion VE = happiness, Exercise Intensity = medium
+	trial 7: Emotion VE = stress, Exercise Intensity = medium
 	trial 8: Emotion VE = calmness, Exercise Intensity = medium
-	trial 9: Emotion VE = stress, Exercise Intensity = high
+	trial 9: Emotion VE = happiness, Exercise Intensity = high
 	trial 10: Emotion VE = sadness, Exercise Intensity = high
-	trial 11: Emotion VE = happiness, Exercise Intensity = high
+	trial 11: Emotion VE = stress, Exercise Intensity = high
 	trial 12: Emotion VE = calmness, Exercise Intensity = high
-plan 4:
-	trial 1: Emotion VE = calmness, Exercise Intensity = low
+plan 3:
+	trial 1: Emotion VE = sadness, Exercise Intensity = low
 	trial 2: Emotion VE = happiness, Exercise Intensity = low
-	trial 3: Emotion VE = sadness, Exercise Intensity = low
+	trial 3: Emotion VE = calmness, Exercise Intensity = low
 	trial 4: Emotion VE = stress, Exercise Intensity = low
-	trial 5: Emotion VE = calmness, Exercise Intensity = medium
+	trial 5: Emotion VE = sadness, Exercise Intensity = medium
 	trial 6: Emotion VE = happiness, Exercise Intensity = medium
-	trial 7: Emotion VE = sadness, Exercise Intensity = medium
+	trial 7: Emotion VE = calmness, Exercise Intensity = medium
 	trial 8: Emotion VE = stress, Exercise Intensity = medium
-	trial 9: Emotion VE = calmness, Exercise Intensity = high
+	trial 9: Emotion VE = sadness, Exercise Intensity = high
 	trial 10: Emotion VE = happiness, Exercise Intensity = high
-	trial 11: Emotion VE = sadness, Exercise Intensity = high
+	trial 11: Emotion VE = calmness, Exercise Intensity = high
 	trial 12: Emotion VE = stress, Exercise Intensity = high
+plan 4:
+	trial 1: Emotion VE = stress, Exercise Intensity = low
+	trial 2: Emotion VE = calmness, Exercise Intensity = low
+	trial 3: Emotion VE = happiness, Exercise Intensity = low
+	trial 4: Emotion VE = sadness, Exercise Intensity = low
+	trial 5: Emotion VE = stress, Exercise Intensity = medium
+	trial 6: Emotion VE = calmness, Exercise Intensity = medium
+	trial 7: Emotion VE = happiness, Exercise Intensity = medium
+	trial 8: Emotion VE = sadness, Exercise Intensity = medium
+	trial 9: Emotion VE = stress, Exercise Intensity = high
+	trial 10: Emotion VE = calmness, Exercise Intensity = high
+	trial 11: Emotion VE = happiness, Exercise Intensity = high
+	trial 12: Emotion VE = sadness, Exercise Intensity = high
 plan 5:
-	trial 1: Emotion VE = sadness, Exercise Intensity = high
-	trial 2: Emotion VE = calmness, Exercise Intensity = high
-	trial 3: Emotion VE = stress, Exercise Intensity = high
+	trial 1: Emotion VE = calmness, Exercise Intensity = high
+	trial 2: Emotion VE = stress, Exercise Intensity = high
+	trial 3: Emotion VE = sadness, Exercise Intensity = high
 	trial 4: Emotion VE = happiness, Exercise Intensity = high
-	trial 5: Emotion VE = sadness, Exercise Intensity = low
-	trial 6: Emotion VE = calmness, Exercise Intensity = low
-	trial 7: Emotion VE = stress, Exercise Intensity = low
+	trial 5: Emotion VE = calmness, Exercise Intensity = low
+	trial 6: Emotion VE = stress, Exercise Intensity = low
+	trial 7: Emotion VE = sadness, Exercise Intensity = low
 	trial 8: Emotion VE = happiness, Exercise Intensity = low
-	trial 9: Emotion VE = sadness, Exercise Intensity = medium
-	trial 10: Emotion VE = calmness, Exercise Intensity = medium
-	trial 11: Emotion VE = stress, Exercise Intensity = medium
+	trial 9: Emotion VE = calmness, Exercise Intensity = medium
+	trial 10: Emotion VE = stress, Exercise Intensity = medium
+	trial 11: Emotion VE = sadness, Exercise Intensity = medium
 	trial 12: Emotion VE = happiness, Exercise Intensity = medium
 plan 6:
 	trial 1: Emotion VE = happiness, Exercise Intensity = high
-	trial 2: Emotion VE = stress, Exercise Intensity = high
-	trial 3: Emotion VE = calmness, Exercise Intensity = high
-	trial 4: Emotion VE = sadness, Exercise Intensity = high
-	trial 5: Emotion VE = happiness, Exercise Intensity = low
-	trial 6: Emotion VE = stress, Exercise Intensity = low
-	trial 7: Emotion VE = calmness, Exercise Intensity = low
-	trial 8: Emotion VE = sadness, Exercise Intensity = low
-	trial 9: Emotion VE = happiness, Exercise Intensity = medium
-	trial 10: Emotion VE = stress, Exercise Intensity = medium
-	trial 11: Emotion VE = calmness, Exercise Intensity = medium
-	trial 12: Emotion VE = sadness, Exercise Intensity = medium
-plan 7:
-	trial 1: Emotion VE = stress, Exercise Intensity = high
 	trial 2: Emotion VE = sadness, Exercise Intensity = high
-	trial 3: Emotion VE = happiness, Exercise Intensity = high
+	trial 3: Emotion VE = stress, Exercise Intensity = high
 	trial 4: Emotion VE = calmness, Exercise Intensity = high
-	trial 5: Emotion VE = stress, Exercise Intensity = low
+	trial 5: Emotion VE = happiness, Exercise Intensity = low
 	trial 6: Emotion VE = sadness, Exercise Intensity = low
-	trial 7: Emotion VE = happiness, Exercise Intensity = low
+	trial 7: Emotion VE = stress, Exercise Intensity = low
 	trial 8: Emotion VE = calmness, Exercise Intensity = low
-	trial 9: Emotion VE = stress, Exercise Intensity = medium
+	trial 9: Emotion VE = happiness, Exercise Intensity = medium
 	trial 10: Emotion VE = sadness, Exercise Intensity = medium
-	trial 11: Emotion VE = happiness, Exercise Intensity = medium
+	trial 11: Emotion VE = stress, Exercise Intensity = medium
 	trial 12: Emotion VE = calmness, Exercise Intensity = medium
-plan 8:
-	trial 1: Emotion VE = calmness, Exercise Intensity = high
+plan 7:
+	trial 1: Emotion VE = sadness, Exercise Intensity = high
 	trial 2: Emotion VE = happiness, Exercise Intensity = high
-	trial 3: Emotion VE = sadness, Exercise Intensity = high
+	trial 3: Emotion VE = calmness, Exercise Intensity = high
 	trial 4: Emotion VE = stress, Exercise Intensity = high
-	trial 5: Emotion VE = calmness, Exercise Intensity = low
+	trial 5: Emotion VE = sadness, Exercise Intensity = low
 	trial 6: Emotion VE = happiness, Exercise Intensity = low
-	trial 7: Emotion VE = sadness, Exercise Intensity = low
+	trial 7: Emotion VE = calmness, Exercise Intensity = low
 	trial 8: Emotion VE = stress, Exercise Intensity = low
-	trial 9: Emotion VE = calmness, Exercise Intensity = medium
+	trial 9: Emotion VE = sadness, Exercise Intensity = medium
 	trial 10: Emotion VE = happiness, Exercise Intensity = medium
-	trial 11: Emotion VE = sadness, Exercise Intensity = medium
+	trial 11: Emotion VE = calmness, Exercise Intensity = medium
 	trial 12: Emotion VE = stress, Exercise Intensity = medium
+plan 8:
+	trial 1: Emotion VE = stress, Exercise Intensity = high
+	trial 2: Emotion VE = calmness, Exercise Intensity = high
+	trial 3: Emotion VE = happiness, Exercise Intensity = high
+	trial 4: Emotion VE = sadness, Exercise Intensity = high
+	trial 5: Emotion VE = stress, Exercise Intensity = low
+	trial 6: Emotion VE = calmness, Exercise Intensity = low
+	trial 7: Emotion VE = happiness, Exercise Intensity = low
+	trial 8: Emotion VE = sadness, Exercise Intensity = low
+	trial 9: Emotion VE = stress, Exercise Intensity = medium
+	trial 10: Emotion VE = calmness, Exercise Intensity = medium
+	trial 11: Emotion VE = happiness, Exercise Intensity = medium
+	trial 12: Emotion VE = sadness, Exercise Intensity = medium
 plan 9:
-	trial 1: Emotion VE = sadness, Exercise Intensity = medium
-	trial 2: Emotion VE = calmness, Exercise Intensity = medium
-	trial 3: Emotion VE = stress, Exercise Intensity = medium
+	trial 1: Emotion VE = calmness, Exercise Intensity = medium
+	trial 2: Emotion VE = stress, Exercise Intensity = medium
+	trial 3: Emotion VE = sadness, Exercise Intensity = medium
 	trial 4: Emotion VE = happiness, Exercise Intensity = medium
-	trial 5: Emotion VE = sadness, Exercise Intensity = high
-	trial 6: Emotion VE = calmness, Exercise Intensity = high
-	trial 7: Emotion VE = stress, Exercise Intensity = high
+	trial 5: Emotion VE = calmness, Exercise Intensity = high
+	trial 6: Emotion VE = stress, Exercise Intensity = high
+	trial 7: Emotion VE = sadness, Exercise Intensity = high
 	trial 8: Emotion VE = happiness, Exercise Intensity = high
-	trial 9: Emotion VE = sadness, Exercise Intensity = low
-	trial 10: Emotion VE = calmness, Exercise Intensity = low
-	trial 11: Emotion VE = stress, Exercise Intensity = low
+	trial 9: Emotion VE = calmness, Exercise Intensity = low
+	trial 10: Emotion VE = stress, Exercise Intensity = low
+	trial 11: Emotion VE = sadness, Exercise Intensity = low
 	trial 12: Emotion VE = happiness, Exercise Intensity = low
 plan 10:
 	trial 1: Emotion VE = happiness, Exercise Intensity = medium
-	trial 2: Emotion VE = stress, Exercise Intensity = medium
-	trial 3: Emotion VE = calmness, Exercise Intensity = medium
-	trial 4: Emotion VE = sadness, Exercise Intensity = medium
-	trial 5: Emotion VE = happiness, Exercise Intensity = high
-	trial 6: Emotion VE = stress, Exercise Intensity = high
-	trial 7: Emotion VE = calmness, Exercise Intensity = high
-	trial 8: Emotion VE = sadness, Exercise Intensity = high
-	trial 9: Emotion VE = happiness, Exercise Intensity = low
-	trial 10: Emotion VE = stress, Exercise Intensity = low
-	trial 11: Emotion VE = calmness, Exercise Intensity = low
-	trial 12: Emotion VE = sadness, Exercise Intensity = low
-plan 11:
-	trial 1: Emotion VE = stress, Exercise Intensity = medium
 	trial 2: Emotion VE = sadness, Exercise Intensity = medium
-	trial 3: Emotion VE = happiness, Exercise Intensity = medium
+	trial 3: Emotion VE = stress, Exercise Intensity = medium
 	trial 4: Emotion VE = calmness, Exercise Intensity = medium
-	trial 5: Emotion VE = stress, Exercise Intensity = high
+	trial 5: Emotion VE = happiness, Exercise Intensity = high
 	trial 6: Emotion VE = sadness, Exercise Intensity = high
-	trial 7: Emotion VE = happiness, Exercise Intensity = high
+	trial 7: Emotion VE = stress, Exercise Intensity = high
 	trial 8: Emotion VE = calmness, Exercise Intensity = high
-	trial 9: Emotion VE = stress, Exercise Intensity = low
+	trial 9: Emotion VE = happiness, Exercise Intensity = low
 	trial 10: Emotion VE = sadness, Exercise Intensity = low
-	trial 11: Emotion VE = happiness, Exercise Intensity = low
+	trial 11: Emotion VE = stress, Exercise Intensity = low
 	trial 12: Emotion VE = calmness, Exercise Intensity = low
-plan 12:
-	trial 1: Emotion VE = calmness, Exercise Intensity = medium
+plan 11:
+	trial 1: Emotion VE = sadness, Exercise Intensity = medium
 	trial 2: Emotion VE = happiness, Exercise Intensity = medium
-	trial 3: Emotion VE = sadness, Exercise Intensity = medium
+	trial 3: Emotion VE = calmness, Exercise Intensity = medium
 	trial 4: Emotion VE = stress, Exercise Intensity = medium
-	trial 5: Emotion VE = calmness, Exercise Intensity = high
+	trial 5: Emotion VE = sadness, Exercise Intensity = high
 	trial 6: Emotion VE = happiness, Exercise Intensity = high
-	trial 7: Emotion VE = sadness, Exercise Intensity = high
+	trial 7: Emotion VE = calmness, Exercise Intensity = high
 	trial 8: Emotion VE = stress, Exercise Intensity = high
-	trial 9: Emotion VE = calmness, Exercise Intensity = low
+	trial 9: Emotion VE = sadness, Exercise Intensity = low
 	trial 10: Emotion VE = happiness, Exercise Intensity = low
-	trial 11: Emotion VE = sadness, Exercise Intensity = low
+	trial 11: Emotion VE = calmness, Exercise Intensity = low
 	trial 12: Emotion VE = stress, Exercise Intensity = low
+plan 12:
+	trial 1: Emotion VE = stress, Exercise Intensity = medium
+	trial 2: Emotion VE = calmness, Exercise Intensity = medium
+	trial 3: Emotion VE = happiness, Exercise Intensity = medium
+	trial 4: Emotion VE = sadness, Exercise Intensity = medium
+	trial 5: Emotion VE = stress, Exercise Intensity = high
+	trial 6: Emotion VE = calmness, Exercise Intensity = high
+	trial 7: Emotion VE = happiness, Exercise Intensity = high
+	trial 8: Emotion VE = sadness, Exercise Intensity = high
+	trial 9: Emotion VE = stress, Exercise Intensity = low
+	trial 10: Emotion VE = calmness, Exercise Intensity = low
+	trial 11: Emotion VE = happiness, Exercise Intensity = low
+	trial 12: Emotion VE = sadness, Exercise Intensity = low
  
 
 ***ASSIGNMENT***
 
     pid  plan
-0     1     3
-1     2     6
-2     3    10
-3     4     5
-4     5     2
+0     1     9
+1     2     5
+2     3     7
+3     4     1
+4     5     0
 ..  ...   ...
-67   68     1
-68   69     8
-69   70     6
-70   71     9
-71   72     3
+67   68     7
+68   69     3
+69   70    10
+70   71    11
+71   72     0
 
 [72 rows x 2 columns]

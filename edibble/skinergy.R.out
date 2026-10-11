@@ -1,104 +1,1104 @@
-# An edibble: 100 x 3
-      participant    trial                gesture
-          <U(10)> <U(100)>                <T(11)>
-            <chr>    <chr>                  <chr>
-  1 participant01 trial001             Swipe Left
-  2 participant01 trial002               Swipe Up
-  3 participant01 trial003            Swipe Right
-  4 participant01 trial004                    Tap
-  5 participant01 trial005                   Rest
-  6 participant01 trial006 Counterclockwise Swipe
-  7 participant01 trial007             Double Tap
-  8 participant01 trial008        Clockwise Swipe
-  9 participant01 trial009                  Pinch
- 10 participant01 trial010                 Spread
- 11 participant02 trial011               Swipe Up
- 12 participant02 trial012                   Rest
- 13 participant02 trial013                  Pinch
- 14 participant02 trial014        Clockwise Swipe
- 15 participant02 trial015                    Tap
- 16 participant02 trial016             Swipe Left
- 17 participant02 trial017             Swipe Down
- 18 participant02 trial018                 Spread
- 19 participant02 trial019 Counterclockwise Swipe
- 20 participant02 trial020            Swipe Right
- 21 participant03 trial021                 Spread
- 22 participant03 trial022             Swipe Down
- 23 participant03 trial023 Counterclockwise Swipe
- 24 participant03 trial024               Swipe Up
- 25 participant03 trial025             Swipe Left
- 26 participant03 trial026        Clockwise Swipe
- 27 participant03 trial027             Double Tap
- 28 participant03 trial028            Swipe Right
- 29 participant03 trial029                    Tap
- 30 participant03 trial030                   Rest
- 31 participant04 trial031             Swipe Left
- 32 participant04 trial032             Double Tap
- 33 participant04 trial033                    Tap
- 34 participant04 trial034                 Spread
- 35 participant04 trial035 Counterclockwise Swipe
- 36 participant04 trial036             Swipe Down
- 37 participant04 trial037                   Rest
- 38 participant04 trial038        Clockwise Swipe
- 39 participant04 trial039            Swipe Right
- 40 participant04 trial040                  Pinch
- 41 participant05 trial041                  Pinch
- 42 participant05 trial042        Clockwise Swipe
- 43 participant05 trial043                 Spread
- 44 participant05 trial044             Swipe Down
- 45 participant05 trial045                    Tap
- 46 participant05 trial046             Double Tap
- 47 participant05 trial047            Swipe Right
- 48 participant05 trial048                   Rest
- 49 participant05 trial049               Swipe Up
- 50 participant05 trial050 Counterclockwise Swipe
- 51 participant06 trial051             Swipe Down
- 52 participant06 trial052             Double Tap
- 53 participant06 trial053                  Pinch
- 54 participant06 trial054                    Tap
- 55 participant06 trial055                   Rest
- 56 participant06 trial056               Swipe Up
- 57 participant06 trial057             Swipe Left
- 58 participant06 trial058 Counterclockwise Swipe
- 59 participant06 trial059            Swipe Right
- 60 participant06 trial060        Clockwise Swipe
- 61 participant07 trial061                    Tap
- 62 participant07 trial062                   Rest
- 63 participant07 trial063            Swipe Right
- 64 participant07 trial064             Swipe Down
- 65 participant07 trial065             Swipe Left
- 66 participant07 trial066             Double Tap
- 67 participant07 trial067                 Spread
- 68 participant07 trial068                  Pinch
- 69 participant07 trial069               Swipe Up
- 70 participant07 trial070        Clockwise Swipe
- 71 participant08 trial071             Double Tap
- 72 participant08 trial072        Clockwise Swipe
- 73 participant08 trial073                 Spread
- 74 participant08 trial074                  Pinch
- 75 participant08 trial075                   Rest
- 76 participant08 trial076             Swipe Left
- 77 participant08 trial077 Counterclockwise Swipe
- 78 participant08 trial078             Swipe Down
- 79 participant08 trial079               Swipe Up
- 80 participant08 trial080                    Tap
- 81 participant09 trial081                   Rest
- 82 participant09 trial082                  Pinch
- 83 participant09 trial083             Swipe Left
- 84 participant09 trial084                    Tap
- 85 participant09 trial085 Counterclockwise Swipe
- 86 participant09 trial086               Swipe Up
- 87 participant09 trial087            Swipe Right
- 88 participant09 trial088             Swipe Down
- 89 participant09 trial089                 Spread
- 90 participant09 trial090             Double Tap
- 91 participant10 trial091             Swipe Down
- 92 participant10 trial092                 Spread
- 93 participant10 trial093 Counterclockwise Swipe
- 94 participant10 trial094                    Tap
- 95 participant10 trial095            Swipe Right
- 96 participant10 trial096                  Pinch
- 97 participant10 trial097               Swipe Up
- 98 participant10 trial098             Double Tap
- 99 participant10 trial099             Swipe Left
-100 participant10 trial100        Clockwise Swipe
+# An edibble: 1,100 x 4
+       participant    block     trial                gesture
+           <U(10)> <U(100)>  <U(~1k)>                <T(11)>
+             <chr>    <chr>     <chr>                  <chr>
+   1 participant01 block001 trial0001             Swipe Left
+   2 participant01 block001 trial0002                   Rest
+   3 participant01 block001 trial0003                 Spread
+   4 participant01 block001 trial0004             Swipe Down
+   5 participant01 block001 trial0005            Swipe Right
+   6 participant01 block001 trial0006 Counterclockwise Swipe
+   7 participant01 block001 trial0007               Swipe Up
+   8 participant01 block001 trial0008             Double Tap
+   9 participant01 block001 trial0009        Clockwise Swipe
+  10 participant01 block001 trial0010                  Pinch
+  11 participant01 block001 trial0011                    Tap
+  12 participant01 block002 trial0012             Double Tap
+  13 participant01 block002 trial0013        Clockwise Swipe
+  14 participant01 block002 trial0014                 Spread
+  15 participant01 block002 trial0015             Swipe Down
+  16 participant01 block002 trial0016               Swipe Up
+  17 participant01 block002 trial0017                    Tap
+  18 participant01 block002 trial0018            Swipe Right
+  19 participant01 block002 trial0019             Swipe Left
+  20 participant01 block002 trial0020 Counterclockwise Swipe
+  21 participant01 block002 trial0021                   Rest
+  22 participant01 block002 trial0022                  Pinch
+  23 participant01 block003 trial0023            Swipe Right
+  24 participant01 block003 trial0024             Swipe Left
+  25 participant01 block003 trial0025                    Tap
+  26 participant01 block003 trial0026                 Spread
+  27 participant01 block003 trial0027               Swipe Up
+  28 participant01 block003 trial0028             Double Tap
+  29 participant01 block003 trial0029                   Rest
+  30 participant01 block003 trial0030             Swipe Down
+  31 participant01 block003 trial0031                  Pinch
+  32 participant01 block003 trial0032        Clockwise Swipe
+  33 participant01 block003 trial0033 Counterclockwise Swipe
+  34 participant01 block004 trial0034 Counterclockwise Swipe
+  35 participant01 block004 trial0035               Swipe Up
+  36 participant01 block004 trial0036             Swipe Left
+  37 participant01 block004 trial0037             Swipe Down
+  38 participant01 block004 trial0038             Double Tap
+  39 participant01 block004 trial0039            Swipe Right
+  40 participant01 block004 trial0040        Clockwise Swipe
+  41 participant01 block004 trial0041                    Tap
+  42 participant01 block004 trial0042                   Rest
+  43 participant01 block004 trial0043                 Spread
+  44 participant01 block004 trial0044                  Pinch
+  45 participant01 block005 trial0045             Swipe Left
+  46 participant01 block005 trial0046 Counterclockwise Swipe
+  47 participant01 block005 trial0047                    Tap
+  48 participant01 block005 trial0048        Clockwise Swipe
+  49 participant01 block005 trial0049                 Spread
+  50 participant01 block005 trial0050            Swipe Right
+  51 participant01 block005 trial0051                   Rest
+  52 participant01 block005 trial0052               Swipe Up
+  53 participant01 block005 trial0053             Double Tap
+  54 participant01 block005 trial0054                  Pinch
+  55 participant01 block005 trial0055             Swipe Down
+  56 participant01 block006 trial0056             Double Tap
+  57 participant01 block006 trial0057 Counterclockwise Swipe
+  58 participant01 block006 trial0058        Clockwise Swipe
+  59 participant01 block006 trial0059                   Rest
+  60 participant01 block006 trial0060               Swipe Up
+  61 participant01 block006 trial0061            Swipe Right
+  62 participant01 block006 trial0062             Swipe Left
+  63 participant01 block006 trial0063                    Tap
+  64 participant01 block006 trial0064             Swipe Down
+  65 participant01 block006 trial0065                  Pinch
+  66 participant01 block006 trial0066                 Spread
+  67 participant01 block007 trial0067                    Tap
+  68 participant01 block007 trial0068 Counterclockwise Swipe
+  69 participant01 block007 trial0069             Swipe Down
+  70 participant01 block007 trial0070             Swipe Left
+  71 participant01 block007 trial0071                  Pinch
+  72 participant01 block007 trial0072               Swipe Up
+  73 participant01 block007 trial0073                   Rest
+  74 participant01 block007 trial0074            Swipe Right
+  75 participant01 block007 trial0075        Clockwise Swipe
+  76 participant01 block007 trial0076                 Spread
+  77 participant01 block007 trial0077             Double Tap
+  78 participant01 block008 trial0078                 Spread
+  79 participant01 block008 trial0079             Swipe Down
+  80 participant01 block008 trial0080                  Pinch
+  81 participant01 block008 trial0081                    Tap
+  82 participant01 block008 trial0082            Swipe Right
+  83 participant01 block008 trial0083               Swipe Up
+  84 participant01 block008 trial0084        Clockwise Swipe
+  85 participant01 block008 trial0085 Counterclockwise Swipe
+  86 participant01 block008 trial0086             Swipe Left
+  87 participant01 block008 trial0087                   Rest
+  88 participant01 block008 trial0088             Double Tap
+  89 participant01 block009 trial0089                 Spread
+  90 participant01 block009 trial0090               Swipe Up
+  91 participant01 block009 trial0091                  Pinch
+  92 participant01 block009 trial0092                   Rest
+  93 participant01 block009 trial0093        Clockwise Swipe
+  94 participant01 block009 trial0094             Swipe Left
+  95 participant01 block009 trial0095             Swipe Down
+  96 participant01 block009 trial0096 Counterclockwise Swipe
+  97 participant01 block009 trial0097                    Tap
+  98 participant01 block009 trial0098            Swipe Right
+  99 participant01 block009 trial0099             Double Tap
+ 100 participant01 block010 trial0100        Clockwise Swipe
+ 101 participant01 block010 trial0101             Double Tap
+ 102 participant01 block010 trial0102                 Spread
+ 103 participant01 block010 trial0103                   Rest
+ 104 participant01 block010 trial0104 Counterclockwise Swipe
+ 105 participant01 block010 trial0105                    Tap
+ 106 participant01 block010 trial0106             Swipe Down
+ 107 participant01 block010 trial0107               Swipe Up
+ 108 participant01 block010 trial0108            Swipe Right
+ 109 participant01 block010 trial0109                  Pinch
+ 110 participant01 block010 trial0110             Swipe Left
+ 111 participant02 block011 trial0111                    Tap
+ 112 participant02 block011 trial0112        Clockwise Swipe
+ 113 participant02 block011 trial0113 Counterclockwise Swipe
+ 114 participant02 block011 trial0114               Swipe Up
+ 115 participant02 block011 trial0115            Swipe Right
+ 116 participant02 block011 trial0116                 Spread
+ 117 participant02 block011 trial0117                  Pinch
+ 118 participant02 block011 trial0118                   Rest
+ 119 participant02 block011 trial0119             Swipe Left
+ 120 participant02 block011 trial0120             Double Tap
+ 121 participant02 block011 trial0121             Swipe Down
+ 122 participant02 block012 trial0122 Counterclockwise Swipe
+ 123 participant02 block012 trial0123                   Rest
+ 124 participant02 block012 trial0124        Clockwise Swipe
+ 125 participant02 block012 trial0125               Swipe Up
+ 126 participant02 block012 trial0126                 Spread
+ 127 participant02 block012 trial0127                    Tap
+ 128 participant02 block012 trial0128             Swipe Left
+ 129 participant02 block012 trial0129                  Pinch
+ 130 participant02 block012 trial0130             Double Tap
+ 131 participant02 block012 trial0131            Swipe Right
+ 132 participant02 block012 trial0132             Swipe Down
+ 133 participant02 block013 trial0133                   Rest
+ 134 participant02 block013 trial0134 Counterclockwise Swipe
+ 135 participant02 block013 trial0135        Clockwise Swipe
+ 136 participant02 block013 trial0136               Swipe Up
+ 137 participant02 block013 trial0137             Double Tap
+ 138 participant02 block013 trial0138             Swipe Left
+ 139 participant02 block013 trial0139                    Tap
+ 140 participant02 block013 trial0140                 Spread
+ 141 participant02 block013 trial0141             Swipe Down
+ 142 participant02 block013 trial0142            Swipe Right
+ 143 participant02 block013 trial0143                  Pinch
+ 144 participant02 block014 trial0144             Double Tap
+ 145 participant02 block014 trial0145            Swipe Right
+ 146 participant02 block014 trial0146                   Rest
+ 147 participant02 block014 trial0147               Swipe Up
+ 148 participant02 block014 trial0148                  Pinch
+ 149 participant02 block014 trial0149        Clockwise Swipe
+ 150 participant02 block014 trial0150             Swipe Down
+ 151 participant02 block014 trial0151             Swipe Left
+ 152 participant02 block014 trial0152 Counterclockwise Swipe
+ 153 participant02 block014 trial0153                    Tap
+ 154 participant02 block014 trial0154                 Spread
+ 155 participant02 block015 trial0155        Clockwise Swipe
+ 156 participant02 block015 trial0156               Swipe Up
+ 157 participant02 block015 trial0157                   Rest
+ 158 participant02 block015 trial0158                    Tap
+ 159 participant02 block015 trial0159             Double Tap
+ 160 participant02 block015 trial0160            Swipe Right
+ 161 participant02 block015 trial0161             Swipe Down
+ 162 participant02 block015 trial0162                 Spread
+ 163 participant02 block015 trial0163             Swipe Left
+ 164 participant02 block015 trial0164                  Pinch
+ 165 participant02 block015 trial0165 Counterclockwise Swipe
+ 166 participant02 block016 trial0166 Counterclockwise Swipe
+ 167 participant02 block016 trial0167             Double Tap
+ 168 participant02 block016 trial0168                  Pinch
+ 169 participant02 block016 trial0169                    Tap
+ 170 participant02 block016 trial0170            Swipe Right
+ 171 participant02 block016 trial0171                 Spread
+ 172 participant02 block016 trial0172               Swipe Up
+ 173 participant02 block016 trial0173             Swipe Left
+ 174 participant02 block016 trial0174             Swipe Down
+ 175 participant02 block016 trial0175        Clockwise Swipe
+ 176 participant02 block016 trial0176                   Rest
+ 177 participant02 block017 trial0177        Clockwise Swipe
+ 178 participant02 block017 trial0178               Swipe Up
+ 179 participant02 block017 trial0179                   Rest
+ 180 participant02 block017 trial0180                 Spread
+ 181 participant02 block017 trial0181             Swipe Down
+ 182 participant02 block017 trial0182             Swipe Left
+ 183 participant02 block017 trial0183 Counterclockwise Swipe
+ 184 participant02 block017 trial0184                  Pinch
+ 185 participant02 block017 trial0185             Double Tap
+ 186 participant02 block017 trial0186            Swipe Right
+ 187 participant02 block017 trial0187                    Tap
+ 188 participant02 block018 trial0188                  Pinch
+ 189 participant02 block018 trial0189             Double Tap
+ 190 participant02 block018 trial0190                   Rest
+ 191 participant02 block018 trial0191                    Tap
+ 192 participant02 block018 trial0192                 Spread
+ 193 participant02 block018 trial0193               Swipe Up
+ 194 participant02 block018 trial0194        Clockwise Swipe
+ 195 participant02 block018 trial0195 Counterclockwise Swipe
+ 196 participant02 block018 trial0196             Swipe Left
+ 197 participant02 block018 trial0197            Swipe Right
+ 198 participant02 block018 trial0198             Swipe Down
+ 199 participant02 block019 trial0199               Swipe Up
+ 200 participant02 block019 trial0200                    Tap
+ 201 participant02 block019 trial0201            Swipe Right
+ 202 participant02 block019 trial0202             Double Tap
+ 203 participant02 block019 trial0203                 Spread
+ 204 participant02 block019 trial0204        Clockwise Swipe
+ 205 participant02 block019 trial0205 Counterclockwise Swipe
+ 206 participant02 block019 trial0206             Swipe Down
+ 207 participant02 block019 trial0207             Swipe Left
+ 208 participant02 block019 trial0208                   Rest
+ 209 participant02 block019 trial0209                  Pinch
+ 210 participant02 block020 trial0210                   Rest
+ 211 participant02 block020 trial0211             Double Tap
+ 212 participant02 block020 trial0212            Swipe Right
+ 213 participant02 block020 trial0213 Counterclockwise Swipe
+ 214 participant02 block020 trial0214             Swipe Down
+ 215 participant02 block020 trial0215                 Spread
+ 216 participant02 block020 trial0216               Swipe Up
+ 217 participant02 block020 trial0217             Swipe Left
+ 218 participant02 block020 trial0218                    Tap
+ 219 participant02 block020 trial0219        Clockwise Swipe
+ 220 participant02 block020 trial0220                  Pinch
+ 221 participant03 block021 trial0221             Double Tap
+ 222 participant03 block021 trial0222                 Spread
+ 223 participant03 block021 trial0223            Swipe Right
+ 224 participant03 block021 trial0224             Swipe Left
+ 225 participant03 block021 trial0225                  Pinch
+ 226 participant03 block021 trial0226               Swipe Up
+ 227 participant03 block021 trial0227 Counterclockwise Swipe
+ 228 participant03 block021 trial0228                    Tap
+ 229 participant03 block021 trial0229                   Rest
+ 230 participant03 block021 trial0230        Clockwise Swipe
+ 231 participant03 block021 trial0231             Swipe Down
+ 232 participant03 block022 trial0232               Swipe Up
+ 233 participant03 block022 trial0233                 Spread
+ 234 participant03 block022 trial0234        Clockwise Swipe
+ 235 participant03 block022 trial0235 Counterclockwise Swipe
+ 236 participant03 block022 trial0236                   Rest
+ 237 participant03 block022 trial0237             Swipe Down
+ 238 participant03 block022 trial0238             Swipe Left
+ 239 participant03 block022 trial0239             Double Tap
+ 240 participant03 block022 trial0240                    Tap
+ 241 participant03 block022 trial0241                  Pinch
+ 242 participant03 block022 trial0242            Swipe Right
+ 243 participant03 block023 trial0243                   Rest
+ 244 participant03 block023 trial0244                    Tap
+ 245 participant03 block023 trial0245            Swipe Right
+ 246 participant03 block023 trial0246               Swipe Up
+ 247 participant03 block023 trial0247                 Spread
+ 248 participant03 block023 trial0248 Counterclockwise Swipe
+ 249 participant03 block023 trial0249             Swipe Down
+ 250 participant03 block023 trial0250        Clockwise Swipe
+ 251 participant03 block023 trial0251             Swipe Left
+ 252 participant03 block023 trial0252                  Pinch
+ 253 participant03 block023 trial0253             Double Tap
+ 254 participant03 block024 trial0254                  Pinch
+ 255 participant03 block024 trial0255        Clockwise Swipe
+ 256 participant03 block024 trial0256             Swipe Left
+ 257 participant03 block024 trial0257                    Tap
+ 258 participant03 block024 trial0258               Swipe Up
+ 259 participant03 block024 trial0259                   Rest
+ 260 participant03 block024 trial0260             Double Tap
+ 261 participant03 block024 trial0261            Swipe Right
+ 262 participant03 block024 trial0262                 Spread
+ 263 participant03 block024 trial0263             Swipe Down
+ 264 participant03 block024 trial0264 Counterclockwise Swipe
+ 265 participant03 block025 trial0265                   Rest
+ 266 participant03 block025 trial0266                  Pinch
+ 267 participant03 block025 trial0267             Swipe Left
+ 268 participant03 block025 trial0268            Swipe Right
+ 269 participant03 block025 trial0269             Swipe Down
+ 270 participant03 block025 trial0270 Counterclockwise Swipe
+ 271 participant03 block025 trial0271             Double Tap
+ 272 participant03 block025 trial0272                 Spread
+ 273 participant03 block025 trial0273               Swipe Up
+ 274 participant03 block025 trial0274        Clockwise Swipe
+ 275 participant03 block025 trial0275                    Tap
+ 276 participant03 block026 trial0276            Swipe Right
+ 277 participant03 block026 trial0277             Swipe Left
+ 278 participant03 block026 trial0278                    Tap
+ 279 participant03 block026 trial0279        Clockwise Swipe
+ 280 participant03 block026 trial0280 Counterclockwise Swipe
+ 281 participant03 block026 trial0281               Swipe Up
+ 282 participant03 block026 trial0282             Double Tap
+ 283 participant03 block026 trial0283                  Pinch
+ 284 participant03 block026 trial0284             Swipe Down
+ 285 participant03 block026 trial0285                   Rest
+ 286 participant03 block026 trial0286                 Spread
+ 287 participant03 block027 trial0287                    Tap
+ 288 participant03 block027 trial0288 Counterclockwise Swipe
+ 289 participant03 block027 trial0289             Swipe Down
+ 290 participant03 block027 trial0290        Clockwise Swipe
+ 291 participant03 block027 trial0291            Swipe Right
+ 292 participant03 block027 trial0292                 Spread
+ 293 participant03 block027 trial0293               Swipe Up
+ 294 participant03 block027 trial0294             Swipe Left
+ 295 participant03 block027 trial0295                   Rest
+ 296 participant03 block027 trial0296                  Pinch
+ 297 participant03 block027 trial0297             Double Tap
+ 298 participant03 block028 trial0298             Swipe Left
+ 299 participant03 block028 trial0299                  Pinch
+ 300 participant03 block028 trial0300        Clockwise Swipe
+ 301 participant03 block028 trial0301                    Tap
+ 302 participant03 block028 trial0302               Swipe Up
+ 303 participant03 block028 trial0303            Swipe Right
+ 304 participant03 block028 trial0304                   Rest
+ 305 participant03 block028 trial0305             Double Tap
+ 306 participant03 block028 trial0306                 Spread
+ 307 participant03 block028 trial0307 Counterclockwise Swipe
+ 308 participant03 block028 trial0308             Swipe Down
+ 309 participant03 block029 trial0309                   Rest
+ 310 participant03 block029 trial0310                  Pinch
+ 311 participant03 block029 trial0311 Counterclockwise Swipe
+ 312 participant03 block029 trial0312             Swipe Left
+ 313 participant03 block029 trial0313        Clockwise Swipe
+ 314 participant03 block029 trial0314            Swipe Right
+ 315 participant03 block029 trial0315             Swipe Down
+ 316 participant03 block029 trial0316               Swipe Up
+ 317 participant03 block029 trial0317             Double Tap
+ 318 participant03 block029 trial0318                 Spread
+ 319 participant03 block029 trial0319                    Tap
+ 320 participant03 block030 trial0320 Counterclockwise Swipe
+ 321 participant03 block030 trial0321                  Pinch
+ 322 participant03 block030 trial0322            Swipe Right
+ 323 participant03 block030 trial0323                   Rest
+ 324 participant03 block030 trial0324             Swipe Down
+ 325 participant03 block030 trial0325             Double Tap
+ 326 participant03 block030 trial0326                    Tap
+ 327 participant03 block030 trial0327                 Spread
+ 328 participant03 block030 trial0328        Clockwise Swipe
+ 329 participant03 block030 trial0329               Swipe Up
+ 330 participant03 block030 trial0330             Swipe Left
+ 331 participant04 block031 trial0331 Counterclockwise Swipe
+ 332 participant04 block031 trial0332        Clockwise Swipe
+ 333 participant04 block031 trial0333                 Spread
+ 334 participant04 block031 trial0334                    Tap
+ 335 participant04 block031 trial0335             Swipe Left
+ 336 participant04 block031 trial0336             Swipe Down
+ 337 participant04 block031 trial0337               Swipe Up
+ 338 participant04 block031 trial0338                  Pinch
+ 339 participant04 block031 trial0339                   Rest
+ 340 participant04 block031 trial0340            Swipe Right
+ 341 participant04 block031 trial0341             Double Tap
+ 342 participant04 block032 trial0342               Swipe Up
+ 343 participant04 block032 trial0343            Swipe Right
+ 344 participant04 block032 trial0344                    Tap
+ 345 participant04 block032 trial0345                 Spread
+ 346 participant04 block032 trial0346                  Pinch
+ 347 participant04 block032 trial0347        Clockwise Swipe
+ 348 participant04 block032 trial0348                   Rest
+ 349 participant04 block032 trial0349             Double Tap
+ 350 participant04 block032 trial0350 Counterclockwise Swipe
+ 351 participant04 block032 trial0351             Swipe Left
+ 352 participant04 block032 trial0352             Swipe Down
+ 353 participant04 block033 trial0353             Swipe Down
+ 354 participant04 block033 trial0354             Swipe Left
+ 355 participant04 block033 trial0355             Double Tap
+ 356 participant04 block033 trial0356                  Pinch
+ 357 participant04 block033 trial0357                   Rest
+ 358 participant04 block033 trial0358               Swipe Up
+ 359 participant04 block033 trial0359                 Spread
+ 360 participant04 block033 trial0360            Swipe Right
+ 361 participant04 block033 trial0361        Clockwise Swipe
+ 362 participant04 block033 trial0362 Counterclockwise Swipe
+ 363 participant04 block033 trial0363                    Tap
+ 364 participant04 block034 trial0364             Double Tap
+ 365 participant04 block034 trial0365 Counterclockwise Swipe
+ 366 participant04 block034 trial0366             Swipe Left
+ 367 participant04 block034 trial0367            Swipe Right
+ 368 participant04 block034 trial0368             Swipe Down
+ 369 participant04 block034 trial0369        Clockwise Swipe
+ 370 participant04 block034 trial0370                 Spread
+ 371 participant04 block034 trial0371                  Pinch
+ 372 participant04 block034 trial0372               Swipe Up
+ 373 participant04 block034 trial0373                    Tap
+ 374 participant04 block034 trial0374                   Rest
+ 375 participant04 block035 trial0375             Swipe Left
+ 376 participant04 block035 trial0376               Swipe Up
+ 377 participant04 block035 trial0377 Counterclockwise Swipe
+ 378 participant04 block035 trial0378             Double Tap
+ 379 participant04 block035 trial0379            Swipe Right
+ 380 participant04 block035 trial0380                   Rest
+ 381 participant04 block035 trial0381                 Spread
+ 382 participant04 block035 trial0382                    Tap
+ 383 participant04 block035 trial0383        Clockwise Swipe
+ 384 participant04 block035 trial0384                  Pinch
+ 385 participant04 block035 trial0385             Swipe Down
+ 386 participant04 block036 trial0386               Swipe Up
+ 387 participant04 block036 trial0387        Clockwise Swipe
+ 388 participant04 block036 trial0388                 Spread
+ 389 participant04 block036 trial0389                  Pinch
+ 390 participant04 block036 trial0390                    Tap
+ 391 participant04 block036 trial0391            Swipe Right
+ 392 participant04 block036 trial0392             Swipe Down
+ 393 participant04 block036 trial0393 Counterclockwise Swipe
+ 394 participant04 block036 trial0394                   Rest
+ 395 participant04 block036 trial0395             Swipe Left
+ 396 participant04 block036 trial0396             Double Tap
+ 397 participant04 block037 trial0397             Double Tap
+ 398 participant04 block037 trial0398                 Spread
+ 399 participant04 block037 trial0399             Swipe Down
+ 400 participant04 block037 trial0400            Swipe Right
+ 401 participant04 block037 trial0401               Swipe Up
+ 402 participant04 block037 trial0402                   Rest
+ 403 participant04 block037 trial0403             Swipe Left
+ 404 participant04 block037 trial0404 Counterclockwise Swipe
+ 405 participant04 block037 trial0405                  Pinch
+ 406 participant04 block037 trial0406        Clockwise Swipe
+ 407 participant04 block037 trial0407                    Tap
+ 408 participant04 block038 trial0408                   Rest
+ 409 participant04 block038 trial0409                    Tap
+ 410 participant04 block038 trial0410 Counterclockwise Swipe
+ 411 participant04 block038 trial0411            Swipe Right
+ 412 participant04 block038 trial0412             Double Tap
+ 413 participant04 block038 trial0413                  Pinch
+ 414 participant04 block038 trial0414             Swipe Down
+ 415 participant04 block038 trial0415             Swipe Left
+ 416 participant04 block038 trial0416               Swipe Up
+ 417 participant04 block038 trial0417                 Spread
+ 418 participant04 block038 trial0418        Clockwise Swipe
+ 419 participant04 block039 trial0419                    Tap
+ 420 participant04 block039 trial0420             Swipe Down
+ 421 participant04 block039 trial0421               Swipe Up
+ 422 participant04 block039 trial0422        Clockwise Swipe
+ 423 participant04 block039 trial0423                  Pinch
+ 424 participant04 block039 trial0424                   Rest
+ 425 participant04 block039 trial0425            Swipe Right
+ 426 participant04 block039 trial0426                 Spread
+ 427 participant04 block039 trial0427             Swipe Left
+ 428 participant04 block039 trial0428             Double Tap
+ 429 participant04 block039 trial0429 Counterclockwise Swipe
+ 430 participant04 block040 trial0430                    Tap
+ 431 participant04 block040 trial0431             Double Tap
+ 432 participant04 block040 trial0432            Swipe Right
+ 433 participant04 block040 trial0433               Swipe Up
+ 434 participant04 block040 trial0434                 Spread
+ 435 participant04 block040 trial0435                   Rest
+ 436 participant04 block040 trial0436             Swipe Left
+ 437 participant04 block040 trial0437                  Pinch
+ 438 participant04 block040 trial0438        Clockwise Swipe
+ 439 participant04 block040 trial0439 Counterclockwise Swipe
+ 440 participant04 block040 trial0440             Swipe Down
+ 441 participant05 block041 trial0441             Swipe Left
+ 442 participant05 block041 trial0442               Swipe Up
+ 443 participant05 block041 trial0443        Clockwise Swipe
+ 444 participant05 block041 trial0444             Double Tap
+ 445 participant05 block041 trial0445             Swipe Down
+ 446 participant05 block041 trial0446                    Tap
+ 447 participant05 block041 trial0447                 Spread
+ 448 participant05 block041 trial0448 Counterclockwise Swipe
+ 449 participant05 block041 trial0449            Swipe Right
+ 450 participant05 block041 trial0450                  Pinch
+ 451 participant05 block041 trial0451                   Rest
+ 452 participant05 block042 trial0452                  Pinch
+ 453 participant05 block042 trial0453            Swipe Right
+ 454 participant05 block042 trial0454             Double Tap
+ 455 participant05 block042 trial0455 Counterclockwise Swipe
+ 456 participant05 block042 trial0456             Swipe Down
+ 457 participant05 block042 trial0457                   Rest
+ 458 participant05 block042 trial0458                 Spread
+ 459 participant05 block042 trial0459             Swipe Left
+ 460 participant05 block042 trial0460                    Tap
+ 461 participant05 block042 trial0461        Clockwise Swipe
+ 462 participant05 block042 trial0462               Swipe Up
+ 463 participant05 block043 trial0463            Swipe Right
+ 464 participant05 block043 trial0464                    Tap
+ 465 participant05 block043 trial0465               Swipe Up
+ 466 participant05 block043 trial0466                  Pinch
+ 467 participant05 block043 trial0467                   Rest
+ 468 participant05 block043 trial0468 Counterclockwise Swipe
+ 469 participant05 block043 trial0469                 Spread
+ 470 participant05 block043 trial0470             Swipe Down
+ 471 participant05 block043 trial0471             Double Tap
+ 472 participant05 block043 trial0472        Clockwise Swipe
+ 473 participant05 block043 trial0473             Swipe Left
+ 474 participant05 block044 trial0474             Swipe Down
+ 475 participant05 block044 trial0475                 Spread
+ 476 participant05 block044 trial0476                   Rest
+ 477 participant05 block044 trial0477        Clockwise Swipe
+ 478 participant05 block044 trial0478               Swipe Up
+ 479 participant05 block044 trial0479                    Tap
+ 480 participant05 block044 trial0480             Swipe Left
+ 481 participant05 block044 trial0481             Double Tap
+ 482 participant05 block044 trial0482            Swipe Right
+ 483 participant05 block044 trial0483                  Pinch
+ 484 participant05 block044 trial0484 Counterclockwise Swipe
+ 485 participant05 block045 trial0485        Clockwise Swipe
+ 486 participant05 block045 trial0486             Double Tap
+ 487 participant05 block045 trial0487             Swipe Down
+ 488 participant05 block045 trial0488                  Pinch
+ 489 participant05 block045 trial0489 Counterclockwise Swipe
+ 490 participant05 block045 trial0490                 Spread
+ 491 participant05 block045 trial0491             Swipe Left
+ 492 participant05 block045 trial0492                    Tap
+ 493 participant05 block045 trial0493               Swipe Up
+ 494 participant05 block045 trial0494                   Rest
+ 495 participant05 block045 trial0495            Swipe Right
+ 496 participant05 block046 trial0496            Swipe Right
+ 497 participant05 block046 trial0497 Counterclockwise Swipe
+ 498 participant05 block046 trial0498               Swipe Up
+ 499 participant05 block046 trial0499                  Pinch
+ 500 participant05 block046 trial0500             Double Tap
+ 501 participant05 block046 trial0501                 Spread
+ 502 participant05 block046 trial0502        Clockwise Swipe
+ 503 participant05 block046 trial0503             Swipe Down
+ 504 participant05 block046 trial0504                    Tap
+ 505 participant05 block046 trial0505                   Rest
+ 506 participant05 block046 trial0506             Swipe Left
+ 507 participant05 block047 trial0507                    Tap
+ 508 participant05 block047 trial0508               Swipe Up
+ 509 participant05 block047 trial0509                  Pinch
+ 510 participant05 block047 trial0510            Swipe Right
+ 511 participant05 block047 trial0511                   Rest
+ 512 participant05 block047 trial0512        Clockwise Swipe
+ 513 participant05 block047 trial0513                 Spread
+ 514 participant05 block047 trial0514             Double Tap
+ 515 participant05 block047 trial0515             Swipe Down
+ 516 participant05 block047 trial0516             Swipe Left
+ 517 participant05 block047 trial0517 Counterclockwise Swipe
+ 518 participant05 block048 trial0518                    Tap
+ 519 participant05 block048 trial0519             Double Tap
+ 520 participant05 block048 trial0520             Swipe Left
+ 521 participant05 block048 trial0521 Counterclockwise Swipe
+ 522 participant05 block048 trial0522                   Rest
+ 523 participant05 block048 trial0523                 Spread
+ 524 participant05 block048 trial0524        Clockwise Swipe
+ 525 participant05 block048 trial0525                  Pinch
+ 526 participant05 block048 trial0526            Swipe Right
+ 527 participant05 block048 trial0527             Swipe Down
+ 528 participant05 block048 trial0528               Swipe Up
+ 529 participant05 block049 trial0529            Swipe Right
+ 530 participant05 block049 trial0530        Clockwise Swipe
+ 531 participant05 block049 trial0531             Swipe Down
+ 532 participant05 block049 trial0532                 Spread
+ 533 participant05 block049 trial0533                    Tap
+ 534 participant05 block049 trial0534                   Rest
+ 535 participant05 block049 trial0535               Swipe Up
+ 536 participant05 block049 trial0536                  Pinch
+ 537 participant05 block049 trial0537 Counterclockwise Swipe
+ 538 participant05 block049 trial0538             Swipe Left
+ 539 participant05 block049 trial0539             Double Tap
+ 540 participant05 block050 trial0540        Clockwise Swipe
+ 541 participant05 block050 trial0541                    Tap
+ 542 participant05 block050 trial0542             Swipe Down
+ 543 participant05 block050 trial0543                 Spread
+ 544 participant05 block050 trial0544               Swipe Up
+ 545 participant05 block050 trial0545 Counterclockwise Swipe
+ 546 participant05 block050 trial0546            Swipe Right
+ 547 participant05 block050 trial0547                   Rest
+ 548 participant05 block050 trial0548             Double Tap
+ 549 participant05 block050 trial0549             Swipe Left
+ 550 participant05 block050 trial0550                  Pinch
+ 551 participant06 block051 trial0551                   Rest
+ 552 participant06 block051 trial0552             Swipe Left
+ 553 participant06 block051 trial0553             Swipe Down
+ 554 participant06 block051 trial0554 Counterclockwise Swipe
+ 555 participant06 block051 trial0555        Clockwise Swipe
+ 556 participant06 block051 trial0556            Swipe Right
+ 557 participant06 block051 trial0557                    Tap
+ 558 participant06 block051 trial0558                  Pinch
+ 559 participant06 block051 trial0559                 Spread
+ 560 participant06 block051 trial0560               Swipe Up
+ 561 participant06 block051 trial0561             Double Tap
+ 562 participant06 block052 trial0562             Double Tap
+ 563 participant06 block052 trial0563             Swipe Left
+ 564 participant06 block052 trial0564                    Tap
+ 565 participant06 block052 trial0565            Swipe Right
+ 566 participant06 block052 trial0566 Counterclockwise Swipe
+ 567 participant06 block052 trial0567               Swipe Up
+ 568 participant06 block052 trial0568                  Pinch
+ 569 participant06 block052 trial0569                   Rest
+ 570 participant06 block052 trial0570             Swipe Down
+ 571 participant06 block052 trial0571                 Spread
+ 572 participant06 block052 trial0572        Clockwise Swipe
+ 573 participant06 block053 trial0573                 Spread
+ 574 participant06 block053 trial0574                   Rest
+ 575 participant06 block053 trial0575                    Tap
+ 576 participant06 block053 trial0576        Clockwise Swipe
+ 577 participant06 block053 trial0577             Swipe Left
+ 578 participant06 block053 trial0578 Counterclockwise Swipe
+ 579 participant06 block053 trial0579             Double Tap
+ 580 participant06 block053 trial0580                  Pinch
+ 581 participant06 block053 trial0581               Swipe Up
+ 582 participant06 block053 trial0582             Swipe Down
+ 583 participant06 block053 trial0583            Swipe Right
+ 584 participant06 block054 trial0584             Swipe Down
+ 585 participant06 block054 trial0585             Double Tap
+ 586 participant06 block054 trial0586               Swipe Up
+ 587 participant06 block054 trial0587        Clockwise Swipe
+ 588 participant06 block054 trial0588                 Spread
+ 589 participant06 block054 trial0589             Swipe Left
+ 590 participant06 block054 trial0590                  Pinch
+ 591 participant06 block054 trial0591            Swipe Right
+ 592 participant06 block054 trial0592 Counterclockwise Swipe
+ 593 participant06 block054 trial0593                    Tap
+ 594 participant06 block054 trial0594                   Rest
+ 595 participant06 block055 trial0595                   Rest
+ 596 participant06 block055 trial0596                    Tap
+ 597 participant06 block055 trial0597             Swipe Down
+ 598 participant06 block055 trial0598 Counterclockwise Swipe
+ 599 participant06 block055 trial0599             Double Tap
+ 600 participant06 block055 trial0600             Swipe Left
+ 601 participant06 block055 trial0601               Swipe Up
+ 602 participant06 block055 trial0602                 Spread
+ 603 participant06 block055 trial0603        Clockwise Swipe
+ 604 participant06 block055 trial0604                  Pinch
+ 605 participant06 block055 trial0605            Swipe Right
+ 606 participant06 block056 trial0606                    Tap
+ 607 participant06 block056 trial0607             Swipe Down
+ 608 participant06 block056 trial0608                   Rest
+ 609 participant06 block056 trial0609                  Pinch
+ 610 participant06 block056 trial0610             Swipe Left
+ 611 participant06 block056 trial0611 Counterclockwise Swipe
+ 612 participant06 block056 trial0612            Swipe Right
+ 613 participant06 block056 trial0613        Clockwise Swipe
+ 614 participant06 block056 trial0614               Swipe Up
+ 615 participant06 block056 trial0615                 Spread
+ 616 participant06 block056 trial0616             Double Tap
+ 617 participant06 block057 trial0617        Clockwise Swipe
+ 618 participant06 block057 trial0618            Swipe Right
+ 619 participant06 block057 trial0619             Double Tap
+ 620 participant06 block057 trial0620             Swipe Left
+ 621 participant06 block057 trial0621                  Pinch
+ 622 participant06 block057 trial0622                    Tap
+ 623 participant06 block057 trial0623 Counterclockwise Swipe
+ 624 participant06 block057 trial0624                 Spread
+ 625 participant06 block057 trial0625               Swipe Up
+ 626 participant06 block057 trial0626             Swipe Down
+ 627 participant06 block057 trial0627                   Rest
+ 628 participant06 block058 trial0628             Swipe Down
+ 629 participant06 block058 trial0629            Swipe Right
+ 630 participant06 block058 trial0630                 Spread
+ 631 participant06 block058 trial0631             Swipe Left
+ 632 participant06 block058 trial0632                   Rest
+ 633 participant06 block058 trial0633                  Pinch
+ 634 participant06 block058 trial0634        Clockwise Swipe
+ 635 participant06 block058 trial0635               Swipe Up
+ 636 participant06 block058 trial0636             Double Tap
+ 637 participant06 block058 trial0637 Counterclockwise Swipe
+ 638 participant06 block058 trial0638                    Tap
+ 639 participant06 block059 trial0639 Counterclockwise Swipe
+ 640 participant06 block059 trial0640                    Tap
+ 641 participant06 block059 trial0641                   Rest
+ 642 participant06 block059 trial0642             Swipe Left
+ 643 participant06 block059 trial0643               Swipe Up
+ 644 participant06 block059 trial0644                  Pinch
+ 645 participant06 block059 trial0645             Swipe Down
+ 646 participant06 block059 trial0646            Swipe Right
+ 647 participant06 block059 trial0647                 Spread
+ 648 participant06 block059 trial0648             Double Tap
+ 649 participant06 block059 trial0649        Clockwise Swipe
+ 650 participant06 block060 trial0650             Double Tap
+ 651 participant06 block060 trial0651               Swipe Up
+ 652 participant06 block060 trial0652        Clockwise Swipe
+ 653 participant06 block060 trial0653                 Spread
+ 654 participant06 block060 trial0654             Swipe Down
+ 655 participant06 block060 trial0655            Swipe Right
+ 656 participant06 block060 trial0656             Swipe Left
+ 657 participant06 block060 trial0657                    Tap
+ 658 participant06 block060 trial0658 Counterclockwise Swipe
+ 659 participant06 block060 trial0659                   Rest
+ 660 participant06 block060 trial0660                  Pinch
+ 661 participant07 block061 trial0661             Double Tap
+ 662 participant07 block061 trial0662 Counterclockwise Swipe
+ 663 participant07 block061 trial0663            Swipe Right
+ 664 participant07 block061 trial0664               Swipe Up
+ 665 participant07 block061 trial0665        Clockwise Swipe
+ 666 participant07 block061 trial0666                  Pinch
+ 667 participant07 block061 trial0667             Swipe Down
+ 668 participant07 block061 trial0668             Swipe Left
+ 669 participant07 block061 trial0669                    Tap
+ 670 participant07 block061 trial0670                 Spread
+ 671 participant07 block061 trial0671                   Rest
+ 672 participant07 block062 trial0672               Swipe Up
+ 673 participant07 block062 trial0673                  Pinch
+ 674 participant07 block062 trial0674                 Spread
+ 675 participant07 block062 trial0675            Swipe Right
+ 676 participant07 block062 trial0676        Clockwise Swipe
+ 677 participant07 block062 trial0677                   Rest
+ 678 participant07 block062 trial0678             Swipe Down
+ 679 participant07 block062 trial0679                    Tap
+ 680 participant07 block062 trial0680             Swipe Left
+ 681 participant07 block062 trial0681 Counterclockwise Swipe
+ 682 participant07 block062 trial0682             Double Tap
+ 683 participant07 block063 trial0683                   Rest
+ 684 participant07 block063 trial0684                  Pinch
+ 685 participant07 block063 trial0685                    Tap
+ 686 participant07 block063 trial0686             Swipe Down
+ 687 participant07 block063 trial0687             Swipe Left
+ 688 participant07 block063 trial0688 Counterclockwise Swipe
+ 689 participant07 block063 trial0689                 Spread
+ 690 participant07 block063 trial0690            Swipe Right
+ 691 participant07 block063 trial0691        Clockwise Swipe
+ 692 participant07 block063 trial0692             Double Tap
+ 693 participant07 block063 trial0693               Swipe Up
+ 694 participant07 block064 trial0694               Swipe Up
+ 695 participant07 block064 trial0695                    Tap
+ 696 participant07 block064 trial0696        Clockwise Swipe
+ 697 participant07 block064 trial0697                   Rest
+ 698 participant07 block064 trial0698             Swipe Down
+ 699 participant07 block064 trial0699             Swipe Left
+ 700 participant07 block064 trial0700                  Pinch
+ 701 participant07 block064 trial0701             Double Tap
+ 702 participant07 block064 trial0702 Counterclockwise Swipe
+ 703 participant07 block064 trial0703            Swipe Right
+ 704 participant07 block064 trial0704                 Spread
+ 705 participant07 block065 trial0705            Swipe Right
+ 706 participant07 block065 trial0706             Swipe Left
+ 707 participant07 block065 trial0707 Counterclockwise Swipe
+ 708 participant07 block065 trial0708                   Rest
+ 709 participant07 block065 trial0709                 Spread
+ 710 participant07 block065 trial0710                  Pinch
+ 711 participant07 block065 trial0711             Double Tap
+ 712 participant07 block065 trial0712               Swipe Up
+ 713 participant07 block065 trial0713             Swipe Down
+ 714 participant07 block065 trial0714                    Tap
+ 715 participant07 block065 trial0715        Clockwise Swipe
+ 716 participant07 block066 trial0716               Swipe Up
+ 717 participant07 block066 trial0717                  Pinch
+ 718 participant07 block066 trial0718        Clockwise Swipe
+ 719 participant07 block066 trial0719             Swipe Down
+ 720 participant07 block066 trial0720             Double Tap
+ 721 participant07 block066 trial0721 Counterclockwise Swipe
+ 722 participant07 block066 trial0722             Swipe Left
+ 723 participant07 block066 trial0723                   Rest
+ 724 participant07 block066 trial0724                    Tap
+ 725 participant07 block066 trial0725            Swipe Right
+ 726 participant07 block066 trial0726                 Spread
+ 727 participant07 block067 trial0727        Clockwise Swipe
+ 728 participant07 block067 trial0728                  Pinch
+ 729 participant07 block067 trial0729             Swipe Left
+ 730 participant07 block067 trial0730                   Rest
+ 731 participant07 block067 trial0731                 Spread
+ 732 participant07 block067 trial0732               Swipe Up
+ 733 participant07 block067 trial0733            Swipe Right
+ 734 participant07 block067 trial0734             Double Tap
+ 735 participant07 block067 trial0735             Swipe Down
+ 736 participant07 block067 trial0736 Counterclockwise Swipe
+ 737 participant07 block067 trial0737                    Tap
+ 738 participant07 block068 trial0738                  Pinch
+ 739 participant07 block068 trial0739 Counterclockwise Swipe
+ 740 participant07 block068 trial0740                    Tap
+ 741 participant07 block068 trial0741        Clockwise Swipe
+ 742 participant07 block068 trial0742             Swipe Left
+ 743 participant07 block068 trial0743                 Spread
+ 744 participant07 block068 trial0744                   Rest
+ 745 participant07 block068 trial0745             Swipe Down
+ 746 participant07 block068 trial0746             Double Tap
+ 747 participant07 block068 trial0747            Swipe Right
+ 748 participant07 block068 trial0748               Swipe Up
+ 749 participant07 block069 trial0749        Clockwise Swipe
+ 750 participant07 block069 trial0750                   Rest
+ 751 participant07 block069 trial0751                  Pinch
+ 752 participant07 block069 trial0752               Swipe Up
+ 753 participant07 block069 trial0753                    Tap
+ 754 participant07 block069 trial0754                 Spread
+ 755 participant07 block069 trial0755             Swipe Down
+ 756 participant07 block069 trial0756            Swipe Right
+ 757 participant07 block069 trial0757 Counterclockwise Swipe
+ 758 participant07 block069 trial0758             Double Tap
+ 759 participant07 block069 trial0759             Swipe Left
+ 760 participant07 block070 trial0760             Swipe Left
+ 761 participant07 block070 trial0761        Clockwise Swipe
+ 762 participant07 block070 trial0762                  Pinch
+ 763 participant07 block070 trial0763             Swipe Down
+ 764 participant07 block070 trial0764                    Tap
+ 765 participant07 block070 trial0765             Double Tap
+ 766 participant07 block070 trial0766 Counterclockwise Swipe
+ 767 participant07 block070 trial0767               Swipe Up
+ 768 participant07 block070 trial0768                 Spread
+ 769 participant07 block070 trial0769            Swipe Right
+ 770 participant07 block070 trial0770                   Rest
+ 771 participant08 block071 trial0771                   Rest
+ 772 participant08 block071 trial0772                  Pinch
+ 773 participant08 block071 trial0773               Swipe Up
+ 774 participant08 block071 trial0774 Counterclockwise Swipe
+ 775 participant08 block071 trial0775                    Tap
+ 776 participant08 block071 trial0776             Swipe Down
+ 777 participant08 block071 trial0777             Swipe Left
+ 778 participant08 block071 trial0778                 Spread
+ 779 participant08 block071 trial0779            Swipe Right
+ 780 participant08 block071 trial0780             Double Tap
+ 781 participant08 block071 trial0781        Clockwise Swipe
+ 782 participant08 block072 trial0782                  Pinch
+ 783 participant08 block072 trial0783                   Rest
+ 784 participant08 block072 trial0784                    Tap
+ 785 participant08 block072 trial0785               Swipe Up
+ 786 participant08 block072 trial0786 Counterclockwise Swipe
+ 787 participant08 block072 trial0787        Clockwise Swipe
+ 788 participant08 block072 trial0788             Swipe Left
+ 789 participant08 block072 trial0789                 Spread
+ 790 participant08 block072 trial0790             Double Tap
+ 791 participant08 block072 trial0791             Swipe Down
+ 792 participant08 block072 trial0792            Swipe Right
+ 793 participant08 block073 trial0793             Swipe Left
+ 794 participant08 block073 trial0794                  Pinch
+ 795 participant08 block073 trial0795 Counterclockwise Swipe
+ 796 participant08 block073 trial0796        Clockwise Swipe
+ 797 participant08 block073 trial0797               Swipe Up
+ 798 participant08 block073 trial0798                 Spread
+ 799 participant08 block073 trial0799             Double Tap
+ 800 participant08 block073 trial0800                   Rest
+ 801 participant08 block073 trial0801            Swipe Right
+ 802 participant08 block073 trial0802             Swipe Down
+ 803 participant08 block073 trial0803                    Tap
+ 804 participant08 block074 trial0804 Counterclockwise Swipe
+ 805 participant08 block074 trial0805             Double Tap
+ 806 participant08 block074 trial0806             Swipe Left
+ 807 participant08 block074 trial0807        Clockwise Swipe
+ 808 participant08 block074 trial0808                    Tap
+ 809 participant08 block074 trial0809            Swipe Right
+ 810 participant08 block074 trial0810               Swipe Up
+ 811 participant08 block074 trial0811                  Pinch
+ 812 participant08 block074 trial0812                 Spread
+ 813 participant08 block074 trial0813             Swipe Down
+ 814 participant08 block074 trial0814                   Rest
+ 815 participant08 block075 trial0815            Swipe Right
+ 816 participant08 block075 trial0816                 Spread
+ 817 participant08 block075 trial0817        Clockwise Swipe
+ 818 participant08 block075 trial0818 Counterclockwise Swipe
+ 819 participant08 block075 trial0819                   Rest
+ 820 participant08 block075 trial0820                    Tap
+ 821 participant08 block075 trial0821             Swipe Left
+ 822 participant08 block075 trial0822               Swipe Up
+ 823 participant08 block075 trial0823             Double Tap
+ 824 participant08 block075 trial0824                  Pinch
+ 825 participant08 block075 trial0825             Swipe Down
+ 826 participant08 block076 trial0826                    Tap
+ 827 participant08 block076 trial0827             Double Tap
+ 828 participant08 block076 trial0828                 Spread
+ 829 participant08 block076 trial0829                   Rest
+ 830 participant08 block076 trial0830            Swipe Right
+ 831 participant08 block076 trial0831               Swipe Up
+ 832 participant08 block076 trial0832             Swipe Left
+ 833 participant08 block076 trial0833        Clockwise Swipe
+ 834 participant08 block076 trial0834             Swipe Down
+ 835 participant08 block076 trial0835 Counterclockwise Swipe
+ 836 participant08 block076 trial0836                  Pinch
+ 837 participant08 block077 trial0837             Swipe Left
+ 838 participant08 block077 trial0838               Swipe Up
+ 839 participant08 block077 trial0839                    Tap
+ 840 participant08 block077 trial0840                 Spread
+ 841 participant08 block077 trial0841                   Rest
+ 842 participant08 block077 trial0842            Swipe Right
+ 843 participant08 block077 trial0843 Counterclockwise Swipe
+ 844 participant08 block077 trial0844        Clockwise Swipe
+ 845 participant08 block077 trial0845             Double Tap
+ 846 participant08 block077 trial0846                  Pinch
+ 847 participant08 block077 trial0847             Swipe Down
+ 848 participant08 block078 trial0848             Swipe Left
+ 849 participant08 block078 trial0849                    Tap
+ 850 participant08 block078 trial0850               Swipe Up
+ 851 participant08 block078 trial0851                  Pinch
+ 852 participant08 block078 trial0852                   Rest
+ 853 participant08 block078 trial0853                 Spread
+ 854 participant08 block078 trial0854 Counterclockwise Swipe
+ 855 participant08 block078 trial0855        Clockwise Swipe
+ 856 participant08 block078 trial0856            Swipe Right
+ 857 participant08 block078 trial0857             Swipe Down
+ 858 participant08 block078 trial0858             Double Tap
+ 859 participant08 block079 trial0859 Counterclockwise Swipe
+ 860 participant08 block079 trial0860            Swipe Right
+ 861 participant08 block079 trial0861             Double Tap
+ 862 participant08 block079 trial0862                 Spread
+ 863 participant08 block079 trial0863                   Rest
+ 864 participant08 block079 trial0864             Swipe Down
+ 865 participant08 block079 trial0865               Swipe Up
+ 866 participant08 block079 trial0866             Swipe Left
+ 867 participant08 block079 trial0867                    Tap
+ 868 participant08 block079 trial0868                  Pinch
+ 869 participant08 block079 trial0869        Clockwise Swipe
+ 870 participant08 block080 trial0870             Swipe Down
+ 871 participant08 block080 trial0871            Swipe Right
+ 872 participant08 block080 trial0872                   Rest
+ 873 participant08 block080 trial0873                    Tap
+ 874 participant08 block080 trial0874        Clockwise Swipe
+ 875 participant08 block080 trial0875                  Pinch
+ 876 participant08 block080 trial0876             Swipe Left
+ 877 participant08 block080 trial0877               Swipe Up
+ 878 participant08 block080 trial0878                 Spread
+ 879 participant08 block080 trial0879 Counterclockwise Swipe
+ 880 participant08 block080 trial0880             Double Tap
+ 881 participant09 block081 trial0881             Swipe Down
+ 882 participant09 block081 trial0882            Swipe Right
+ 883 participant09 block081 trial0883                    Tap
+ 884 participant09 block081 trial0884                 Spread
+ 885 participant09 block081 trial0885             Swipe Left
+ 886 participant09 block081 trial0886                   Rest
+ 887 participant09 block081 trial0887                  Pinch
+ 888 participant09 block081 trial0888             Double Tap
+ 889 participant09 block081 trial0889 Counterclockwise Swipe
+ 890 participant09 block081 trial0890               Swipe Up
+ 891 participant09 block081 trial0891        Clockwise Swipe
+ 892 participant09 block082 trial0892                  Pinch
+ 893 participant09 block082 trial0893             Swipe Left
+ 894 participant09 block082 trial0894            Swipe Right
+ 895 participant09 block082 trial0895 Counterclockwise Swipe
+ 896 participant09 block082 trial0896                   Rest
+ 897 participant09 block082 trial0897                 Spread
+ 898 participant09 block082 trial0898                    Tap
+ 899 participant09 block082 trial0899             Swipe Down
+ 900 participant09 block082 trial0900        Clockwise Swipe
+ 901 participant09 block082 trial0901             Double Tap
+ 902 participant09 block082 trial0902               Swipe Up
+ 903 participant09 block083 trial0903        Clockwise Swipe
+ 904 participant09 block083 trial0904             Swipe Left
+ 905 participant09 block083 trial0905                 Spread
+ 906 participant09 block083 trial0906            Swipe Right
+ 907 participant09 block083 trial0907             Double Tap
+ 908 participant09 block083 trial0908                  Pinch
+ 909 participant09 block083 trial0909             Swipe Down
+ 910 participant09 block083 trial0910               Swipe Up
+ 911 participant09 block083 trial0911                   Rest
+ 912 participant09 block083 trial0912                    Tap
+ 913 participant09 block083 trial0913 Counterclockwise Swipe
+ 914 participant09 block084 trial0914        Clockwise Swipe
+ 915 participant09 block084 trial0915               Swipe Up
+ 916 participant09 block084 trial0916                    Tap
+ 917 participant09 block084 trial0917                  Pinch
+ 918 participant09 block084 trial0918             Swipe Left
+ 919 participant09 block084 trial0919            Swipe Right
+ 920 participant09 block084 trial0920             Swipe Down
+ 921 participant09 block084 trial0921 Counterclockwise Swipe
+ 922 participant09 block084 trial0922             Double Tap
+ 923 participant09 block084 trial0923                 Spread
+ 924 participant09 block084 trial0924                   Rest
+ 925 participant09 block085 trial0925               Swipe Up
+ 926 participant09 block085 trial0926                    Tap
+ 927 participant09 block085 trial0927                 Spread
+ 928 participant09 block085 trial0928                  Pinch
+ 929 participant09 block085 trial0929 Counterclockwise Swipe
+ 930 participant09 block085 trial0930                   Rest
+ 931 participant09 block085 trial0931             Swipe Left
+ 932 participant09 block085 trial0932            Swipe Right
+ 933 participant09 block085 trial0933             Swipe Down
+ 934 participant09 block085 trial0934             Double Tap
+ 935 participant09 block085 trial0935        Clockwise Swipe
+ 936 participant09 block086 trial0936             Swipe Down
+ 937 participant09 block086 trial0937             Double Tap
+ 938 participant09 block086 trial0938        Clockwise Swipe
+ 939 participant09 block086 trial0939 Counterclockwise Swipe
+ 940 participant09 block086 trial0940             Swipe Left
+ 941 participant09 block086 trial0941                 Spread
+ 942 participant09 block086 trial0942                  Pinch
+ 943 participant09 block086 trial0943                    Tap
+ 944 participant09 block086 trial0944                   Rest
+ 945 participant09 block086 trial0945            Swipe Right
+ 946 participant09 block086 trial0946               Swipe Up
+ 947 participant09 block087 trial0947        Clockwise Swipe
+ 948 participant09 block087 trial0948            Swipe Right
+ 949 participant09 block087 trial0949                    Tap
+ 950 participant09 block087 trial0950                   Rest
+ 951 participant09 block087 trial0951 Counterclockwise Swipe
+ 952 participant09 block087 trial0952                  Pinch
+ 953 participant09 block087 trial0953             Swipe Left
+ 954 participant09 block087 trial0954             Double Tap
+ 955 participant09 block087 trial0955                 Spread
+ 956 participant09 block087 trial0956             Swipe Down
+ 957 participant09 block087 trial0957               Swipe Up
+ 958 participant09 block088 trial0958             Swipe Down
+ 959 participant09 block088 trial0959                  Pinch
+ 960 participant09 block088 trial0960             Swipe Left
+ 961 participant09 block088 trial0961 Counterclockwise Swipe
+ 962 participant09 block088 trial0962                   Rest
+ 963 participant09 block088 trial0963            Swipe Right
+ 964 participant09 block088 trial0964               Swipe Up
+ 965 participant09 block088 trial0965                 Spread
+ 966 participant09 block088 trial0966        Clockwise Swipe
+ 967 participant09 block088 trial0967                    Tap
+ 968 participant09 block088 trial0968             Double Tap
+ 969 participant09 block089 trial0969 Counterclockwise Swipe
+ 970 participant09 block089 trial0970               Swipe Up
+ 971 participant09 block089 trial0971                   Rest
+ 972 participant09 block089 trial0972             Double Tap
+ 973 participant09 block089 trial0973                 Spread
+ 974 participant09 block089 trial0974                    Tap
+ 975 participant09 block089 trial0975                  Pinch
+ 976 participant09 block089 trial0976             Swipe Left
+ 977 participant09 block089 trial0977        Clockwise Swipe
+ 978 participant09 block089 trial0978            Swipe Right
+ 979 participant09 block089 trial0979             Swipe Down
+ 980 participant09 block090 trial0980                    Tap
+ 981 participant09 block090 trial0981                  Pinch
+ 982 participant09 block090 trial0982                   Rest
+ 983 participant09 block090 trial0983               Swipe Up
+ 984 participant09 block090 trial0984            Swipe Right
+ 985 participant09 block090 trial0985        Clockwise Swipe
+ 986 participant09 block090 trial0986             Swipe Left
+ 987 participant09 block090 trial0987                 Spread
+ 988 participant09 block090 trial0988 Counterclockwise Swipe
+ 989 participant09 block090 trial0989             Double Tap
+ 990 participant09 block090 trial0990             Swipe Down
+ 991 participant10 block091 trial0991        Clockwise Swipe
+ 992 participant10 block091 trial0992 Counterclockwise Swipe
+ 993 participant10 block091 trial0993                 Spread
+ 994 participant10 block091 trial0994                  Pinch
+ 995 participant10 block091 trial0995                   Rest
+ 996 participant10 block091 trial0996            Swipe Right
+ 997 participant10 block091 trial0997               Swipe Up
+ 998 participant10 block091 trial0998             Swipe Down
+ 999 participant10 block091 trial0999             Swipe Left
+1000 participant10 block091 trial1000             Double Tap
+1001 participant10 block091 trial1001                    Tap
+1002 participant10 block092 trial1002 Counterclockwise Swipe
+1003 participant10 block092 trial1003             Double Tap
+1004 participant10 block092 trial1004             Swipe Down
+1005 participant10 block092 trial1005            Swipe Right
+1006 participant10 block092 trial1006        Clockwise Swipe
+1007 participant10 block092 trial1007                   Rest
+1008 participant10 block092 trial1008                    Tap
+1009 participant10 block092 trial1009               Swipe Up
+1010 participant10 block092 trial1010                 Spread
+1011 participant10 block092 trial1011                  Pinch
+1012 participant10 block092 trial1012             Swipe Left
+1013 participant10 block093 trial1013             Double Tap
+1014 participant10 block093 trial1014             Swipe Left
+1015 participant10 block093 trial1015                   Rest
+1016 participant10 block093 trial1016                  Pinch
+1017 participant10 block093 trial1017        Clockwise Swipe
+1018 participant10 block093 trial1018            Swipe Right
+1019 participant10 block093 trial1019                    Tap
+1020 participant10 block093 trial1020               Swipe Up
+1021 participant10 block093 trial1021             Swipe Down
+1022 participant10 block093 trial1022                 Spread
+1023 participant10 block093 trial1023 Counterclockwise Swipe
+1024 participant10 block094 trial1024               Swipe Up
+1025 participant10 block094 trial1025                    Tap
+1026 participant10 block094 trial1026             Swipe Left
+1027 participant10 block094 trial1027             Double Tap
+1028 participant10 block094 trial1028             Swipe Down
+1029 participant10 block094 trial1029                   Rest
+1030 participant10 block094 trial1030                  Pinch
+1031 participant10 block094 trial1031        Clockwise Swipe
+1032 participant10 block094 trial1032                 Spread
+1033 participant10 block094 trial1033            Swipe Right
+1034 participant10 block094 trial1034 Counterclockwise Swipe
+1035 participant10 block095 trial1035               Swipe Up
+1036 participant10 block095 trial1036             Double Tap
+1037 participant10 block095 trial1037                 Spread
+1038 participant10 block095 trial1038                   Rest
+1039 participant10 block095 trial1039                    Tap
+1040 participant10 block095 trial1040             Swipe Left
+1041 participant10 block095 trial1041            Swipe Right
+1042 participant10 block095 trial1042                  Pinch
+1043 participant10 block095 trial1043             Swipe Down
+1044 participant10 block095 trial1044 Counterclockwise Swipe
+1045 participant10 block095 trial1045        Clockwise Swipe
+1046 participant10 block096 trial1046               Swipe Up
+1047 participant10 block096 trial1047                   Rest
+1048 participant10 block096 trial1048                    Tap
+1049 participant10 block096 trial1049             Swipe Left
+1050 participant10 block096 trial1050                  Pinch
+1051 participant10 block096 trial1051                 Spread
+1052 participant10 block096 trial1052             Double Tap
+1053 participant10 block096 trial1053            Swipe Right
+1054 participant10 block096 trial1054             Swipe Down
+1055 participant10 block096 trial1055 Counterclockwise Swipe
+1056 participant10 block096 trial1056        Clockwise Swipe
+1057 participant10 block097 trial1057             Swipe Down
+1058 participant10 block097 trial1058                 Spread
+1059 participant10 block097 trial1059        Clockwise Swipe
+1060 participant10 block097 trial1060            Swipe Right
+1061 participant10 block097 trial1061 Counterclockwise Swipe
+1062 participant10 block097 trial1062               Swipe Up
+1063 participant10 block097 trial1063                   Rest
+1064 participant10 block097 trial1064             Swipe Left
+1065 participant10 block097 trial1065             Double Tap
+1066 participant10 block097 trial1066                  Pinch
+1067 participant10 block097 trial1067                    Tap
+1068 participant10 block098 trial1068                    Tap
+1069 participant10 block098 trial1069             Swipe Left
+1070 participant10 block098 trial1070 Counterclockwise Swipe
+1071 participant10 block098 trial1071             Swipe Down
+1072 participant10 block098 trial1072            Swipe Right
+1073 participant10 block098 trial1073                 Spread
+1074 participant10 block098 trial1074                  Pinch
+1075 participant10 block098 trial1075               Swipe Up
+1076 participant10 block098 trial1076             Double Tap
+1077 participant10 block098 trial1077                   Rest
+1078 participant10 block098 trial1078        Clockwise Swipe
+1079 participant10 block099 trial1079             Swipe Left
+1080 participant10 block099 trial1080             Double Tap
+1081 participant10 block099 trial1081               Swipe Up
+1082 participant10 block099 trial1082                 Spread
+1083 participant10 block099 trial1083 Counterclockwise Swipe
+1084 participant10 block099 trial1084                    Tap
+1085 participant10 block099 trial1085        Clockwise Swipe
+1086 participant10 block099 trial1086            Swipe Right
+1087 participant10 block099 trial1087             Swipe Down
+1088 participant10 block099 trial1088                  Pinch
+1089 participant10 block099 trial1089                   Rest
+1090 participant10 block100 trial1090 Counterclockwise Swipe
+1091 participant10 block100 trial1091             Double Tap
+1092 participant10 block100 trial1092             Swipe Left
+1093 participant10 block100 trial1093        Clockwise Swipe
+1094 participant10 block100 trial1094               Swipe Up
+1095 participant10 block100 trial1095                   Rest
+1096 participant10 block100 trial1096                    Tap
+1097 participant10 block100 trial1097                 Spread
+1098 participant10 block100 trial1098            Swipe Right
+1099 participant10 block100 trial1099                  Pinch
+1100 participant10 block100 trial1100             Swipe Down

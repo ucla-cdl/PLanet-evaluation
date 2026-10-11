@@ -1,22 +1,1032 @@
 ***EXPERIMENT PLANS***
 
 plan 1:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 2:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 3:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 4:
 	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 5:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 6:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 7:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 8:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 9:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 10:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 11:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 12:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 13:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 14:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 15:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 16:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 17:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 18:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 19:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 20:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 21:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 22:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 23:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 24:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 25:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 26:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 27:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 28:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 29:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 30:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 31:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 32:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 33:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 34:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 35:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 36:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 37:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 38:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 39:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 40:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 41:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 42:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 43:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 44:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 45:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 46:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 47:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 48:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 49:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 50:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 51:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 52:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 53:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 54:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 55:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 56:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 57:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 58:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 59:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 60:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 61:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 62:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 63:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 64:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 65:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 66:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 67:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 68:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 69:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 70:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 71:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 72:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 73:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 74:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 75:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 76:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 77:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 78:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 79:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 80:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 81:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 82:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 83:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 84:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 85:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 86:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 87:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 88:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 89:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 90:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 91:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 92:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 93:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 94:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 95:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 96:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 97:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 98:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 99:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 100:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 101:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 102:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 103:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 104:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 105:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 106:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 107:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 108:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 109:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 110:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 111:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 112:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 113:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 114:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 115:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 116:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 117:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 118:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 119:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 120:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 121:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 122:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 123:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 124:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 125:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 126:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 127:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 128:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 129:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 130:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 131:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 132:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 133:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 134:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 135:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 136:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 137:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 138:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 139:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 140:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 141:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 142:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 143:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 144:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 145:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 146:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 147:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 148:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 149:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 150:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 151:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 152:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 153:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 154:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 155:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 156:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 157:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 158:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 159:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 160:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 161:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 162:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 163:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 164:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 165:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 166:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 167:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 168:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 169:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 170:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 171:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 172:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 173:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 174:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 175:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 176:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 177:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 178:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 179:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 180:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 181:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 182:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 183:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 184:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 185:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 186:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 187:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 188:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 189:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 190:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 191:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 192:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 193:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 194:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 195:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 196:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 197:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 198:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 199:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 200:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 201:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 202:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 203:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 204:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 205:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 206:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 207:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 208:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 209:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 210:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 211:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 212:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 213:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 214:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 215:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 216:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 217:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 218:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 219:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 220:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 221:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 222:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 223:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 224:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 225:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 226:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 227:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 228:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 229:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 230:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 231:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 232:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 233:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 234:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 235:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 236:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 237:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 238:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 239:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 240:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 241:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 242:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 243:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 244:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 245:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 246:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 247:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 248:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 249:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 250:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 251:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 252:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 253:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 254:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 255:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 256:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 257:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 258:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 259:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 260:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 261:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 262:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 263:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 264:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 265:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 266:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 267:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 268:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 269:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 270:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 271:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 272:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 273:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 274:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 275:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 276:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 277:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 278:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 279:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 280:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 281:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 282:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 283:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 284:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 285:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 286:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 287:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 288:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 289:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 290:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 291:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 292:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 293:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 294:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 295:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 296:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 297:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 298:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 299:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 300:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 301:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 302:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 303:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 304:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 305:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 306:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 307:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 308:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 309:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 310:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 311:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 312:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 313:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 314:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 315:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 316:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 317:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 318:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 319:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 320:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 321:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 322:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 323:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 324:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 325:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 326:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 327:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 328:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 329:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 330:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 331:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 332:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 333:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 334:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 335:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 336:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 337:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 338:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 339:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 340:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 341:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 342:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 343:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 344:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 345:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 346:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 347:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 348:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 349:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 350:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 351:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 352:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 353:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 354:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 355:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 356:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 357:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 358:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 359:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 360:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 361:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 362:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 363:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 364:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 365:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 366:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 367:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 368:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 369:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 370:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 371:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 372:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 373:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 374:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 375:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 376:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 377:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 378:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 379:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 380:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 381:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 382:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 383:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 384:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 385:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 386:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 387:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 388:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 389:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 390:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 391:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 392:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 393:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 394:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 395:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 396:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 397:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 398:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 399:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 400:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 401:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 402:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 403:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 404:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 405:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 406:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 407:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 408:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 409:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 410:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 411:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 412:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 413:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 414:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 415:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 416:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 417:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 418:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 419:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 420:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 421:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 422:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 423:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 424:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 425:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 426:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 427:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 428:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 429:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 430:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 431:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 432:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 433:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 434:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 435:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 436:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 437:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 438:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 439:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 440:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 441:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 442:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 443:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 444:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 445:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 446:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 447:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 448:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 449:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 450:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 451:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 452:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 453:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 454:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 455:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 456:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 457:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 458:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 459:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 460:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 461:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 462:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 463:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 464:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 465:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 466:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 467:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 468:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 469:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 470:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 471:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 472:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 473:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 474:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 475:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 476:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 477:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 478:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 479:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 480:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 481:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 482:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
+plan 483:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 484:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 485:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 486:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 487:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 488:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 489:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 490:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 491:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 492:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 493:
+	trial 1: Type of Augmentation = Sensory, Condition = Disability
+plan 494:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 495:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 496:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 497:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 498:
+	trial 1: Type of Augmentation = Cognitive, Condition = No Disability
+plan 499:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 500:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 501:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 502:
+	trial 1: Type of Augmentation = Cognitive, Condition = Disability
+plan 503:
+	trial 1: Type of Augmentation = Sensory, Condition = No Disability
+plan 504:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 505:
+	trial 1: Type of Augmentation = Motor, Condition = Disability
+plan 506:
+	trial 1: Type of Augmentation = Motor, Condition = No Disability
  
 
 ***ASSIGNMENT***
 
      pid  plan
-0      1     0
-1      2     0
-2      3     0
-3      4     0
-4      5     0
+0      1   485
+1      2   339
+2      3   267
+3      4   390
+4      5   471
 ..   ...   ...
-501  502     0
-502  503     0
-503  504     0
-504  505     0
-505  506     0
+501  502   310
+502  503    77
+503  504   148
+504  505   296
+505  506    23
 
 [506 rows x 2 columns]

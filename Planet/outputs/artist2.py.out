@@ -1,423 +1,423 @@
 ***EXPERIMENT PLANS***
 
 plan 1:
-	trial 1: condition = M2, subtask = S2
-	trial 2: condition = M2, subtask = S2
-	trial 3: condition = M2, subtask = S2
-	trial 4: condition = M4, subtask = S1
-	trial 5: condition = M4, subtask = S1
-	trial 6: condition = M4, subtask = S1
-	trial 7: condition = M3, subtask = S5
-	trial 8: condition = M3, subtask = S5
-	trial 9: condition = M3, subtask = S5
-	trial 10: condition = M5, subtask = S3
-	trial 11: condition = M5, subtask = S3
-	trial 12: condition = M5, subtask = S3
-	trial 13: condition = M1, subtask = S4
-	trial 14: condition = M1, subtask = S4
-	trial 15: condition = M1, subtask = S4
-plan 2:
-	trial 1: condition = M5, subtask = S2
-	trial 2: condition = M5, subtask = S2
-	trial 3: condition = M5, subtask = S2
-	trial 4: condition = M3, subtask = S1
-	trial 5: condition = M3, subtask = S1
-	trial 6: condition = M3, subtask = S1
-	trial 7: condition = M2, subtask = S5
-	trial 8: condition = M2, subtask = S5
-	trial 9: condition = M2, subtask = S5
-	trial 10: condition = M1, subtask = S3
-	trial 11: condition = M1, subtask = S3
-	trial 12: condition = M1, subtask = S3
-	trial 13: condition = M4, subtask = S4
-	trial 14: condition = M4, subtask = S4
-	trial 15: condition = M4, subtask = S4
-plan 3:
-	trial 1: condition = M1, subtask = S2
-	trial 2: condition = M1, subtask = S2
-	trial 3: condition = M1, subtask = S2
-	trial 4: condition = M2, subtask = S1
-	trial 5: condition = M2, subtask = S1
-	trial 6: condition = M2, subtask = S1
-	trial 7: condition = M4, subtask = S5
-	trial 8: condition = M4, subtask = S5
-	trial 9: condition = M4, subtask = S5
-	trial 10: condition = M3, subtask = S3
-	trial 11: condition = M3, subtask = S3
-	trial 12: condition = M3, subtask = S3
-	trial 13: condition = M5, subtask = S4
-	trial 14: condition = M5, subtask = S4
-	trial 15: condition = M5, subtask = S4
-plan 4:
-	trial 1: condition = M3, subtask = S2
-	trial 2: condition = M3, subtask = S2
-	trial 3: condition = M3, subtask = S2
-	trial 4: condition = M5, subtask = S1
-	trial 5: condition = M5, subtask = S1
-	trial 6: condition = M5, subtask = S1
-	trial 7: condition = M1, subtask = S5
-	trial 8: condition = M1, subtask = S5
-	trial 9: condition = M1, subtask = S5
-	trial 10: condition = M4, subtask = S3
-	trial 11: condition = M4, subtask = S3
-	trial 12: condition = M4, subtask = S3
-	trial 13: condition = M2, subtask = S4
-	trial 14: condition = M2, subtask = S4
-	trial 15: condition = M2, subtask = S4
-plan 5:
-	trial 1: condition = M4, subtask = S2
-	trial 2: condition = M4, subtask = S2
-	trial 3: condition = M4, subtask = S2
-	trial 4: condition = M1, subtask = S1
-	trial 5: condition = M1, subtask = S1
-	trial 6: condition = M1, subtask = S1
-	trial 7: condition = M5, subtask = S5
-	trial 8: condition = M5, subtask = S5
-	trial 9: condition = M5, subtask = S5
-	trial 10: condition = M2, subtask = S3
-	trial 11: condition = M2, subtask = S3
-	trial 12: condition = M2, subtask = S3
-	trial 13: condition = M3, subtask = S4
-	trial 14: condition = M3, subtask = S4
-	trial 15: condition = M3, subtask = S4
-plan 6:
-	trial 1: condition = M2, subtask = S4
-	trial 2: condition = M2, subtask = S4
-	trial 3: condition = M2, subtask = S4
-	trial 4: condition = M4, subtask = S2
-	trial 5: condition = M4, subtask = S2
-	trial 6: condition = M4, subtask = S2
-	trial 7: condition = M3, subtask = S1
-	trial 8: condition = M3, subtask = S1
-	trial 9: condition = M3, subtask = S1
-	trial 10: condition = M5, subtask = S5
-	trial 11: condition = M5, subtask = S5
-	trial 12: condition = M5, subtask = S5
-	trial 13: condition = M1, subtask = S3
-	trial 14: condition = M1, subtask = S3
-	trial 15: condition = M1, subtask = S3
-plan 7:
-	trial 1: condition = M5, subtask = S4
-	trial 2: condition = M5, subtask = S4
-	trial 3: condition = M5, subtask = S4
-	trial 4: condition = M3, subtask = S2
-	trial 5: condition = M3, subtask = S2
-	trial 6: condition = M3, subtask = S2
-	trial 7: condition = M2, subtask = S1
-	trial 8: condition = M2, subtask = S1
-	trial 9: condition = M2, subtask = S1
-	trial 10: condition = M1, subtask = S5
-	trial 11: condition = M1, subtask = S5
-	trial 12: condition = M1, subtask = S5
-	trial 13: condition = M4, subtask = S3
-	trial 14: condition = M4, subtask = S3
-	trial 15: condition = M4, subtask = S3
-plan 8:
-	trial 1: condition = M1, subtask = S4
-	trial 2: condition = M1, subtask = S4
-	trial 3: condition = M1, subtask = S4
-	trial 4: condition = M2, subtask = S2
-	trial 5: condition = M2, subtask = S2
-	trial 6: condition = M2, subtask = S2
-	trial 7: condition = M4, subtask = S1
-	trial 8: condition = M4, subtask = S1
-	trial 9: condition = M4, subtask = S1
-	trial 10: condition = M3, subtask = S5
-	trial 11: condition = M3, subtask = S5
-	trial 12: condition = M3, subtask = S5
-	trial 13: condition = M5, subtask = S3
-	trial 14: condition = M5, subtask = S3
-	trial 15: condition = M5, subtask = S3
-plan 9:
-	trial 1: condition = M3, subtask = S4
-	trial 2: condition = M3, subtask = S4
-	trial 3: condition = M3, subtask = S4
-	trial 4: condition = M5, subtask = S2
-	trial 5: condition = M5, subtask = S2
-	trial 6: condition = M5, subtask = S2
-	trial 7: condition = M1, subtask = S1
-	trial 8: condition = M1, subtask = S1
-	trial 9: condition = M1, subtask = S1
-	trial 10: condition = M4, subtask = S5
-	trial 11: condition = M4, subtask = S5
-	trial 12: condition = M4, subtask = S5
-	trial 13: condition = M2, subtask = S3
-	trial 14: condition = M2, subtask = S3
-	trial 15: condition = M2, subtask = S3
-plan 10:
-	trial 1: condition = M4, subtask = S4
-	trial 2: condition = M4, subtask = S4
-	trial 3: condition = M4, subtask = S4
-	trial 4: condition = M1, subtask = S2
-	trial 5: condition = M1, subtask = S2
-	trial 6: condition = M1, subtask = S2
-	trial 7: condition = M5, subtask = S1
-	trial 8: condition = M5, subtask = S1
-	trial 9: condition = M5, subtask = S1
-	trial 10: condition = M2, subtask = S5
-	trial 11: condition = M2, subtask = S5
-	trial 12: condition = M2, subtask = S5
-	trial 13: condition = M3, subtask = S3
-	trial 14: condition = M3, subtask = S3
-	trial 15: condition = M3, subtask = S3
-plan 11:
-	trial 1: condition = M2, subtask = S1
-	trial 2: condition = M2, subtask = S1
-	trial 3: condition = M2, subtask = S1
-	trial 4: condition = M4, subtask = S3
-	trial 5: condition = M4, subtask = S3
-	trial 6: condition = M4, subtask = S3
-	trial 7: condition = M3, subtask = S4
-	trial 8: condition = M3, subtask = S4
-	trial 9: condition = M3, subtask = S4
-	trial 10: condition = M5, subtask = S2
-	trial 11: condition = M5, subtask = S2
-	trial 12: condition = M5, subtask = S2
-	trial 13: condition = M1, subtask = S5
-	trial 14: condition = M1, subtask = S5
-	trial 15: condition = M1, subtask = S5
-plan 12:
-	trial 1: condition = M5, subtask = S1
-	trial 2: condition = M5, subtask = S1
-	trial 3: condition = M5, subtask = S1
-	trial 4: condition = M3, subtask = S3
-	trial 5: condition = M3, subtask = S3
-	trial 6: condition = M3, subtask = S3
-	trial 7: condition = M2, subtask = S4
-	trial 8: condition = M2, subtask = S4
-	trial 9: condition = M2, subtask = S4
-	trial 10: condition = M1, subtask = S2
-	trial 11: condition = M1, subtask = S2
-	trial 12: condition = M1, subtask = S2
-	trial 13: condition = M4, subtask = S5
-	trial 14: condition = M4, subtask = S5
-	trial 15: condition = M4, subtask = S5
-plan 13:
-	trial 1: condition = M1, subtask = S1
-	trial 2: condition = M1, subtask = S1
-	trial 3: condition = M1, subtask = S1
-	trial 4: condition = M2, subtask = S3
-	trial 5: condition = M2, subtask = S3
-	trial 6: condition = M2, subtask = S3
-	trial 7: condition = M4, subtask = S4
-	trial 8: condition = M4, subtask = S4
-	trial 9: condition = M4, subtask = S4
-	trial 10: condition = M3, subtask = S2
-	trial 11: condition = M3, subtask = S2
-	trial 12: condition = M3, subtask = S2
-	trial 13: condition = M5, subtask = S5
-	trial 14: condition = M5, subtask = S5
-	trial 15: condition = M5, subtask = S5
-plan 14:
-	trial 1: condition = M3, subtask = S1
-	trial 2: condition = M3, subtask = S1
-	trial 3: condition = M3, subtask = S1
-	trial 4: condition = M5, subtask = S3
-	trial 5: condition = M5, subtask = S3
-	trial 6: condition = M5, subtask = S3
-	trial 7: condition = M1, subtask = S4
-	trial 8: condition = M1, subtask = S4
-	trial 9: condition = M1, subtask = S4
-	trial 10: condition = M4, subtask = S2
-	trial 11: condition = M4, subtask = S2
-	trial 12: condition = M4, subtask = S2
-	trial 13: condition = M2, subtask = S5
-	trial 14: condition = M2, subtask = S5
-	trial 15: condition = M2, subtask = S5
-plan 15:
-	trial 1: condition = M4, subtask = S1
-	trial 2: condition = M4, subtask = S1
-	trial 3: condition = M4, subtask = S1
-	trial 4: condition = M1, subtask = S3
-	trial 5: condition = M1, subtask = S3
-	trial 6: condition = M1, subtask = S3
-	trial 7: condition = M5, subtask = S4
-	trial 8: condition = M5, subtask = S4
-	trial 9: condition = M5, subtask = S4
-	trial 10: condition = M2, subtask = S2
-	trial 11: condition = M2, subtask = S2
-	trial 12: condition = M2, subtask = S2
-	trial 13: condition = M3, subtask = S5
-	trial 14: condition = M3, subtask = S5
-	trial 15: condition = M3, subtask = S5
-plan 16:
-	trial 1: condition = M2, subtask = S3
-	trial 2: condition = M2, subtask = S3
-	trial 3: condition = M2, subtask = S3
-	trial 4: condition = M4, subtask = S5
-	trial 5: condition = M4, subtask = S5
-	trial 6: condition = M4, subtask = S5
-	trial 7: condition = M3, subtask = S2
-	trial 8: condition = M3, subtask = S2
-	trial 9: condition = M3, subtask = S2
-	trial 10: condition = M5, subtask = S4
-	trial 11: condition = M5, subtask = S4
-	trial 12: condition = M5, subtask = S4
-	trial 13: condition = M1, subtask = S1
-	trial 14: condition = M1, subtask = S1
-	trial 15: condition = M1, subtask = S1
-plan 17:
 	trial 1: condition = M5, subtask = S3
 	trial 2: condition = M5, subtask = S3
 	trial 3: condition = M5, subtask = S3
-	trial 4: condition = M3, subtask = S5
-	trial 5: condition = M3, subtask = S5
-	trial 6: condition = M3, subtask = S5
-	trial 7: condition = M2, subtask = S2
-	trial 8: condition = M2, subtask = S2
-	trial 9: condition = M2, subtask = S2
+	trial 4: condition = M4, subtask = S2
+	trial 5: condition = M4, subtask = S2
+	trial 6: condition = M4, subtask = S2
+	trial 7: condition = M2, subtask = S4
+	trial 8: condition = M2, subtask = S4
+	trial 9: condition = M2, subtask = S4
+	trial 10: condition = M3, subtask = S1
+	trial 11: condition = M3, subtask = S1
+	trial 12: condition = M3, subtask = S1
+	trial 13: condition = M1, subtask = S5
+	trial 14: condition = M1, subtask = S5
+	trial 15: condition = M1, subtask = S5
+plan 2:
+	trial 1: condition = M3, subtask = S3
+	trial 2: condition = M3, subtask = S3
+	trial 3: condition = M3, subtask = S3
+	trial 4: condition = M1, subtask = S2
+	trial 5: condition = M1, subtask = S2
+	trial 6: condition = M1, subtask = S2
+	trial 7: condition = M4, subtask = S4
+	trial 8: condition = M4, subtask = S4
+	trial 9: condition = M4, subtask = S4
+	trial 10: condition = M2, subtask = S1
+	trial 11: condition = M2, subtask = S1
+	trial 12: condition = M2, subtask = S1
+	trial 13: condition = M5, subtask = S5
+	trial 14: condition = M5, subtask = S5
+	trial 15: condition = M5, subtask = S5
+plan 3:
+	trial 1: condition = M4, subtask = S3
+	trial 2: condition = M4, subtask = S3
+	trial 3: condition = M4, subtask = S3
+	trial 4: condition = M3, subtask = S2
+	trial 5: condition = M3, subtask = S2
+	trial 6: condition = M3, subtask = S2
+	trial 7: condition = M1, subtask = S4
+	trial 8: condition = M1, subtask = S4
+	trial 9: condition = M1, subtask = S4
+	trial 10: condition = M5, subtask = S1
+	trial 11: condition = M5, subtask = S1
+	trial 12: condition = M5, subtask = S1
+	trial 13: condition = M2, subtask = S5
+	trial 14: condition = M2, subtask = S5
+	trial 15: condition = M2, subtask = S5
+plan 4:
+	trial 1: condition = M1, subtask = S3
+	trial 2: condition = M1, subtask = S3
+	trial 3: condition = M1, subtask = S3
+	trial 4: condition = M2, subtask = S2
+	trial 5: condition = M2, subtask = S2
+	trial 6: condition = M2, subtask = S2
+	trial 7: condition = M5, subtask = S4
+	trial 8: condition = M5, subtask = S4
+	trial 9: condition = M5, subtask = S4
+	trial 10: condition = M4, subtask = S1
+	trial 11: condition = M4, subtask = S1
+	trial 12: condition = M4, subtask = S1
+	trial 13: condition = M3, subtask = S5
+	trial 14: condition = M3, subtask = S5
+	trial 15: condition = M3, subtask = S5
+plan 5:
+	trial 1: condition = M2, subtask = S3
+	trial 2: condition = M2, subtask = S3
+	trial 3: condition = M2, subtask = S3
+	trial 4: condition = M5, subtask = S2
+	trial 5: condition = M5, subtask = S2
+	trial 6: condition = M5, subtask = S2
+	trial 7: condition = M3, subtask = S4
+	trial 8: condition = M3, subtask = S4
+	trial 9: condition = M3, subtask = S4
+	trial 10: condition = M1, subtask = S1
+	trial 11: condition = M1, subtask = S1
+	trial 12: condition = M1, subtask = S1
+	trial 13: condition = M4, subtask = S5
+	trial 14: condition = M4, subtask = S5
+	trial 15: condition = M4, subtask = S5
+plan 6:
+	trial 1: condition = M5, subtask = S4
+	trial 2: condition = M5, subtask = S4
+	trial 3: condition = M5, subtask = S4
+	trial 4: condition = M4, subtask = S1
+	trial 5: condition = M4, subtask = S1
+	trial 6: condition = M4, subtask = S1
+	trial 7: condition = M2, subtask = S3
+	trial 8: condition = M2, subtask = S3
+	trial 9: condition = M2, subtask = S3
+	trial 10: condition = M3, subtask = S5
+	trial 11: condition = M3, subtask = S5
+	trial 12: condition = M3, subtask = S5
+	trial 13: condition = M1, subtask = S2
+	trial 14: condition = M1, subtask = S2
+	trial 15: condition = M1, subtask = S2
+plan 7:
+	trial 1: condition = M3, subtask = S4
+	trial 2: condition = M3, subtask = S4
+	trial 3: condition = M3, subtask = S4
+	trial 4: condition = M1, subtask = S1
+	trial 5: condition = M1, subtask = S1
+	trial 6: condition = M1, subtask = S1
+	trial 7: condition = M4, subtask = S3
+	trial 8: condition = M4, subtask = S3
+	trial 9: condition = M4, subtask = S3
+	trial 10: condition = M2, subtask = S5
+	trial 11: condition = M2, subtask = S5
+	trial 12: condition = M2, subtask = S5
+	trial 13: condition = M5, subtask = S2
+	trial 14: condition = M5, subtask = S2
+	trial 15: condition = M5, subtask = S2
+plan 8:
+	trial 1: condition = M4, subtask = S4
+	trial 2: condition = M4, subtask = S4
+	trial 3: condition = M4, subtask = S4
+	trial 4: condition = M3, subtask = S1
+	trial 5: condition = M3, subtask = S1
+	trial 6: condition = M3, subtask = S1
+	trial 7: condition = M1, subtask = S3
+	trial 8: condition = M1, subtask = S3
+	trial 9: condition = M1, subtask = S3
+	trial 10: condition = M5, subtask = S5
+	trial 11: condition = M5, subtask = S5
+	trial 12: condition = M5, subtask = S5
+	trial 13: condition = M2, subtask = S2
+	trial 14: condition = M2, subtask = S2
+	trial 15: condition = M2, subtask = S2
+plan 9:
+	trial 1: condition = M1, subtask = S4
+	trial 2: condition = M1, subtask = S4
+	trial 3: condition = M1, subtask = S4
+	trial 4: condition = M2, subtask = S1
+	trial 5: condition = M2, subtask = S1
+	trial 6: condition = M2, subtask = S1
+	trial 7: condition = M5, subtask = S3
+	trial 8: condition = M5, subtask = S3
+	trial 9: condition = M5, subtask = S3
+	trial 10: condition = M4, subtask = S5
+	trial 11: condition = M4, subtask = S5
+	trial 12: condition = M4, subtask = S5
+	trial 13: condition = M3, subtask = S2
+	trial 14: condition = M3, subtask = S2
+	trial 15: condition = M3, subtask = S2
+plan 10:
+	trial 1: condition = M2, subtask = S4
+	trial 2: condition = M2, subtask = S4
+	trial 3: condition = M2, subtask = S4
+	trial 4: condition = M5, subtask = S1
+	trial 5: condition = M5, subtask = S1
+	trial 6: condition = M5, subtask = S1
+	trial 7: condition = M3, subtask = S3
+	trial 8: condition = M3, subtask = S3
+	trial 9: condition = M3, subtask = S3
+	trial 10: condition = M1, subtask = S5
+	trial 11: condition = M1, subtask = S5
+	trial 12: condition = M1, subtask = S5
+	trial 13: condition = M4, subtask = S2
+	trial 14: condition = M4, subtask = S2
+	trial 15: condition = M4, subtask = S2
+plan 11:
+	trial 1: condition = M5, subtask = S2
+	trial 2: condition = M5, subtask = S2
+	trial 3: condition = M5, subtask = S2
+	trial 4: condition = M4, subtask = S3
+	trial 5: condition = M4, subtask = S3
+	trial 6: condition = M4, subtask = S3
+	trial 7: condition = M2, subtask = S5
+	trial 8: condition = M2, subtask = S5
+	trial 9: condition = M2, subtask = S5
+	trial 10: condition = M3, subtask = S4
+	trial 11: condition = M3, subtask = S4
+	trial 12: condition = M3, subtask = S4
+	trial 13: condition = M1, subtask = S1
+	trial 14: condition = M1, subtask = S1
+	trial 15: condition = M1, subtask = S1
+plan 12:
+	trial 1: condition = M3, subtask = S2
+	trial 2: condition = M3, subtask = S2
+	trial 3: condition = M3, subtask = S2
+	trial 4: condition = M1, subtask = S3
+	trial 5: condition = M1, subtask = S3
+	trial 6: condition = M1, subtask = S3
+	trial 7: condition = M4, subtask = S5
+	trial 8: condition = M4, subtask = S5
+	trial 9: condition = M4, subtask = S5
+	trial 10: condition = M2, subtask = S4
+	trial 11: condition = M2, subtask = S4
+	trial 12: condition = M2, subtask = S4
+	trial 13: condition = M5, subtask = S1
+	trial 14: condition = M5, subtask = S1
+	trial 15: condition = M5, subtask = S1
+plan 13:
+	trial 1: condition = M4, subtask = S2
+	trial 2: condition = M4, subtask = S2
+	trial 3: condition = M4, subtask = S2
+	trial 4: condition = M3, subtask = S3
+	trial 5: condition = M3, subtask = S3
+	trial 6: condition = M3, subtask = S3
+	trial 7: condition = M1, subtask = S5
+	trial 8: condition = M1, subtask = S5
+	trial 9: condition = M1, subtask = S5
+	trial 10: condition = M5, subtask = S4
+	trial 11: condition = M5, subtask = S4
+	trial 12: condition = M5, subtask = S4
+	trial 13: condition = M2, subtask = S1
+	trial 14: condition = M2, subtask = S1
+	trial 15: condition = M2, subtask = S1
+plan 14:
+	trial 1: condition = M1, subtask = S2
+	trial 2: condition = M1, subtask = S2
+	trial 3: condition = M1, subtask = S2
+	trial 4: condition = M2, subtask = S3
+	trial 5: condition = M2, subtask = S3
+	trial 6: condition = M2, subtask = S3
+	trial 7: condition = M5, subtask = S5
+	trial 8: condition = M5, subtask = S5
+	trial 9: condition = M5, subtask = S5
+	trial 10: condition = M4, subtask = S4
+	trial 11: condition = M4, subtask = S4
+	trial 12: condition = M4, subtask = S4
+	trial 13: condition = M3, subtask = S1
+	trial 14: condition = M3, subtask = S1
+	trial 15: condition = M3, subtask = S1
+plan 15:
+	trial 1: condition = M2, subtask = S2
+	trial 2: condition = M2, subtask = S2
+	trial 3: condition = M2, subtask = S2
+	trial 4: condition = M5, subtask = S3
+	trial 5: condition = M5, subtask = S3
+	trial 6: condition = M5, subtask = S3
+	trial 7: condition = M3, subtask = S5
+	trial 8: condition = M3, subtask = S5
+	trial 9: condition = M3, subtask = S5
 	trial 10: condition = M1, subtask = S4
 	trial 11: condition = M1, subtask = S4
 	trial 12: condition = M1, subtask = S4
 	trial 13: condition = M4, subtask = S1
 	trial 14: condition = M4, subtask = S1
 	trial 15: condition = M4, subtask = S1
-plan 18:
-	trial 1: condition = M1, subtask = S3
-	trial 2: condition = M1, subtask = S3
-	trial 3: condition = M1, subtask = S3
-	trial 4: condition = M2, subtask = S5
-	trial 5: condition = M2, subtask = S5
-	trial 6: condition = M2, subtask = S5
-	trial 7: condition = M4, subtask = S2
-	trial 8: condition = M4, subtask = S2
-	trial 9: condition = M4, subtask = S2
-	trial 10: condition = M3, subtask = S4
-	trial 11: condition = M3, subtask = S4
-	trial 12: condition = M3, subtask = S4
-	trial 13: condition = M5, subtask = S1
-	trial 14: condition = M5, subtask = S1
-	trial 15: condition = M5, subtask = S1
-plan 19:
-	trial 1: condition = M3, subtask = S3
-	trial 2: condition = M3, subtask = S3
-	trial 3: condition = M3, subtask = S3
-	trial 4: condition = M5, subtask = S5
-	trial 5: condition = M5, subtask = S5
-	trial 6: condition = M5, subtask = S5
-	trial 7: condition = M1, subtask = S2
-	trial 8: condition = M1, subtask = S2
-	trial 9: condition = M1, subtask = S2
-	trial 10: condition = M4, subtask = S4
-	trial 11: condition = M4, subtask = S4
-	trial 12: condition = M4, subtask = S4
-	trial 13: condition = M2, subtask = S1
-	trial 14: condition = M2, subtask = S1
-	trial 15: condition = M2, subtask = S1
-plan 20:
-	trial 1: condition = M4, subtask = S3
-	trial 2: condition = M4, subtask = S3
-	trial 3: condition = M4, subtask = S3
+plan 16:
+	trial 1: condition = M5, subtask = S1
+	trial 2: condition = M5, subtask = S1
+	trial 3: condition = M5, subtask = S1
+	trial 4: condition = M4, subtask = S5
+	trial 5: condition = M4, subtask = S5
+	trial 6: condition = M4, subtask = S5
+	trial 7: condition = M2, subtask = S2
+	trial 8: condition = M2, subtask = S2
+	trial 9: condition = M2, subtask = S2
+	trial 10: condition = M3, subtask = S3
+	trial 11: condition = M3, subtask = S3
+	trial 12: condition = M3, subtask = S3
+	trial 13: condition = M1, subtask = S4
+	trial 14: condition = M1, subtask = S4
+	trial 15: condition = M1, subtask = S4
+plan 17:
+	trial 1: condition = M3, subtask = S1
+	trial 2: condition = M3, subtask = S1
+	trial 3: condition = M3, subtask = S1
 	trial 4: condition = M1, subtask = S5
 	trial 5: condition = M1, subtask = S5
 	trial 6: condition = M1, subtask = S5
+	trial 7: condition = M4, subtask = S2
+	trial 8: condition = M4, subtask = S2
+	trial 9: condition = M4, subtask = S2
+	trial 10: condition = M2, subtask = S3
+	trial 11: condition = M2, subtask = S3
+	trial 12: condition = M2, subtask = S3
+	trial 13: condition = M5, subtask = S4
+	trial 14: condition = M5, subtask = S4
+	trial 15: condition = M5, subtask = S4
+plan 18:
+	trial 1: condition = M4, subtask = S1
+	trial 2: condition = M4, subtask = S1
+	trial 3: condition = M4, subtask = S1
+	trial 4: condition = M3, subtask = S5
+	trial 5: condition = M3, subtask = S5
+	trial 6: condition = M3, subtask = S5
+	trial 7: condition = M1, subtask = S2
+	trial 8: condition = M1, subtask = S2
+	trial 9: condition = M1, subtask = S2
+	trial 10: condition = M5, subtask = S3
+	trial 11: condition = M5, subtask = S3
+	trial 12: condition = M5, subtask = S3
+	trial 13: condition = M2, subtask = S4
+	trial 14: condition = M2, subtask = S4
+	trial 15: condition = M2, subtask = S4
+plan 19:
+	trial 1: condition = M1, subtask = S1
+	trial 2: condition = M1, subtask = S1
+	trial 3: condition = M1, subtask = S1
+	trial 4: condition = M2, subtask = S5
+	trial 5: condition = M2, subtask = S5
+	trial 6: condition = M2, subtask = S5
 	trial 7: condition = M5, subtask = S2
 	trial 8: condition = M5, subtask = S2
 	trial 9: condition = M5, subtask = S2
-	trial 10: condition = M2, subtask = S4
-	trial 11: condition = M2, subtask = S4
-	trial 12: condition = M2, subtask = S4
-	trial 13: condition = M3, subtask = S1
-	trial 14: condition = M3, subtask = S1
-	trial 15: condition = M3, subtask = S1
+	trial 10: condition = M4, subtask = S3
+	trial 11: condition = M4, subtask = S3
+	trial 12: condition = M4, subtask = S3
+	trial 13: condition = M3, subtask = S4
+	trial 14: condition = M3, subtask = S4
+	trial 15: condition = M3, subtask = S4
+plan 20:
+	trial 1: condition = M2, subtask = S1
+	trial 2: condition = M2, subtask = S1
+	trial 3: condition = M2, subtask = S1
+	trial 4: condition = M5, subtask = S5
+	trial 5: condition = M5, subtask = S5
+	trial 6: condition = M5, subtask = S5
+	trial 7: condition = M3, subtask = S2
+	trial 8: condition = M3, subtask = S2
+	trial 9: condition = M3, subtask = S2
+	trial 10: condition = M1, subtask = S3
+	trial 11: condition = M1, subtask = S3
+	trial 12: condition = M1, subtask = S3
+	trial 13: condition = M4, subtask = S4
+	trial 14: condition = M4, subtask = S4
+	trial 15: condition = M4, subtask = S4
 plan 21:
-	trial 1: condition = M2, subtask = S5
-	trial 2: condition = M2, subtask = S5
-	trial 3: condition = M2, subtask = S5
-	trial 4: condition = M4, subtask = S4
-	trial 5: condition = M4, subtask = S4
-	trial 6: condition = M4, subtask = S4
-	trial 7: condition = M3, subtask = S3
-	trial 8: condition = M3, subtask = S3
-	trial 9: condition = M3, subtask = S3
-	trial 10: condition = M5, subtask = S1
-	trial 11: condition = M5, subtask = S1
-	trial 12: condition = M5, subtask = S1
-	trial 13: condition = M1, subtask = S2
-	trial 14: condition = M1, subtask = S2
-	trial 15: condition = M1, subtask = S2
-plan 22:
 	trial 1: condition = M5, subtask = S5
 	trial 2: condition = M5, subtask = S5
 	trial 3: condition = M5, subtask = S5
+	trial 4: condition = M4, subtask = S4
+	trial 5: condition = M4, subtask = S4
+	trial 6: condition = M4, subtask = S4
+	trial 7: condition = M2, subtask = S1
+	trial 8: condition = M2, subtask = S1
+	trial 9: condition = M2, subtask = S1
+	trial 10: condition = M3, subtask = S2
+	trial 11: condition = M3, subtask = S2
+	trial 12: condition = M3, subtask = S2
+	trial 13: condition = M1, subtask = S3
+	trial 14: condition = M1, subtask = S3
+	trial 15: condition = M1, subtask = S3
+plan 22:
+	trial 1: condition = M3, subtask = S5
+	trial 2: condition = M3, subtask = S5
+	trial 3: condition = M3, subtask = S5
+	trial 4: condition = M1, subtask = S4
+	trial 5: condition = M1, subtask = S4
+	trial 6: condition = M1, subtask = S4
+	trial 7: condition = M4, subtask = S1
+	trial 8: condition = M4, subtask = S1
+	trial 9: condition = M4, subtask = S1
+	trial 10: condition = M2, subtask = S2
+	trial 11: condition = M2, subtask = S2
+	trial 12: condition = M2, subtask = S2
+	trial 13: condition = M5, subtask = S3
+	trial 14: condition = M5, subtask = S3
+	trial 15: condition = M5, subtask = S3
+plan 23:
+	trial 1: condition = M4, subtask = S5
+	trial 2: condition = M4, subtask = S5
+	trial 3: condition = M4, subtask = S5
 	trial 4: condition = M3, subtask = S4
 	trial 5: condition = M3, subtask = S4
 	trial 6: condition = M3, subtask = S4
-	trial 7: condition = M2, subtask = S3
-	trial 8: condition = M2, subtask = S3
-	trial 9: condition = M2, subtask = S3
-	trial 10: condition = M1, subtask = S1
-	trial 11: condition = M1, subtask = S1
-	trial 12: condition = M1, subtask = S1
-	trial 13: condition = M4, subtask = S2
-	trial 14: condition = M4, subtask = S2
-	trial 15: condition = M4, subtask = S2
-plan 23:
+	trial 7: condition = M1, subtask = S1
+	trial 8: condition = M1, subtask = S1
+	trial 9: condition = M1, subtask = S1
+	trial 10: condition = M5, subtask = S2
+	trial 11: condition = M5, subtask = S2
+	trial 12: condition = M5, subtask = S2
+	trial 13: condition = M2, subtask = S3
+	trial 14: condition = M2, subtask = S3
+	trial 15: condition = M2, subtask = S3
+plan 24:
 	trial 1: condition = M1, subtask = S5
 	trial 2: condition = M1, subtask = S5
 	trial 3: condition = M1, subtask = S5
 	trial 4: condition = M2, subtask = S4
 	trial 5: condition = M2, subtask = S4
 	trial 6: condition = M2, subtask = S4
-	trial 7: condition = M4, subtask = S3
-	trial 8: condition = M4, subtask = S3
-	trial 9: condition = M4, subtask = S3
-	trial 10: condition = M3, subtask = S1
-	trial 11: condition = M3, subtask = S1
-	trial 12: condition = M3, subtask = S1
-	trial 13: condition = M5, subtask = S2
-	trial 14: condition = M5, subtask = S2
-	trial 15: condition = M5, subtask = S2
-plan 24:
-	trial 1: condition = M3, subtask = S5
-	trial 2: condition = M3, subtask = S5
-	trial 3: condition = M3, subtask = S5
+	trial 7: condition = M5, subtask = S1
+	trial 8: condition = M5, subtask = S1
+	trial 9: condition = M5, subtask = S1
+	trial 10: condition = M4, subtask = S2
+	trial 11: condition = M4, subtask = S2
+	trial 12: condition = M4, subtask = S2
+	trial 13: condition = M3, subtask = S3
+	trial 14: condition = M3, subtask = S3
+	trial 15: condition = M3, subtask = S3
+plan 25:
+	trial 1: condition = M2, subtask = S5
+	trial 2: condition = M2, subtask = S5
+	trial 3: condition = M2, subtask = S5
 	trial 4: condition = M5, subtask = S4
 	trial 5: condition = M5, subtask = S4
 	trial 6: condition = M5, subtask = S4
-	trial 7: condition = M1, subtask = S3
-	trial 8: condition = M1, subtask = S3
-	trial 9: condition = M1, subtask = S3
-	trial 10: condition = M4, subtask = S1
-	trial 11: condition = M4, subtask = S1
-	trial 12: condition = M4, subtask = S1
-	trial 13: condition = M2, subtask = S2
-	trial 14: condition = M2, subtask = S2
-	trial 15: condition = M2, subtask = S2
-plan 25:
-	trial 1: condition = M4, subtask = S5
-	trial 2: condition = M4, subtask = S5
-	trial 3: condition = M4, subtask = S5
-	trial 4: condition = M1, subtask = S4
-	trial 5: condition = M1, subtask = S4
-	trial 6: condition = M1, subtask = S4
-	trial 7: condition = M5, subtask = S3
-	trial 8: condition = M5, subtask = S3
-	trial 9: condition = M5, subtask = S3
-	trial 10: condition = M2, subtask = S1
-	trial 11: condition = M2, subtask = S1
-	trial 12: condition = M2, subtask = S1
-	trial 13: condition = M3, subtask = S2
-	trial 14: condition = M3, subtask = S2
-	trial 15: condition = M3, subtask = S2
+	trial 7: condition = M3, subtask = S1
+	trial 8: condition = M3, subtask = S1
+	trial 9: condition = M3, subtask = S1
+	trial 10: condition = M1, subtask = S2
+	trial 11: condition = M1, subtask = S2
+	trial 12: condition = M1, subtask = S2
+	trial 13: condition = M4, subtask = S3
+	trial 14: condition = M4, subtask = S3
+	trial 15: condition = M4, subtask = S3
  
 
 ***ASSIGNMENT***
 
     pid  plan
-0     1    19
-1     2    15
-2     3     8
+0     1    14
+1     2     9
+2     3    16
 3     4    24
-4     5    10
-5     6     4
-6     7    20
-7     8    17
-8     9    16
-9    10    23
-10   11     3
-11   12     6
-12   13    18
-13   14     7
-14   15     5
-15   16     9
+4     5     5
+5     6    22
+6     7    23
+7     8    10
+8     9    19
+9    10    13
+10   11    12
+11   12     4
+12   13     6
+13   14     0
+14   15    17
+15   16     3

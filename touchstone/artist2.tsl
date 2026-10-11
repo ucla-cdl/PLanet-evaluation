@@ -1,2 +1,1 @@
-< Latin(Device = {M1, M2, M3, M4, M5}, 1)
-x Latin(Subtask = {S1, S2, S3, S4, S5}, 1) >
+< Latin(Device = {M1, M2, M3, M4, M5}, 1) x Serial(Latin(Subtask = {S1, S2, S3, S4, S5}, 3)) >

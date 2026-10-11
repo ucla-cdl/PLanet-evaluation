@@ -1,35 +1,211 @@
 ***EXPERIMENT PLANS***
 
 plan 1:
-	trial 1: shape = small
-	trial 2: shape = horizontal
-	trial 3: shape = large
-	trial 4: shape = vertical
-	trial 5: shape = triangle
-	trial 6: shape = small
+	trial 1: shape = triangle
+	trial 2: shape = small
+	trial 3: shape = vertical
+	trial 4: shape = horizontal
+	trial 5: shape = large
+	trial 6: shape = triangle
 	trial 7: shape = horizontal
+	trial 8: shape = small
+	trial 9: shape = large
+	trial 10: shape = vertical
+	trial 11: shape = large
+	trial 12: shape = triangle
+	trial 13: shape = small
+	trial 14: shape = horizontal
+	trial 15: shape = vertical
+plan 2:
+	trial 1: shape = small
+	trial 2: shape = triangle
+	trial 3: shape = vertical
+	trial 4: shape = horizontal
+	trial 5: shape = large
+	trial 6: shape = small
+	trial 7: shape = vertical
+	trial 8: shape = large
+	trial 9: shape = horizontal
+	trial 10: shape = triangle
+	trial 11: shape = vertical
+	trial 12: shape = small
+	trial 13: shape = large
+	trial 14: shape = horizontal
+	trial 15: shape = triangle
+plan 3:
+	trial 1: shape = large
+	trial 2: shape = horizontal
+	trial 3: shape = small
+	trial 4: shape = triangle
+	trial 5: shape = vertical
+	trial 6: shape = triangle
+	trial 7: shape = horizontal
+	trial 8: shape = small
+	trial 9: shape = vertical
+	trial 10: shape = large
+	trial 11: shape = horizontal
+	trial 12: shape = triangle
+	trial 13: shape = vertical
+	trial 14: shape = small
+	trial 15: shape = large
+plan 4:
+	trial 1: shape = horizontal
+	trial 2: shape = small
+	trial 3: shape = vertical
+	trial 4: shape = large
+	trial 5: shape = triangle
+	trial 6: shape = horizontal
+	trial 7: shape = large
+	trial 8: shape = triangle
+	trial 9: shape = small
+	trial 10: shape = vertical
+	trial 11: shape = horizontal
+	trial 12: shape = large
+	trial 13: shape = triangle
+	trial 14: shape = vertical
+	trial 15: shape = small
+plan 5:
+	trial 1: shape = vertical
+	trial 2: shape = horizontal
+	trial 3: shape = small
+	trial 4: shape = triangle
+	trial 5: shape = large
+	trial 6: shape = small
+	trial 7: shape = triangle
 	trial 8: shape = large
 	trial 9: shape = vertical
-	trial 10: shape = triangle
+	trial 10: shape = horizontal
+	trial 11: shape = small
+	trial 12: shape = large
+	trial 13: shape = vertical
+	trial 14: shape = triangle
+	trial 15: shape = horizontal
+plan 6:
+	trial 1: shape = large
+	trial 2: shape = horizontal
+	trial 3: shape = vertical
+	trial 4: shape = small
+	trial 5: shape = triangle
+	trial 6: shape = small
+	trial 7: shape = vertical
+	trial 8: shape = triangle
+	trial 9: shape = horizontal
+	trial 10: shape = large
+	trial 11: shape = triangle
+	trial 12: shape = large
+	trial 13: shape = vertical
+	trial 14: shape = horizontal
+	trial 15: shape = small
+plan 7:
+	trial 1: shape = triangle
+	trial 2: shape = vertical
+	trial 3: shape = small
+	trial 4: shape = large
+	trial 5: shape = horizontal
+	trial 6: shape = small
+	trial 7: shape = large
+	trial 8: shape = vertical
+	trial 9: shape = triangle
+	trial 10: shape = horizontal
+	trial 11: shape = triangle
+	trial 12: shape = small
+	trial 13: shape = vertical
+	trial 14: shape = large
+	trial 15: shape = horizontal
+plan 8:
+	trial 1: shape = horizontal
+	trial 2: shape = vertical
+	trial 3: shape = triangle
+	trial 4: shape = large
+	trial 5: shape = small
+	trial 6: shape = triangle
+	trial 7: shape = vertical
+	trial 8: shape = horizontal
+	trial 9: shape = large
+	trial 10: shape = small
+	trial 11: shape = small
+	trial 12: shape = vertical
+	trial 13: shape = horizontal
+	trial 14: shape = triangle
+	trial 15: shape = large
+plan 9:
+	trial 1: shape = horizontal
+	trial 2: shape = triangle
+	trial 3: shape = vertical
+	trial 4: shape = small
+	trial 5: shape = large
+	trial 6: shape = vertical
+	trial 7: shape = horizontal
+	trial 8: shape = large
+	trial 9: shape = triangle
+	trial 10: shape = small
+	trial 11: shape = vertical
+	trial 12: shape = horizontal
+	trial 13: shape = triangle
+	trial 14: shape = large
+	trial 15: shape = small
+plan 10:
+	trial 1: shape = vertical
+	trial 2: shape = large
+	trial 3: shape = horizontal
+	trial 4: shape = small
+	trial 5: shape = triangle
+	trial 6: shape = horizontal
+	trial 7: shape = large
+	trial 8: shape = triangle
+	trial 9: shape = vertical
+	trial 10: shape = small
+	trial 11: shape = horizontal
+	trial 12: shape = large
+	trial 13: shape = small
+	trial 14: shape = triangle
+	trial 15: shape = vertical
+plan 11:
+	trial 1: shape = large
+	trial 2: shape = triangle
+	trial 3: shape = horizontal
+	trial 4: shape = small
+	trial 5: shape = vertical
+	trial 6: shape = triangle
+	trial 7: shape = large
+	trial 8: shape = horizontal
+	trial 9: shape = small
+	trial 10: shape = vertical
 	trial 11: shape = small
 	trial 12: shape = horizontal
+	trial 13: shape = vertical
+	trial 14: shape = triangle
+	trial 15: shape = large
+plan 12:
+	trial 1: shape = vertical
+	trial 2: shape = large
+	trial 3: shape = small
+	trial 4: shape = triangle
+	trial 5: shape = horizontal
+	trial 6: shape = small
+	trial 7: shape = triangle
+	trial 8: shape = large
+	trial 9: shape = horizontal
+	trial 10: shape = vertical
+	trial 11: shape = triangle
+	trial 12: shape = vertical
 	trial 13: shape = large
-	trial 14: shape = vertical
-	trial 15: shape = triangle
+	trial 14: shape = horizontal
+	trial 15: shape = small
  
 
 ***ASSIGNMENT***
 
     pid  plan
-0     1     0
-1     2     0
-2     3     0
-3     4     0
-4     5     0
-5     6     0
+0     1     1
+1     2     4
+2     3     5
+3     4     2
+4     5     6
+5     6     9
 6     7     0
-7     8     0
-8     9     0
-9    10     0
-10   11     0
-11   12     0
+7     8     8
+8     9    11
+9    10    10
+10   11     7
+11   12     3

@@ -1,35 +1,35 @@
 ***EXPERIMENT PLANS***
 
 plan 1:
-	trial 1: task = coffee, condition = ARTiST
-	trial 2: task = room, condition = baseline
-plan 2:
-	trial 1: task = room, condition = ARTiST
-	trial 2: task = coffee, condition = baseline
-plan 3:
-	trial 1: task = coffee, condition = baseline
-	trial 2: task = room, condition = ARTiST
-plan 4:
 	trial 1: task = room, condition = baseline
 	trial 2: task = coffee, condition = ARTiST
+plan 2:
+	trial 1: task = coffee, condition = baseline
+	trial 2: task = room, condition = ARTiST
+plan 3:
+	trial 1: task = room, condition = ARTiST
+	trial 2: task = coffee, condition = baseline
+plan 4:
+	trial 1: task = coffee, condition = ARTiST
+	trial 2: task = room, condition = baseline
  
 
 ***ASSIGNMENT***
 
     pid  plan
 0     1     0
-1     2     0
-2     3     1
-3     4     3
+1     2     1
+2     3     3
+3     4     0
 4     5     2
-5     6     1
-6     7     1
+5     6     0
+6     7     3
 7     8     3
 8     9     1
-9    10     0
+9    10     1
 10   11     2
-11   12     3
+11   12     0
 12   13     2
 13   14     3
-14   15     0
-15   16     2
+14   15     2
+15   16     1

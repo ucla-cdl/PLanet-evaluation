@@ -1,30 +1,23 @@
 #!/bin/bash
-# Define the directory containing the files
-INPUT_DIR="./planet"
+# Run every PLanet program in ./Planet and store its printed output in
+# ./Planet/outputs/<program>.out, reporting the wall time of each run.
+#
+# Usage:  PYTHON=/path/to/python ./collect_program_output.sh
+# PYTHON must be able to `import planet` (e.g. a virtualenv with planet-lang
+# installed, or set PYTHONPATH=<planet-lang>/src). Defaults to python3.
+PYTHON="${PYTHON:-python3}"
+INPUT_DIR="./Planet"
+OUTPUT_DIR="./Planet/outputs"
 
-# Define the directory where output files will be saved
-OUTPUT_DIR="./planet/outputs"
-
+mkdir -p "$OUTPUT_DIR"
 rm -f "$OUTPUT_DIR"/*.out
 
-# Loop through each file in the input directory
-for file in "$INPUT_DIR"/*; do
+for file in "$INPUT_DIR"/*.py; do
   filename=$(basename "$file")
-  echo $(basename "$file")
-  # Check if it's a regular file (to avoid processing subdirectories if any)
-  if [ -f "$file" ]; then
-    # Extract the filename without the path
-    filename=$(basename "$file")
-
-    # Define the output file path
-    output_file="$OUTPUT_DIR/${filename}.out" # You can adjust the extension
-
-    start_time=$(date +%s%N)
-    # Run your command/script on the file and redirect its output to the output file
-    /Users/londonbielicke/Documents/projects/ucla/PLanet/experimental-design-dsl/venv/bin/python3.11  "$file" > "$output_file"
-    end_time=$(date +%s%N)
-    duration_ns=$((end_time - start_time))
-    duration_ms=$((duration_ns / 1000000))
-    echo "program executed in $duration_ms miliseconds."
-  fi
+  output_file="$OUTPUT_DIR/${filename}.out"
+  start_time=$(date +%s)
+  "$PYTHON" "$file" > "$output_file"
+  status=$?
+  end_time=$(date +%s)
+  echo "$filename: exit $status, $((end_time - start_time)) s"
 done
